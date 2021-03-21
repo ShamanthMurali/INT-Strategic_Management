@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T20:06:28.672Z" agent="5.0 (X11)" etag="QsxgQ5D2XW_aHjMLpnEA" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T20:23:33.629Z" agent="5.0 (X11)" etag="jMrOMlp9CzzSvXxStWJa" version="14.4.9" type="github">
   <diagram id="aPF2Uqe94l2jQlx4YdzR" name="Page-1">
     <mxGraphModel dx="2315" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="930" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-5" value="&lt;div&gt;&lt;span&gt;Strategic Management in&amp;nbsp;&lt;/span&gt;&lt;span&gt;Government and Not-for-&amp;nbsp;&lt;/span&gt;&lt;span&gt;profit Organisations&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="65" width="120" height="90" as="geometry" />
+          <mxGeometry x="1300" y="80" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-6" target="ozwtXjb6BCXLv9ZV3KOb-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
