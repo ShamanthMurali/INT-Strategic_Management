@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:34:40.050Z" agent="5.0 (X11)" etag="2t92Ih4LpCWL6PNZnlVc" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T14:51:00.093Z" agent="5.0 (X11)" etag="IPsTG6QrUmt5vq-5OFD7" version="14.4.9" type="github">
   <diagram id="aPF2Uqe94l2jQlx4YdzR" name="Page-1">
-    <mxGraphModel dx="2090" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,22 +38,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-3" value="&lt;div&gt;&lt;span&gt;Strategic Management&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ozwtXjb6BCXLv9ZV3KOb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-4" target="ozwtXjb6BCXLv9ZV3KOb-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ozwtXjb6BCXLv9ZV3KOb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-4" target="ozwtXjb6BCXLv9ZV3KOb-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ozwtXjb6BCXLv9ZV3KOb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-4" target="ozwtXjb6BCXLv9ZV3KOb-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="370" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-4" value="&lt;div&gt;&lt;span&gt;Strategic Levels in&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Organisations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-5" value="&lt;div&gt;&lt;span&gt;Strategic Management in&amp;nbsp;&lt;/span&gt;&lt;span&gt;Government and Not-for-&amp;nbsp;&lt;/span&gt;&lt;span&gt;profit Organisations&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="80" width="120" height="90" as="geometry" />
+          <mxGeometry x="1220" y="80" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-6" target="ozwtXjb6BCXLv9ZV3KOb-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -67,20 +58,32 @@
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-7" value="Business Policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8jsmhmeM0UepuJ0Ll7fv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-8" target="8jsmhmeM0UepuJ0Ll7fv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-8" value="&lt;div&gt;&lt;span&gt;Importance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="225" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsmhmeM0UepuJ0Ll7fv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-10" target="8jsmhmeM0UepuJ0Ll7fv-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-10" value="&lt;div&gt;limitaitons&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsmhmeM0UepuJ0Ll7fv-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-11" target="ozwtXjb6BCXLv9ZV3KOb-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-11" value="&lt;div&gt;Funtional level&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsmhmeM0UepuJ0Ll7fv-11" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ozwtXjb6BCXLv9ZV3KOb-12" target="ozwtXjb6BCXLv9ZV3KOb-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-12" value="Business level" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-13" value="corporate level" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-25" value="Business policies are the guidelines developed by an organization to govern its actions. They define the limits within which decisions must be made." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-720" y="140" width="280" height="40" as="geometry" />
@@ -120,6 +123,12 @@
         </mxCell>
         <mxCell id="ozwtXjb6BCXLv9ZV3KOb-37" value="adaptive reaction to changing circumstances." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-50" y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsmhmeM0UepuJ0Ll7fv-1" value="1. Defines the goals and mission.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Helps the organization to develop certain core competencies and competitive advantages&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Helps organizations to be proactive instead of reactive in shaping its future.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Provides framework for all major decisions of an enterprise.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Prepares the organisation to face the future.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Serves as a corporate defense mechanism against mistakes and pitfalls.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Enhance the longevity of the business.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="220" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsmhmeM0UepuJ0Ll7fv-3" value="1. Environment is highly complex and turbulent. It is&lt;br&gt;difficult to understand the complex environment and&lt;br&gt;&lt;div&gt;exactly pinpoint how it will shape-up in future.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Strategic management is a time-consuming process.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Strategic management is a costly process. It add lot of expenses to an organization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.Competition is unpredictable. It is difficult to clearly estimate the competitive responses to a firm’s strategies.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="280" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
