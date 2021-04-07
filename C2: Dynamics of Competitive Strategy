@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T15:33:08.632Z" agent="5.0 (X11)" version="14.5.7" etag="gTiYJFJBDmZ0KpN3fpsP" type="github"><diagram id="OxiS7HQigqw9MGaQPDIi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-07T15:35:03.560Z" agent="5.0 (X11)" etag="g6WiuPeHZakyKUmhN1-D" version="14.5.7" type="github">
+  <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
+    <mxGraphModel dx="1240" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-1" value="Competitive Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
