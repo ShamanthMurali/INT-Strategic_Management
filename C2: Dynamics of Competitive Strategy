@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T17:51:04.992Z" agent="5.0 (X11)" etag="FgTzJBkspnNX4jIrL9Qy" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T18:01:27.997Z" agent="5.0 (X11)" etag="WKgsl6VaoFVMe1ouGshy" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1559" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -325,48 +325,20 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-124" value="not only having them, Core competence must be applicable to the whole organization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-136" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-137" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-131">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-138" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="500" />
-              <mxPoint x="630" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-139" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-130">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="500" />
-              <mxPoint x="70" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-126" value="How to build Core Competencies (CC)?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-130" value="Valuable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-131" value="&lt;div&gt;Non-substitutable&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(e.g. apples ecosystem)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-132" value="Rare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-133" value="Costly&amp;nbsp; to&amp;nbsp; imitate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="530" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-134" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
