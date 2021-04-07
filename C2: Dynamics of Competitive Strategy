@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T20:07:05.538Z" agent="5.0 (X11)" etag="CNR9XbGrcyYPqa446xTQ" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T20:07:12.002Z" agent="5.0 (X11)" etag="l9S6BjHZDmNHapD_MnPD" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1705" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -813,6 +813,9 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-269" value="&lt;div&gt;• Portfolio analysis can be defined as a set of techniques that help strategists in taking strategic decisions with regard to individual products or businesses in a firm’s portfolio.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• It is primarily used for competitive analysis and corporate strategic&amp;nbsp; planning in multi-product and multi business firms. It is primarily used for competitive analysis and corporate strategic planning in multi-product and multi business firms." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="1010" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-271" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
