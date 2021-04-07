@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T20:21:45.162Z" agent="5.0 (X11)" etag="5xepiG5okqJUcRJHMlaw" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T20:32:01.555Z" agent="5.0 (X11)" etag="y6932XyaqoVhsZV1xYXG" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
-    <mxGraphModel dx="2621" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,11 +940,80 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-302" value="sales and profits fall down sharply due to&lt;br&gt;some new product replaces the existing product." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1420" width="160" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-313" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-304" target="2-Skqq9jJ75yhQD4SqxQ-312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-304" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Boston Consulting Matrix &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;(BCG) Growth Share Matrix&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1600" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-312" target="2-Skqq9jJ75yhQD4SqxQ-327">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1810" />
+              <mxPoint x="450" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-312" target="2-Skqq9jJ75yhQD4SqxQ-325">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1920" />
+              <mxPoint x="450" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-312" target="2-Skqq9jJ75yhQD4SqxQ-329">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1810" />
+              <mxPoint x="830" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-312" target="2-Skqq9jJ75yhQD4SqxQ-332">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1920" />
+              <mxPoint x="830" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-312" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i2.wp.com/www.business-to-you.com/wp-content/uploads/2020/02/BCG-Matrix.png?ssl=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1680" width="520" height="500" as="geometry" />
+          <mxGeometry x="458" y="1660" width="364" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-325" value="Cash cows" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="300" y="1900" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-326" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-325">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-327" value="Stars" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="300" y="1790" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="1790" width="500" height="350" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-328" value="• best products/services in the product portfolio of any company.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• both market share as well as growth rate is high.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• can immediately be overtaken by another company&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;•a Star can become a cash cow in the long run.&lt;div&gt;&lt;br&gt;&lt;/div&gt;• They also need heavy investment to maintain their position and finance their rapid growth potential.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• They represent best opportunities for expansion.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Strategies for Stars:&lt;/b&gt;&lt;/u&gt;&lt;br&gt;• All types of marketing, sales promotion and advertising strategies are used for&lt;br&gt;Stars.&lt;br&gt;• because of the high competition and rising market share, the&lt;br&gt;concentration and investment needs to be high in marketing activities so as to&lt;br&gt;increase and retain market share.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-327">
+          <mxGeometry y="40" width="500" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-329" value="Question marks" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="860" y="1790" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="1790" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-330" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-329">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-332" value="Dogs" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="860" y="1900" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="1790" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-333" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-332">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
