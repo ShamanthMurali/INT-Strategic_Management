@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T20:39:51.386Z" agent="5.0 (X11)" etag="u_Ww-DLfox8D_d0UKYiW" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T20:43:52.673Z" agent="5.0 (X11)" etag="jyFJJcV-RXK6uWrVY-f1" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1883" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -980,6 +980,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-312" target="2-Skqq9jJ75yhQD4SqxQ-335">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-312" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i2.wp.com/www.business-to-you.com/wp-content/uploads/2020/02/BCG-Matrix.png?ssl=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="1660" width="364" height="350" as="geometry" />
         </mxCell>
@@ -1014,6 +1017,9 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-330" value="• Sometimes called problem children or wildcats, are low market share business in high-growth markets.&lt;br&gt;• They require a lot of cash to hold their share.&lt;br&gt;• They need heavy investments with low potential to generate cash.&lt;br&gt;• Question marks if left unattended can become cash traps.&lt;br&gt;• Since growth rate is high, increasing it should be relatively easier.&lt;br&gt;• It is for business organisations to turn them stars and then to cash cows when the growth rate reduces.&lt;br&gt;• Thus, Question marks are products which may give high returns but at the&lt;br&gt;same time may also flop and may have to be taken out of the market.&lt;br&gt;&lt;div&gt;• This uncertainty gives the quadrant the name “Question Mark”.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Strategies for Question marks –&lt;/b&gt;&lt;br&gt;• New Customer acquisition strategies are the best strategies for converting&lt;br&gt;Question marks to Stars or Cash cows." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-329">
           <mxGeometry y="40" width="480" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-335" value="&lt;u&gt;&lt;b&gt;four strategies that can be pursued are&lt;/b&gt;&lt;/u&gt;:&lt;br&gt;&lt;div&gt;1. Build: Here the objective is to increase market share, even by forgoing short term earnings in favour of building a strong future with large market share.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Hold: Here the objective is to preserve market share.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Harvest: Here the objective is to increase short-term cash flow regardless of long-term effect.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4. Divest: Here the objective is to sell or liquidate the business because resources can be better used elsewhere." style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="485.85" y="2030" width="310" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
