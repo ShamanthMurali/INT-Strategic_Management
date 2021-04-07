@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T20:32:01.555Z" agent="5.0 (X11)" etag="y6932XyaqoVhsZV1xYXG" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T20:39:51.386Z" agent="5.0 (X11)" etag="u_Ww-DLfox8D_d0UKYiW" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1883" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -985,11 +985,11 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-325" value="Cash cows" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="300" y="1900" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="300" y="1900" width="500" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-326" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-325">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-326" value="• low-growth, high market share businesses or products.&lt;br&gt;• They generate cash and have low costs.&lt;br&gt;• established, successful, and need less investment to maintain their market share.&lt;br&gt;• cash cow gains the maximum advantage by generating maximum revenue due to its higher market share.&lt;br&gt;• require minimal investment but ensure higher returns.&lt;br&gt;• These higher returns raise the level of overall profitability of the firm because&lt;br&gt;such excess revenue generation can be used in other businesses which carry&lt;br&gt;&lt;div&gt;products falling in the category of Stars, Dogs or Question marks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Strategies for cash cow:&lt;/b&gt;&lt;/u&gt;&lt;br&gt;• strategy includes retention of the market share for such category.&lt;br&gt;• As the market growth rate is low and acquisition is less and customer retention is higher.&lt;br&gt;• Thus, customer satisfaction programs, loyalty programs and other such promotional methods form the core of the marketing plan for a cash cow product.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-325">
+          <mxGeometry y="40" width="500" height="230" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-327" value="Stars" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="300" y="1790" width="120" height="40" as="geometry">
@@ -999,21 +999,21 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-328" value="• best products/services in the product portfolio of any company.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• both market share as well as growth rate is high.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• can immediately be overtaken by another company&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;•a Star can become a cash cow in the long run.&lt;div&gt;&lt;br&gt;&lt;/div&gt;• They also need heavy investment to maintain their position and finance their rapid growth potential.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• They represent best opportunities for expansion.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Strategies for Stars:&lt;/b&gt;&lt;/u&gt;&lt;br&gt;• All types of marketing, sales promotion and advertising strategies are used for&lt;br&gt;Stars.&lt;br&gt;• because of the high competition and rising market share, the&lt;br&gt;concentration and investment needs to be high in marketing activities so as to&lt;br&gt;increase and retain market share.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-327">
           <mxGeometry y="40" width="500" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-329" value="Question marks" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="860" y="1790" width="120" height="40" as="geometry">
-            <mxRectangle x="300" y="1790" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-330" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-329">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-332" value="Dogs" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="860" y="1900" width="120" height="40" as="geometry">
-            <mxRectangle x="300" y="1790" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="860" y="1900" width="490" height="340" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-333" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-332">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-333" value="• They are low-growth, low-share businesses and products.&lt;br&gt;• They may generate enough cash to maintain themselves, but do not have much&lt;br&gt;future.&lt;br&gt;• Sometimes they may need cash to survive.&lt;br&gt;• Dogs should be minimised by means of divestment or liquidation.&lt;br&gt;• Products are classified as dogs when they have low market share and low&lt;br&gt;growth rate.&lt;br&gt;• Thus these products neither generate high amount of cash nor require higher&lt;br&gt;investments.&lt;br&gt;• However, they are considered as negative profitability products mainly because&lt;br&gt;the money already invested in the product can be used somewhere else.&lt;br&gt;• Thus over here businesses have to take a decision whether they should divest&lt;br&gt;(dissociates) these products or they can revamp them and thereby make them&lt;br&gt;saleable again which will subsequently increase the market share of the&lt;br&gt;&lt;div&gt;product.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Strategies for Dogs –&lt;/b&gt;&lt;br&gt;• Depending on the amount of cash which is already invested in this quadrant,&lt;br&gt;the company can either divest the product altogether or it can revamp the&lt;br&gt;product through rebranding / innovation / adding features etc.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-332">
+          <mxGeometry y="40" width="490" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-329" value="Question marks" style="swimlane;startSize=40;fontStyle=5" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="860" y="1790" width="120" height="40" as="geometry">
+            <mxRectangle x="860" y="1790" width="480" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-330" value="• Sometimes called problem children or wildcats, are low market share business in high-growth markets.&lt;br&gt;• They require a lot of cash to hold their share.&lt;br&gt;• They need heavy investments with low potential to generate cash.&lt;br&gt;• Question marks if left unattended can become cash traps.&lt;br&gt;• Since growth rate is high, increasing it should be relatively easier.&lt;br&gt;• It is for business organisations to turn them stars and then to cash cows when the growth rate reduces.&lt;br&gt;• Thus, Question marks are products which may give high returns but at the&lt;br&gt;same time may also flop and may have to be taken out of the market.&lt;br&gt;&lt;div&gt;• This uncertainty gives the quadrant the name “Question Mark”.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Strategies for Question marks –&lt;/b&gt;&lt;br&gt;• New Customer acquisition strategies are the best strategies for converting&lt;br&gt;Question marks to Stars or Cash cows." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-329">
+          <mxGeometry y="40" width="480" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
