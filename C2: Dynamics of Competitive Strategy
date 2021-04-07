@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T19:33:28.094Z" agent="5.0 (X11)" etag="rXaGbgAd88cTHxiHjuKI" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T19:39:57.748Z" agent="5.0 (X11)" etag="zo2h5hBuynt3e1mQRj2a" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1883" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -646,22 +646,28 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-218" value="all competitive advantages have a limited life." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="320" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-222">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-223">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-225">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-234">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-236">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="490" y="400" />
               <mxPoint x="280" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-224">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-238">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="490" y="400" />
               <mxPoint x="700" y="400" />
@@ -671,17 +677,37 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-220" value="&lt;u&gt;&lt;b&gt;competitive advantage depends upon&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="360" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-222" value="Transferability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-232" value="Durability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="40" as="geometry">
+            <mxRectangle x="220" y="420" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-223" value="Imitability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-233" value="The period over which a competitive advantage is sustained&lt;br&gt;depends in part on the rate at which a firm’s resources and capabilities&lt;br&gt;deteriorate." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-232">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-224" value="Appropriability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-234" value="Transferability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="420" width="210" height="140" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-225" value="Durability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-235" value="competitive&lt;br&gt;advantage relies on their gaining access to the necessary resources and capabilities. if it is easy anybody will duplicate. if it is hard you have an advantage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-234">
+          <mxGeometry y="40" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-236" value="Imitability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="420" width="120" height="40" as="geometry">
+            <mxRectangle x="500" y="420" width="200" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-237" value="cannot be easily copied by others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-236">
+          <mxGeometry y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-238" value="Appropriability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="640" y="420" width="120" height="40" as="geometry">
+            <mxRectangle x="640" y="420" width="190" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-239" value="ability of the firm’s owners&lt;br&gt;to appropriate the returns on its resource base." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-238">
+          <mxGeometry y="40" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
