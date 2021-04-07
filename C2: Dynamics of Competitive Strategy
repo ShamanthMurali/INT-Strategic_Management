@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T19:40:12.742Z" agent="5.0 (X11)" etag="ZMHOmVefc2r79CqoBaLR" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T20:04:51.699Z" agent="5.0 (X11)" etag="30KvtvZwCusGOVwpYtoM" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
-    <mxGraphModel dx="1883" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-254" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-258" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-245" target="2-Skqq9jJ75yhQD4SqxQ-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-245" value="&lt;u&gt;&lt;b&gt;Utility must be distinguished from price. Utility is something that customers&lt;br&gt;get from a product.&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="780" width="340" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-1" value="Competitive Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
@@ -409,6 +418,9 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-159" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-166" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-149" value="primary activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="290" y="700" width="120" height="40" as="geometry" />
         </mxCell>
@@ -447,13 +459,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-173">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-173" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-175">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-175" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-179">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-179" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="1020" />
@@ -461,7 +473,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-177">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-177" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="1020" />
@@ -469,7 +481,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-166" value="support activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-249" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1020" />
+              <mxPoint x="560" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-166" value="support activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="290" y="960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-159" value="Service" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
@@ -515,7 +535,7 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-188" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-173" target="2-Skqq9jJ75yhQD4SqxQ-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-173" value="Technology &#xa;development" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-173" value="Technology &#xa;development" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="220" y="1040" width="120" height="40" as="geometry">
             <mxRectangle x="220" y="1000" width="130" height="80" as="alternateBounds" />
           </mxGeometry>
@@ -531,7 +551,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-175" value="Human &#xa;resource &#xa;management" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-175" value="Human &#xa;resource &#xa;management" style="swimlane;startSize=50;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="360" y="1040" width="120" height="50" as="geometry">
             <mxRectangle x="360" y="1000" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -547,14 +567,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-177" value="Infrastructure" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="500" y="1040" width="120" height="40" as="geometry">
-            <mxRectangle x="500" y="1000" width="200" height="100" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-178" value="planning, finance, quality control, information&lt;br&gt;management, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-177">
-          <mxGeometry y="40" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-191" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-179" target="2-Skqq9jJ75yhQD4SqxQ-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -563,7 +575,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-179" value="Procurement" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-179" value="Procurement" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="80" y="1040" width="120" height="40" as="geometry">
             <mxRectangle x="80" y="1000" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -571,10 +583,7 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-180" value="This refers to the processes for acquiring the various resource inputs&amp;nbsp; to the primary activities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-179">
           <mxGeometry y="40" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-193" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-186" target="2-Skqq9jJ75yhQD4SqxQ-192">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-186" value="Use of value &#xa;Chain Analysis" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-186" value="Use of value &#xa;Chain Analysis" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="290" y="1160" width="120" height="40" as="geometry">
             <mxRectangle x="290" y="1120" width="410" height="270" as="alternateBounds" />
           </mxGeometry>
@@ -582,43 +591,43 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-187" value="a) Value chain analysis is useful in describing the separate activities which&lt;br&gt;are necessary to underpin an organization’s strategies and how they link&lt;br&gt;&lt;div&gt;together both inside and outside the organization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b) Although a threshold (Limit / Level) competence in all of these activities&lt;br&gt;is necessary to the organization’s successful operation, it is important to&lt;br&gt;identify those competences which critically underpin the organization’s&lt;br&gt;&lt;div&gt;competitive advantage.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c) Those competencies which critically tell about organization competitive&lt;br&gt;&lt;div&gt;advantage are known as the Core Competence.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d) They differ from one organisation to another depending on how the&lt;br&gt;company is positioned and the strategies it is pursuing." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-186">
           <mxGeometry y="40" width="410" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-195" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-192" target="2-Skqq9jJ75yhQD4SqxQ-194">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-195" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-192" target="2-Skqq9jJ75yhQD4SqxQ-194" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-192" value="&lt;u&gt;&lt;b&gt;Managing linkages&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-192" value="&lt;u&gt;&lt;b&gt;Managing linkages&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="290" y="1220" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-194" target="2-Skqq9jJ75yhQD4SqxQ-196">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-194" target="2-Skqq9jJ75yhQD4SqxQ-196" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-194" value="The combination of primary and secondary activities should be well managed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-194" value="The combination of primary and secondary activities should be well managed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="210" y="1260" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-199" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-196" target="2-Skqq9jJ75yhQD4SqxQ-198">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-199" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-196" target="2-Skqq9jJ75yhQD4SqxQ-198" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-196" value="&lt;u&gt;&lt;b&gt;Internal Linkages&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-196" value="&lt;u&gt;&lt;b&gt;Internal Linkages&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="290" y="1310" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-201" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-198" target="2-Skqq9jJ75yhQD4SqxQ-200">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-201" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-198" target="2-Skqq9jJ75yhQD4SqxQ-200" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-198" value="a. Linkages between primary activities&lt;br&gt;&lt;div&gt;should be analysed.&lt;/div&gt;&lt;div&gt;b. Linkages between primary and&lt;br&gt;support activities should be analysed.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-198" value="a. Linkages between primary activities&lt;br&gt;&lt;div&gt;should be analysed.&lt;/div&gt;&lt;div&gt;b. Linkages between primary and&lt;br&gt;support activities should be analysed.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="210" y="1350" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-203" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-200" target="2-Skqq9jJ75yhQD4SqxQ-202">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-203" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-200" target="2-Skqq9jJ75yhQD4SqxQ-202" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-200" value="&lt;u&gt;&lt;b&gt;Linkages between different support activities&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-200" value="&lt;u&gt;&lt;b&gt;Linkages between different support activities&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="215" y="1430" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-210" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-202" target="2-Skqq9jJ75yhQD4SqxQ-208">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-210" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-202" target="2-Skqq9jJ75yhQD4SqxQ-208" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-202" value="External Linkage could occur in number of ways and should be analysed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-202" value="External Linkage could occur in number of ways and should be analysed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="210" y="1470" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-208" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-208" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="290" y="1540" width="120" height="40" as="geometry">
             <mxRectangle x="290" y="1540" width="200" height="140" as="alternateBounds" />
           </mxGeometry>
@@ -674,8 +683,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-220" target="2-Skqq9jJ75yhQD4SqxQ-263">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="400" />
+              <mxPoint x="700" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-220" value="&lt;u&gt;&lt;b&gt;competitive advantage depends upon&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="360" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-259" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-232" target="2-Skqq9jJ75yhQD4SqxQ-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="500" />
+              <mxPoint x="485" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-232" value="Durability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="220" y="420" width="120" height="40" as="geometry">
@@ -685,6 +710,9 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-233" value="The period over which a competitive advantage is sustained&lt;br&gt;depends in part on the rate at which a firm’s resources and capabilities&lt;br&gt;deteriorate." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-232">
           <mxGeometry y="40" width="200" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-260" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-234" target="2-Skqq9jJ75yhQD4SqxQ-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-234" value="Transferability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="360" y="420" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="420" width="210" height="140" as="alternateBounds" />
@@ -692,6 +720,9 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-235" value="competitive&lt;br&gt;advantage relies on their gaining access to the necessary resources and capabilities. if it is easy anybody will duplicate. if it is hard you have an advantage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-234">
           <mxGeometry y="40" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-261" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-236" target="2-Skqq9jJ75yhQD4SqxQ-240">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-236" value="Imitability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="500" y="420" width="120" height="40" as="geometry">
@@ -701,6 +732,71 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-237" value="cannot be easily copied by others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-236">
           <mxGeometry y="40" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-240" target="2-Skqq9jJ75yhQD4SqxQ-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-240" value="Value Creation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-241" target="2-Skqq9jJ75yhQD4SqxQ-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-241" value="Value is measured by a product’s features, quality, availability, durability, performance and by its services for which customers are willing to pay." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="590" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-243" target="2-Skqq9jJ75yhQD4SqxQ-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-243" value="depends on three factors:&lt;br&gt;(1) the value customers place on the company’s products;&lt;br&gt;(2) the price that a company charges for its products; and&lt;br&gt;(3) the costs of creating those products." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="660" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-252" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-249" target="2-Skqq9jJ75yhQD4SqxQ-186" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-255" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-249" target="2-Skqq9jJ75yhQD4SqxQ-254" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-249" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="500" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-177" value="Infrastructure" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="500" y="1040" width="120" height="40" as="geometry">
+            <mxRectangle x="500" y="1000" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-178" value="planning, finance, quality control, information&lt;br&gt;management, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-177">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-256" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-254" target="2-Skqq9jJ75yhQD4SqxQ-192" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-268" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-257" target="2-Skqq9jJ75yhQD4SqxQ-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-257" value="Customer never purchase shoes, but he purchases comfort. Customer never purchase spectacles, but he purchases the vision. Customer never purchase air conditioner, but he always purchases the cooling." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="850" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-263" target="2-Skqq9jJ75yhQD4SqxQ-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="500" />
+              <mxPoint x="485" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-263" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-238" value="Appropriability" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="640" y="420" width="120" height="40" as="geometry">
             <mxRectangle x="640" y="420" width="190" height="100" as="alternateBounds" />
@@ -708,6 +804,9 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-239" value="ability of the firm’s owners&lt;br&gt;to appropriate the returns on its resource base." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-238">
           <mxGeometry y="40" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-267" value="Portfolio Analysis" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="950" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
