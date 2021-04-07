@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T16:14:57.038Z" agent="5.0 (X11)" etag="1jr4lwZfVFXal5qttChf" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T16:20:13.122Z" agent="5.0 (X11)" etag="8Xg7FZUHsdZem0k9xEci" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1705" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,6 +26,9 @@
             <mxGeometry x="10" y="80" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-13" target="2-Skqq9jJ75yhQD4SqxQ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Industry and Competitive Analysis" treeRoot="1" id="2-Skqq9jJ75yhQD4SqxQ-13">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
@@ -183,6 +186,9 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-66" value="&lt;div&gt;&lt;u&gt;Identify&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Strength&lt;/div&gt;&lt;div&gt;2. Weakness&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-77" value="&lt;u&gt;&lt;b&gt;Industry&lt;/b&gt;&lt;/u&gt; is “a group of firms whose products have same or similar attributes such that they compete for the same buyers.”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
