@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T19:12:20.124Z" agent="5.0 (X11)" etag="1lXD28PfCV-eEQy78Nr7" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T19:20:18.281Z" agent="5.0 (X11)" etag="Z0kC8H1AESnE2FXIXiML" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
-    <mxGraphModel dx="1559" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,14 +350,37 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-126" value="How to build Core Competencies (CC)?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-204" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-130" target="2-Skqq9jJ75yhQD4SqxQ-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="610" />
+              <mxPoint x="350" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-130" value="Valuable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-207" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-131" target="2-Skqq9jJ75yhQD4SqxQ-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="610" />
+              <mxPoint x="350" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-131" value="&lt;div&gt;Non-substitutable&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(e.g. apples ecosystem)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="530" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-205" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-132" target="2-Skqq9jJ75yhQD4SqxQ-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-132" value="Rare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-206" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-133" target="2-Skqq9jJ75yhQD4SqxQ-148">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-133" value="Costly to imitate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
@@ -366,7 +389,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-148" value="&lt;div&gt;Value Chain Analysis for &lt;br&gt;&lt;/div&gt;&lt;div&gt;developing Core Competency&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="600" width="240" height="40" as="geometry" />
+          <mxGeometry x="230" y="640" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-151">
           <mxGeometry relative="1" as="geometry" />
@@ -384,7 +407,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-149" value="primary activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-169" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-151" target="2-Skqq9jJ75yhQD4SqxQ-166">
           <mxGeometry relative="1" as="geometry" />
@@ -392,32 +415,32 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-168" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-153" target="2-Skqq9jJ75yhQD4SqxQ-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="860" />
-              <mxPoint x="350" y="860" />
+              <mxPoint x="210" y="900" />
+              <mxPoint x="350" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-167" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-155" target="2-Skqq9jJ75yhQD4SqxQ-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="880" />
-              <mxPoint x="350" y="880" />
+              <mxPoint x="70" y="920" />
+              <mxPoint x="350" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-170" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-157" target="2-Skqq9jJ75yhQD4SqxQ-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="860" />
-              <mxPoint x="350" y="860" />
+              <mxPoint x="490" y="900" />
+              <mxPoint x="350" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-171" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-159" target="2-Skqq9jJ75yhQD4SqxQ-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="880" />
-              <mxPoint x="350" y="880" />
+              <mxPoint x="630" y="920" />
+              <mxPoint x="350" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -430,24 +453,24 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-179">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="980" />
-              <mxPoint x="140" y="980" />
+              <mxPoint x="350" y="1020" />
+              <mxPoint x="140" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-166" target="2-Skqq9jJ75yhQD4SqxQ-177">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="980" />
-              <mxPoint x="560" y="980" />
+              <mxPoint x="350" y="1020" />
+              <mxPoint x="560" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-166" value="support activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-159" value="Service" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="570" y="740" width="120" height="40" as="geometry">
+          <mxGeometry x="570" y="780" width="120" height="40" as="geometry">
             <mxRectangle x="570" y="740" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -455,7 +478,7 @@
           <mxGeometry y="40" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-157" value="Marketing&#xa; and sales" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="430" y="740" width="120" height="40" as="geometry">
+          <mxGeometry x="430" y="780" width="120" height="40" as="geometry">
             <mxRectangle x="430" y="740" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -463,7 +486,7 @@
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-151" value="Outbound &#xa;logistics" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="290" y="740" width="120" height="40" as="geometry">
+          <mxGeometry x="290" y="780" width="120" height="40" as="geometry">
             <mxRectangle x="290" y="740" width="180" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -471,7 +494,7 @@
           <mxGeometry y="40" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-153" value="Operations &#xa;transform these&#xa; inputs into the&#xa; final product &#xa;or service" style="swimlane;startSize=80;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="150" y="740" width="120" height="80" as="geometry">
+          <mxGeometry x="150" y="780" width="120" height="80" as="geometry">
             <mxRectangle x="150" y="740" width="200" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -479,44 +502,115 @@
           <mxGeometry y="80" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-155" value="Inbound&#xa;logistics" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="10" y="740" width="120" height="40" as="geometry">
+          <mxGeometry x="10" y="780" width="120" height="40" as="geometry">
             <mxRectangle x="10" y="740" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-156" value="activities&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; receiving,&amp;nbsp; storing&amp;nbsp; anddistributing&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; inputs&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; product/service.&amp;nbsp;&amp;nbsp; This&amp;nbsp;&amp;nbsp; includes&amp;nbsp;&amp;nbsp; materialshandling, stock control, transport etc. Like, transportation and warehousing. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-155">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-188" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-173" target="2-Skqq9jJ75yhQD4SqxQ-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-173" value="Technology &#xa;development" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="220" y="1000" width="120" height="40" as="geometry">
+          <mxGeometry x="220" y="1040" width="120" height="40" as="geometry">
             <mxRectangle x="220" y="1000" width="130" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-174" value="R&amp;amp;D product design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-173">
           <mxGeometry y="40" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-189" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-175" target="2-Skqq9jJ75yhQD4SqxQ-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1120" />
+              <mxPoint x="350" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-175" value="Human &#xa;resource &#xa;management" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="360" y="1000" width="120" height="50" as="geometry">
+          <mxGeometry x="360" y="1040" width="120" height="50" as="geometry">
             <mxRectangle x="360" y="1000" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-176" value="recruiting, managing,&lt;br&gt;training, developing and rewarding people within the organization." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-175">
           <mxGeometry y="50" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-190" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-177" target="2-Skqq9jJ75yhQD4SqxQ-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-177" value="Infrastructure" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="500" y="1000" width="120" height="40" as="geometry">
+          <mxGeometry x="500" y="1040" width="120" height="40" as="geometry">
             <mxRectangle x="500" y="1000" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-178" value="planning, finance, quality control, information&lt;br&gt;management, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-177">
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-191" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-179" target="2-Skqq9jJ75yhQD4SqxQ-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-179" value="Procurement" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="80" y="1000" width="120" height="40" as="geometry">
+          <mxGeometry x="80" y="1040" width="120" height="40" as="geometry">
             <mxRectangle x="80" y="1000" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-180" value="This refers to the processes for acquiring the various resource inputs&amp;nbsp; to the primary activities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-179">
           <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-193" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-186" target="2-Skqq9jJ75yhQD4SqxQ-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-186" value="Use of value &#xa;Chain Analysis" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="290" y="1160" width="120" height="40" as="geometry">
+            <mxRectangle x="290" y="1120" width="410" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-187" value="a) Value chain analysis is useful in describing the separate activities which&lt;br&gt;are necessary to underpin an organization’s strategies and how they link&lt;br&gt;&lt;div&gt;together both inside and outside the organization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b) Although a threshold (Limit / Level) competence in all of these activities&lt;br&gt;is necessary to the organization’s successful operation, it is important to&lt;br&gt;identify those competences which critically underpin the organization’s&lt;br&gt;&lt;div&gt;competitive advantage.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c) Those competencies which critically tell about organization competitive&lt;br&gt;&lt;div&gt;advantage are known as the Core Competence.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d) They differ from one organisation to another depending on how the&lt;br&gt;company is positioned and the strategies it is pursuing." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-186">
+          <mxGeometry y="40" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-195" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-192" target="2-Skqq9jJ75yhQD4SqxQ-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-192" value="&lt;u&gt;&lt;b&gt;Managing linkages&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-194" target="2-Skqq9jJ75yhQD4SqxQ-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-194" value="The combination of primary and secondary activities should be well managed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1260" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-199" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-196" target="2-Skqq9jJ75yhQD4SqxQ-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-196" value="&lt;u&gt;&lt;b&gt;Internal Linkages&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-201" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-198" target="2-Skqq9jJ75yhQD4SqxQ-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-198" value="a. Linkages between primary activities&lt;br&gt;&lt;div&gt;should be analysed.&lt;/div&gt;&lt;div&gt;b. Linkages between primary and&lt;br&gt;support activities should be analysed.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1350" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-203" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-200" target="2-Skqq9jJ75yhQD4SqxQ-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-200" value="&lt;u&gt;&lt;b&gt;Linkages between different support activities&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1430" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-202" value="External Linkage could occur in number of ways and should be analysed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1470" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
