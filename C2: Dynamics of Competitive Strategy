@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T18:07:51.633Z" agent="5.0 (X11)" etag="z83ZYhstgbg9WDdxjByU" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T18:46:57.296Z" agent="5.0 (X11)" etag="Rl-M4E8BSVQ9g1OnuD5x" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1559" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -361,6 +361,70 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-133" value="Costly to imitate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-148" target="2-Skqq9jJ75yhQD4SqxQ-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-148" value="&lt;div&gt;Value Chain Analysis for &lt;br&gt;&lt;/div&gt;&lt;div&gt;developing Core Competency&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-149" target="2-Skqq9jJ75yhQD4SqxQ-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-149" value="primary activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-151" value="Outbound &#xa;logistics" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="290" y="740" width="120" height="40" as="geometry">
+            <mxRectangle x="290" y="740" width="180" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-152" value="collect, store and distribute the product to customers." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-151">
+          <mxGeometry y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-153" value="Operations &#xa;transform these&#xa; inputs into the&#xa; final product &#xa;or service" style="swimlane;startSize=80;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="150" y="740" width="120" height="80" as="geometry">
+            <mxRectangle x="150" y="740" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-154" value="machining, packaging, assembly, testing, etc. convert raw materials in finishedgoods." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-153">
+          <mxGeometry y="80" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-155" value="Inbound&#xa;logistics" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="10" y="740" width="120" height="40" as="geometry">
+            <mxRectangle x="10" y="740" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-156" value="activities&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; receiving,&amp;nbsp; storing&amp;nbsp; anddistributing&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; inputs&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; product/service.&amp;nbsp;&amp;nbsp; This&amp;nbsp;&amp;nbsp; includes&amp;nbsp;&amp;nbsp; materialshandling, stock control, transport etc. Like, transportation and warehousing. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-155">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-157" value="Marketing&#xa; and sales" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="430" y="740" width="120" height="40" as="geometry">
+            <mxRectangle x="430" y="740" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-158" value="consumers/users are made aware of the product/service and are able to purchase it." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-157">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-159" value="Service" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="570" y="740" width="120" height="40" as="geometry">
+            <mxRectangle x="570" y="740" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-160" value="activities,&amp;nbsp; which&amp;nbsp; enhance&amp;nbsp; or&amp;nbsp; maintain&amp;nbsp; the&amp;nbsp; value&amp;nbsp; of&amp;nbsp; a product/service, such as installation, repair, training and spares." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2-Skqq9jJ75yhQD4SqxQ-159">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
