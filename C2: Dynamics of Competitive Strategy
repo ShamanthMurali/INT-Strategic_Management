@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T18:01:27.997Z" agent="5.0 (X11)" etag="WKgsl6VaoFVMe1ouGshy" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T18:07:51.633Z" agent="5.0 (X11)" etag="z83ZYhstgbg9WDdxjByU" version="14.5.7" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1559" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -325,6 +325,28 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-124" value="not only having them, Core competence must be applicable to the whole organization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="510" />
+              <mxPoint x="140" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-Skqq9jJ75yhQD4SqxQ-126" target="2-Skqq9jJ75yhQD4SqxQ-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="510" />
+              <mxPoint x="560" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-126" value="How to build Core Competencies (CC)?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="240" height="40" as="geometry" />
         </mxCell>
@@ -337,7 +359,7 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-132" value="Rare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-133" value="Costly&amp;nbsp; to&amp;nbsp; imitate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2-Skqq9jJ75yhQD4SqxQ-133" value="Costly to imitate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
