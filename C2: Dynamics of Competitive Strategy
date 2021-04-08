@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T16:09:43.440Z" agent="5.0 (X11)" etag="VEGt1cefX8Ekc9d7hvHc" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T16:10:01.267Z" agent="5.0 (X11)" etag="u-CDd-bDx1ik0db82DTa" version="14.5.8" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -894,6 +894,118 @@
         </mxCell>
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-8" value="Competitive Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-11" target="6_uzfnBQi8sRk2ZBfKsb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-11" target="6_uzfnBQi8sRk2ZBfKsb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Competitive Landscape" treeRoot="1" id="6_uzfnBQi8sRk2ZBfKsb-11">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="-130" y="80" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-13" target="6_uzfnBQi8sRk2ZBfKsb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-13" value="Direct competitors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-15" target="6_uzfnBQi8sRk2ZBfKsb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-15" value="Indirect competitors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-17" target="6_uzfnBQi8sRk2ZBfKsb-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-17" value="e.g for iphone, samsung-oneplus-google are direct competitors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="220" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-19" target="6_uzfnBQi8sRk2ZBfKsb-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-19" value="e.g for iphone, honda is a indirect competitor because you can a buy a dio instead of iphone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="220" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-21" target="6_uzfnBQi8sRk2ZBfKsb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-21" value="&lt;div&gt;Steps to understand &lt;br&gt;&lt;/div&gt;&lt;div&gt;the Competitive Landscape &lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="350" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-23" target="6_uzfnBQi8sRk2ZBfKsb-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-23" value="1. Identify the competitor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-25" target="6_uzfnBQi8sRk2ZBfKsb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-25" value="&lt;div&gt;identify the competitors in the firm’s industry and have actual data about their respective market share.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦Who are the competitors and how big are they?&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="480" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-27" target="6_uzfnBQi8sRk2ZBfKsb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-27" value="2. Understand&amp;nbsp;&amp;nbsp; the competitors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-29" target="6_uzfnBQi8sRk2ZBfKsb-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-29" value="&lt;div&gt;&lt;b&gt;♦What&amp;nbsp; are the&amp;nbsp; strength&amp;nbsp; of&amp;nbsp; the competitors?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What&amp;nbsp; do&amp;nbsp; they&amp;nbsp; do&amp;nbsp; well?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦Do&amp;nbsp; they&amp;nbsp; offer&amp;nbsp; great products?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦Why&amp;nbsp; are consumers liking their product/service?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦Do they utilize marketing in a way that comparatively&amp;nbsp; reaches&amp;nbsp; out&amp;nbsp; to&amp;nbsp; more&amp;nbsp; consumers.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦Why&amp;nbsp; do&amp;nbsp; customers give&amp;nbsp; them their business?&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What are their financial positions?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What gives them cost and price advantage?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What are they likely to do next? &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦How strong is their distribution network?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What are their human resource strengths?&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-395" y="790" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-32" target="6_uzfnBQi8sRk2ZBfKsb-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-32" target="6_uzfnBQi8sRk2ZBfKsb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-32" value="3. Determine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-34" target="6_uzfnBQi8sRk2ZBfKsb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-34" value="&lt;u&gt;&lt;b&gt;strengths&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="750" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-36" target="6_uzfnBQi8sRk2ZBfKsb-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-36" value="&lt;u&gt;&lt;b&gt;weakness&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="750" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-38" target="6_uzfnBQi8sRk2ZBfKsb-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="990" />
+              <mxPoint x="-65" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-38" value="&lt;b&gt;♦Where are they lacking?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="790" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-40" target="6_uzfnBQi8sRk2ZBfKsb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-40" value="&lt;b&gt;♦What are their product and services?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="620" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-42" target="6_uzfnBQi8sRk2ZBfKsb-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-42" value="4. Put all of the information&amp;nbsp; together" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="1010" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-43" value="&lt;div&gt;draw inference about what theyare not offering and what the firm can do to fill in the gaps.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What will the business do with this information?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What improvements does the firm need to make?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦How can the firm exploit the weaknesses of competitors?&lt;/b&gt; &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1070" width="360" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
