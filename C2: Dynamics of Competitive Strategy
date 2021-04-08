@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T16:07:18.448Z" agent="5.0 (X11)" etag="GzddXXiJB7FZJeIQS7LW" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T16:09:43.440Z" agent="5.0 (X11)" etag="VEGt1cefX8Ekc9d7hvHc" version="14.5.8" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
-    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -856,6 +856,44 @@
         </mxCell>
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-302" value="sales and profits fall down sharply due to&lt;br&gt;some new product replaces the existing product." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="810" y="1420" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-8" value="Competitive Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
