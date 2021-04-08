@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T16:10:51.178Z" agent="5.0 (X11)" etag="8ga6R7YazQmGqZP-4Qq1" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T16:11:28.372Z" agent="5.0 (X11)" etag="NlvA1ExKGRrEJRW5g6IH" version="14.5.8" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1130,6 +1130,399 @@
         </mxCell>
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-83" value="&lt;b&gt;1. understand Nature and Strength of Competition&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="125" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-86" target="6_uzfnBQi8sRk2ZBfKsb-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Core &lt;br&gt;&lt;/div&gt;&lt;div&gt;Competence&lt;/div&gt;" treeRoot="1" id="6_uzfnBQi8sRk2ZBfKsb-86">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="290" y="80" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-88" target="6_uzfnBQi8sRk2ZBfKsb-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-88" value="&quot;a harmonized combination of multiple resources and skills that distinguish a firm in the marketplace&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="205" y="140" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-92" target="6_uzfnBQi8sRk2ZBfKsb-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-92" target="6_uzfnBQi8sRk2ZBfKsb-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-92" target="6_uzfnBQi8sRk2ZBfKsb-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-92" value="&lt;u&gt;&lt;b&gt;major core competencies&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="270" y="200" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-94" target="6_uzfnBQi8sRk2ZBfKsb-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-94" value="customer value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-96" target="6_uzfnBQi8sRk2ZBfKsb-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-96" value="competitor differentiation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-98" target="6_uzfnBQi8sRk2ZBfKsb-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-98" value="application to other markets " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-99" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-100" target="6_uzfnBQi8sRk2ZBfKsb-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-100" value="Have something unique and it is difficult for&amp;nbsp; competitors to&amp;nbsp; imitate. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="320" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-101" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-102" target="6_uzfnBQi8sRk2ZBfKsb-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-102" value="The service or&amp;nbsp;&amp;nbsp; the product has to have real impact on the customer as the&amp;nbsp; reason&amp;nbsp; to&amp;nbsp; choose&amp;nbsp; to&amp;nbsp; purchase&amp;nbsp; them." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="320" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-103" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-104" target="6_uzfnBQi8sRk2ZBfKsb-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-104" value="not only having them, Core competence must be applicable to the whole organization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="320" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-109" target="6_uzfnBQi8sRk2ZBfKsb-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-109" target="6_uzfnBQi8sRk2ZBfKsb-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-109" target="6_uzfnBQi8sRk2ZBfKsb-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="510" />
+              <mxPoint x="140" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-109" target="6_uzfnBQi8sRk2ZBfKsb-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="510" />
+              <mxPoint x="560" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-109" value="How to build Core Competencies (CC)?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="230" y="450" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-110" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-111" target="6_uzfnBQi8sRk2ZBfKsb-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="610" />
+              <mxPoint x="350" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-111" value="Valuable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="80" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-112" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-113" target="6_uzfnBQi8sRk2ZBfKsb-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="610" />
+              <mxPoint x="350" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-113" value="&lt;div&gt;Non-substitutable&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(e.g. apples ecosystem)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="500" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-114" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-115" target="6_uzfnBQi8sRk2ZBfKsb-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-115" value="Rare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="220" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-116" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-117" target="6_uzfnBQi8sRk2ZBfKsb-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-117" value="Costly to imitate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-119" target="6_uzfnBQi8sRk2ZBfKsb-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-119" value="&lt;div&gt;Value Chain Analysis for &lt;br&gt;&lt;/div&gt;&lt;div&gt;developing Core Competency&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="230" y="640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-126" target="6_uzfnBQi8sRk2ZBfKsb-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-126" target="6_uzfnBQi8sRk2ZBfKsb-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-126" target="6_uzfnBQi8sRk2ZBfKsb-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-126" target="6_uzfnBQi8sRk2ZBfKsb-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-126" target="6_uzfnBQi8sRk2ZBfKsb-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-126" target="6_uzfnBQi8sRk2ZBfKsb-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-126" value="primary activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-127" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-174" target="6_uzfnBQi8sRk2ZBfKsb-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-128" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-176" target="6_uzfnBQi8sRk2ZBfKsb-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="900" />
+              <mxPoint x="350" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-129" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-178" target="6_uzfnBQi8sRk2ZBfKsb-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="920" />
+              <mxPoint x="350" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-130" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-172" target="6_uzfnBQi8sRk2ZBfKsb-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="900" />
+              <mxPoint x="350" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-170" target="6_uzfnBQi8sRk2ZBfKsb-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="920" />
+              <mxPoint x="350" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-137" target="6_uzfnBQi8sRk2ZBfKsb-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-137" target="6_uzfnBQi8sRk2ZBfKsb-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-137" target="6_uzfnBQi8sRk2ZBfKsb-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1020" />
+              <mxPoint x="140" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-137" target="6_uzfnBQi8sRk2ZBfKsb-162">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1020" />
+              <mxPoint x="560" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-137" target="6_uzfnBQi8sRk2ZBfKsb-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1020" />
+              <mxPoint x="560" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-137" value="support activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-138" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-166" target="6_uzfnBQi8sRk2ZBfKsb-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-139" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-164" target="6_uzfnBQi8sRk2ZBfKsb-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1120" />
+              <mxPoint x="350" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-140" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-162" target="6_uzfnBQi8sRk2ZBfKsb-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-141" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-168" target="6_uzfnBQi8sRk2ZBfKsb-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-142" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-143" target="6_uzfnBQi8sRk2ZBfKsb-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-143" value="&lt;u&gt;&lt;b&gt;Managing linkages&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="1220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-144" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-145" target="6_uzfnBQi8sRk2ZBfKsb-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-145" value="The combination of primary and secondary activities should be well managed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="210" y="1260" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-146" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-147" target="6_uzfnBQi8sRk2ZBfKsb-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-147" value="&lt;u&gt;&lt;b&gt;Internal Linkages&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="1310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-148" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-149" target="6_uzfnBQi8sRk2ZBfKsb-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-149" value="a. Linkages between primary activities&lt;br&gt;&lt;div&gt;should be analysed.&lt;/div&gt;&lt;div&gt;b. Linkages between primary and&lt;br&gt;support activities should be analysed.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="210" y="1350" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-150" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-151" target="6_uzfnBQi8sRk2ZBfKsb-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-151" value="&lt;u&gt;&lt;b&gt;Linkages between different support activities&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="215" y="1430" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-152" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-153" target="6_uzfnBQi8sRk2ZBfKsb-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-153" value="External Linkage could occur in number of ways and should be analysed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="210" y="1470" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-154" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-156" target="6_uzfnBQi8sRk2ZBfKsb-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-155" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-156" target="6_uzfnBQi8sRk2ZBfKsb-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1130" />
+              <mxPoint x="350" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="500" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-157" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-84" target="6_uzfnBQi8sRk2ZBfKsb-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-158" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="290" y="1540" width="120" height="40" as="geometry">
+            <mxRectangle x="290" y="1540" width="200" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-159" value="• Provide competitive advantage&lt;br&gt;• Ensure profits&lt;br&gt;• Helps firm stretches into new opportunities&lt;br&gt;• Help in maintaining progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-158">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-160" value="Use of value &#xa;Chain Analysis" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="290" y="1160" width="120" height="40" as="geometry">
+            <mxRectangle x="290" y="1120" width="410" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-161" value="a) Value chain analysis is useful in describing the separate activities which&lt;br&gt;are necessary to underpin an organization’s strategies and how they link&lt;br&gt;&lt;div&gt;together both inside and outside the organization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;b) Although a threshold (Limit / Level) competence in all of these activities&lt;br&gt;is necessary to the organization’s successful operation, it is important to&lt;br&gt;identify those competences which critically underpin the organization’s&lt;br&gt;&lt;div&gt;competitive advantage.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;c) Those competencies which critically tell about organization competitive&lt;br&gt;&lt;div&gt;advantage are known as the Core Competence.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;d) They differ from one organisation to another depending on how the&lt;br&gt;company is positioned and the strategies it is pursuing." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-160">
+          <mxGeometry y="40" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-162" value="Infrastructure" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="500" y="1040" width="120" height="40" as="geometry">
+            <mxRectangle x="500" y="1000" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-163" value="planning, finance, quality control, information&lt;br&gt;management, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-162">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-164" value="Human &#xa;resource &#xa;management" style="swimlane;startSize=50;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="360" y="1040" width="120" height="50" as="geometry">
+            <mxRectangle x="360" y="1000" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-165" value="recruiting, managing,&lt;br&gt;training, developing and rewarding people within the organization." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-164">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-166" value="Technology &#xa;development" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="220" y="1040" width="120" height="40" as="geometry">
+            <mxRectangle x="220" y="1000" width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-167" value="R&amp;amp;D product design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-166">
+          <mxGeometry y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-168" value="Procurement" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="80" y="1040" width="120" height="40" as="geometry">
+            <mxRectangle x="80" y="1000" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-169" value="This refers to the processes for acquiring the various resource inputs&amp;nbsp; to the primary activities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-168">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-170" value="Service" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="570" y="780" width="120" height="40" as="geometry">
+            <mxRectangle x="570" y="740" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-171" value="activities,&amp;nbsp; which&amp;nbsp; enhance&amp;nbsp; or&amp;nbsp; maintain&amp;nbsp; the&amp;nbsp; value&amp;nbsp; of&amp;nbsp; a product/service, such as installation, repair, training and spares." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-170">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-172" value="Marketing&#xa; and sales" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="430" y="780" width="120" height="40" as="geometry">
+            <mxRectangle x="430" y="740" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-173" value="consumers/users are made aware of the product/service and are able to purchase it." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-172">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-174" value="Outbound &#xa;logistics" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="290" y="780" width="120" height="40" as="geometry">
+            <mxRectangle x="290" y="780" width="180" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-175" value="collect, store and distribute the product to customers." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-174">
+          <mxGeometry y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-176" value="Operations &#xa;transform these&#xa; inputs into the&#xa; final product &#xa;or service" style="swimlane;startSize=80;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="150" y="780" width="120" height="80" as="geometry">
+            <mxRectangle x="150" y="740" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-177" value="machining, packaging, assembly, testing, etc. convert raw materials in finishedgoods." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-176">
+          <mxGeometry y="80" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-178" value="Inbound&#xa;logistics" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="10" y="780" width="120" height="40" as="geometry">
+            <mxRectangle x="10" y="740" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-179" value="activities&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; receiving,&amp;nbsp; storing&amp;nbsp; anddistributing&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; inputs&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; product/service.&amp;nbsp;&amp;nbsp; This&amp;nbsp;&amp;nbsp; includes&amp;nbsp;&amp;nbsp; materialshandling, stock control, transport etc. Like, transportation and warehousing. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6_uzfnBQi8sRk2ZBfKsb-178">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
