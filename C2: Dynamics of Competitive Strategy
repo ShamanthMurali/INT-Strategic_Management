@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T16:12:21.507Z" agent="5.0 (X11)" etag="QW2AI_LwpBF35x_Cx9DT" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T16:12:37.302Z" agent="5.0 (X11)" etag="nq1AnarCm2SuoIRICDes" version="14.5.8" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
-    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -857,55 +857,6 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-302" value="sales and profits fall down sharply due to&lt;br&gt;some new product replaces the existing product." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="810" y="1420" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-70" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-8" value="Competitive Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-11" target="6_uzfnBQi8sRk2ZBfKsb-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-11" target="6_uzfnBQi8sRk2ZBfKsb-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Competitive Landscape" treeRoot="1" id="6_uzfnBQi8sRk2ZBfKsb-11">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="-120" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-13" target="6_uzfnBQi8sRk2ZBfKsb-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1007,14 +958,6 @@
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-43" value="&lt;div&gt;draw inference about what theyare not offering and what the firm can do to fill in the gaps.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What will the business do with this information?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦What improvements does the firm need to make?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;♦How can the firm exploit the weaknesses of competitors?&lt;/b&gt; &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-245" y="1070" width="360" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-45" target="6_uzfnBQi8sRk2ZBfKsb-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Strategic Analysis" treeRoot="1" id="6_uzfnBQi8sRk2ZBfKsb-45">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="10" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-48" target="6_uzfnBQi8sRk2ZBfKsb-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1042,14 +985,6 @@
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-54" value="&lt;div&gt;&lt;u&gt;Identify&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Strength&lt;/div&gt;&lt;div&gt;2. Weakness&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-56" target="6_uzfnBQi8sRk2ZBfKsb-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Industry and Competitive Analysis" treeRoot="1" id="6_uzfnBQi8sRk2ZBfKsb-56">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-58" target="6_uzfnBQi8sRk2ZBfKsb-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1134,14 +1069,6 @@
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="290" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-86" target="6_uzfnBQi8sRk2ZBfKsb-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;div&gt;Core &lt;br&gt;&lt;/div&gt;&lt;div&gt;Competence&lt;/div&gt;" treeRoot="1" id="6_uzfnBQi8sRk2ZBfKsb-86">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="290" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-88" target="6_uzfnBQi8sRk2ZBfKsb-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
