@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T17:33:18.950Z" agent="5.0 (X11)" etag="1lsOLvvDc8HSF9mVZAtF" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T20:48:35.588Z" agent="5.0 (X11)" etag="uPJeKCR96usEvI64EQiK" version="14.5.8" type="github">
   <diagram id="CXtjrz0CC56r9_kdbqIl" name="Page-1">
-    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mMcOxIyKWQ6gz_tthfHf-1" value="Strategic Management Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
