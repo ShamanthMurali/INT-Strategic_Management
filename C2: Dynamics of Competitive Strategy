@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T16:10:29.676Z" agent="5.0 (X11)" etag="XGmDC8mypgPBe901zoOG" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T16:10:51.178Z" agent="5.0 (X11)" etag="8ga6R7YazQmGqZP-4Qq1" version="14.5.8" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1041,6 +1041,95 @@
         </mxCell>
         <mxCell id="6_uzfnBQi8sRk2ZBfKsb-54" value="&lt;div&gt;&lt;u&gt;Identify&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Strength&lt;/div&gt;&lt;div&gt;2. Weakness&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-56" target="6_uzfnBQi8sRk2ZBfKsb-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Industry and Competitive Analysis" treeRoot="1" id="6_uzfnBQi8sRk2ZBfKsb-56">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-58" target="6_uzfnBQi8sRk2ZBfKsb-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-58" value="&lt;u&gt;&lt;b&gt;Industry&lt;/b&gt;&lt;/u&gt; is “a group of firms whose products have same or similar attributes such that they compete for the same buyers.”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="30" y="140" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-60" target="6_uzfnBQi8sRk2ZBfKsb-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-60" value="&lt;b&gt;2. Determine driving forces&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-62" target="6_uzfnBQi8sRk2ZBfKsb-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-62" value="The most dominant forces which influence an industry is called &lt;u&gt;&lt;b&gt;Driving forces&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="30" y="320" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-64" target="6_uzfnBQi8sRk2ZBfKsb-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-64" value="&lt;div&gt;Analyzing driving forces has two steps:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•identifying what the driving forces are, and&lt;/div&gt;&lt;div&gt;•assessing the impact they will have on the industry&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="60" y="380" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-66" target="6_uzfnBQi8sRk2ZBfKsb-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-66" value="&lt;b&gt;3. Identifying the Strongest/Weakest Companies (Strategic Group Mapping)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="115" y="480" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-68" target="6_uzfnBQi8sRk2ZBfKsb-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-68" value="examining&amp;nbsp; the&amp;nbsp; industry’s&amp;nbsp; competitive&amp;nbsp; structure&amp;nbsp; is&amp;nbsp; to&amp;nbsp; study&amp;nbsp; the market&amp;nbsp;&amp;nbsp; positions&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; rival&amp;nbsp;&amp;nbsp; companies. Identifying&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; strongest&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; weakest companies help understand what techniques can be implemented and which ones are to be avoided." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="5" y="560" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-70" target="6_uzfnBQi8sRk2ZBfKsb-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-70" value="A&amp;nbsp;&amp;nbsp;&amp;nbsp; strategic group consists of those rival firms which have similar competitive approaches and positions in the market." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="5" y="640" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-72" target="6_uzfnBQi8sRk2ZBfKsb-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cf.ppt-online.org/files1/slide/f/fNDXPitScxvLwbsqFzB7eOyZGVAar409duY3MH/slide-12.jpg;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="36.22" y="700" width="347.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-74" target="6_uzfnBQi8sRk2ZBfKsb-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-74" value="&lt;b&gt;4. pay attention to rivals&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="115" y="980" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-76" target="6_uzfnBQi8sRk2ZBfKsb-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-76" value="&lt;div&gt;&lt;b&gt;5. Focus on Key Success Factors&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(KSF)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="115" y="1040" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-78" target="6_uzfnBQi8sRk2ZBfKsb-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-78" value="&lt;u&gt;&lt;b&gt;Key Success Factors&lt;/b&gt;&lt;/u&gt; (KSFs) are those things that most affect industry members’ ability&amp;nbsp; to&amp;nbsp; prosper in&amp;nbsp; the marketplace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="5" y="1110" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-80" target="6_uzfnBQi8sRk2ZBfKsb-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-80" value="&lt;b&gt;6. Prospects and Financial Attractiveness of Industry&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="115" y="1170" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-81" value="use the results of analysis of previous&amp;nbsp; six&amp;nbsp; issues&amp;nbsp; to&amp;nbsp; draw&amp;nbsp; conclusions&amp;nbsp; about&amp;nbsp;&amp;nbsp; the&amp;nbsp; relative&amp;nbsp; attractiveness&amp;nbsp; or unattractiveness of&amp;nbsp;&amp;nbsp; the industry,&amp;nbsp;&amp;nbsp; both&amp;nbsp;&amp;nbsp; near-term and&amp;nbsp;&amp;nbsp; long-term.&amp;nbsp;&amp;nbsp; Company strategists are obligated to assess the industry outlook carefully, deciding whether industry and competitive conditions present an attractive business opportunity forthe&amp;nbsp; organisation&amp;nbsp; or&amp;nbsp; whether its growth and&amp;nbsp; profit prospects are&amp;nbsp; gloomy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-17.5" y="1240" width="455" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="6_uzfnBQi8sRk2ZBfKsb-83" target="6_uzfnBQi8sRk2ZBfKsb-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_uzfnBQi8sRk2ZBfKsb-83" value="&lt;b&gt;1. understand Nature and Strength of Competition&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="125" y="200" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
