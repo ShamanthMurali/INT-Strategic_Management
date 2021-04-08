@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T15:38:52.733Z" agent="5.0 (X11)" etag="566vsiKR-HUN-6ROh292" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T16:07:18.448Z" agent="5.0 (X11)" etag="GzddXXiJB7FZJeIQS7LW" version="14.5.8" type="github">
   <diagram id="OxiS7HQigqw9MGaQPDIi" name="Page-1">
-    <mxGraphModel dx="2433" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -857,65 +857,6 @@
         <mxCell id="2-Skqq9jJ75yhQD4SqxQ-302" value="sales and profits fall down sharply due to&lt;br&gt;some new product replaces the existing product." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="810" y="1420" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7yqCHBxFeUEx6QCacu0c-8" target="7yqCHBxFeUEx6QCacu0c-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7yqCHBxFeUEx6QCacu0c-8" target="7yqCHBxFeUEx6QCacu0c-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7yqCHBxFeUEx6QCacu0c-8" target="7yqCHBxFeUEx6QCacu0c-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7yqCHBxFeUEx6QCacu0c-8" target="7yqCHBxFeUEx6QCacu0c-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7yqCHBxFeUEx6QCacu0c-8" target="7yqCHBxFeUEx6QCacu0c-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7yqCHBxFeUEx6QCacu0c-8" target="7yqCHBxFeUEx6QCacu0c-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7yqCHBxFeUEx6QCacu0c-8" target="7yqCHBxFeUEx6QCacu0c-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7yqCHBxFeUEx6QCacu0c-8" value="Competitive Strategy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" width="120" height="40" as="geometry" />
-        </mxCell>
-        <UserObject label="Competitive Landscape" treeRoot="1" id="7yqCHBxFeUEx6QCacu0c-9">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="-130" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Strategic Analysis" treeRoot="1" id="7yqCHBxFeUEx6QCacu0c-10">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="10" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Industry and Competitive Analysis" treeRoot="1" id="7yqCHBxFeUEx6QCacu0c-11">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div&gt;Core &lt;br&gt;&lt;/div&gt;&lt;div&gt;Competence&lt;/div&gt;" treeRoot="1" id="7yqCHBxFeUEx6QCacu0c-12">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="290" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Competitive Advantage" treeRoot="1" id="7yqCHBxFeUEx6QCacu0c-13">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="430" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Matrix Analysis" treeRoot="1" id="7yqCHBxFeUEx6QCacu0c-14">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="570" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Globalisation" treeRoot="1" id="7yqCHBxFeUEx6QCacu0c-15">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="710" y="80" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
