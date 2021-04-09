@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T20:48:35.588Z" agent="5.0 (X11)" etag="uPJeKCR96usEvI64EQiK" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T17:16:51.359Z" agent="5.0 (X11)" etag="TEjA0iSq2hRWc1DfzZV-" version="14.5.8" type="github">
   <diagram id="CXtjrz0CC56r9_kdbqIl" name="Page-1">
-    <mxGraphModel dx="1244" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1252" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mMcOxIyKWQ6gz_tthfHf-1" value="Strategic Management Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMcOxIyKWQ6gz_tthfHf-1" target="QLJabMkSsxI0vp1HL2iL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMcOxIyKWQ6gz_tthfHf-1" value="Strategic Management Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-2" target="QLJabMkSsxI0vp1HL2iL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-2" value="Planning means deciding what needs to done in the future and generating blueprints for action. &lt;u&gt;Planning involves determination of the&lt;br&gt;course of action to attain the predetermined objectives.&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-4" target="QLJabMkSsxI0vp1HL2iL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-4" target="QLJabMkSsxI0vp1HL2iL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-4" value="&lt;u&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-7" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-8" value="Strategic Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
