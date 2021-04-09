@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T17:16:51.359Z" agent="5.0 (X11)" etag="TEjA0iSq2hRWc1DfzZV-" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T17:17:08.391Z" agent="5.0 (X11)" etag="kyWbTqPwKYGqfXp1r_KZ" version="14.5.8" type="github">
   <diagram id="CXtjrz0CC56r9_kdbqIl" name="Page-1">
     <mxGraphModel dx="1252" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="380" y="130" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QLJabMkSsxI0vp1HL2iL-7" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QLJabMkSsxI0vp1HL2iL-8" value="Strategic Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
