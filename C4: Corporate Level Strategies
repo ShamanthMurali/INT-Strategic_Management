@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T17:24:35.742Z" agent="5.0 (X11)" etag="c2m5l_gO4DF2-e2xYkOf" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T17:28:22.458Z" agent="5.0 (X11)" etag="y_8DW_noLX0rZ1Up-G-t" version="14.5.10" type="github">
   <diagram id="RixgKizn2iweD-DXBTsM" name="Page-1">
     <mxGraphModel dx="2738" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,9 +97,6 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-33" target="tAh5_Dv9XLEUhuwZVZgv-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-34" value="horizontal intergrated" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-41" value="Forward" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-750" y="320" width="120" height="40" as="geometry">
             <mxRectangle x="-760" y="320" width="470" height="120" as="alternateBounds" />
@@ -110,7 +107,7 @@
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-42" value="Backward" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-610" y="320" width="120" height="40" as="geometry">
-            <mxRectangle x="-600" y="320" width="440" height="130" as="alternateBounds" />
+            <mxRectangle x="-610" y="320" width="440" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-16" value="• Backward integration is a step towards, creation of effective supply by entering&lt;br&gt;business of input providers.&lt;br&gt;• This Strategy is employed to gain greater control over production of a product.&lt;br&gt;• Here company will purchase or build a business that will increase its own supply&lt;br&gt;capability or lessen its cost of production. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-42">
@@ -195,6 +192,14 @@
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-18" value="• Diversification is expansion by entering into new businesses other than current&lt;br&gt;ones.&lt;br&gt;• It may be entry into new markets or introduction of new products. It may be into&lt;br&gt;related or unrelated businesses of the firm." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-20">
           <mxGeometry y="40" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-34" value="&lt;div&gt;horizontal &lt;br&gt;&lt;/div&gt;&lt;div&gt;intergrated&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-520" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="-520" y="240" width="470" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-19" value="Through the acquisition of one or more similar&lt;br&gt;businesses operating at the same stage of the production or marketing that is offering&lt;br&gt;complimentary products or by-products or taking over products of competitors. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-34">
+          <mxGeometry y="40" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
