@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T19:36:28.859Z" agent="5.0 (X11)" etag="eUehrtX4vlQ0pk9yMv4c" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T20:04:32.773Z" agent="5.0 (X11)" etag="QHs_JfEs3Squ0hwASKw7" version="14.5.10" type="github">
   <diagram id="RixgKizn2iweD-DXBTsM" name="Page-1">
-    <mxGraphModel dx="2738" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2738" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,17 +19,14 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-1" value="Strategy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-7" edge="1">
+        <mxCell id="TysiPa89LfpG7-aD6HDz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="TysiPa89LfpG7-aD6HDz-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-5">
+        <mxCell id="TysiPa89LfpG7-aD6HDz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="TysiPa89LfpG7-aD6HDz-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-2" value="Retrenchment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,16 +41,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-5" value="Liquidation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="780" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-6" value="Combination" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-7" value="Divestment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-8" value="turn around" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -271,6 +268,21 @@
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Reasons&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;• To meet the basic business urge to grow&lt;br&gt;• To achieve a measure of synergy between the parent and acquired firms.&lt;br&gt;The synergy may arise from factors like physical facilities, technical and&lt;br&gt;managerial skills, distribution channels, general administration, R&amp;amp;D etc. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
           <mxGeometry y="340" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TysiPa89LfpG7-aD6HDz-42" target="tAh5_Dv9XLEUhuwZVZgv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-42" value="Internal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TysiPa89LfpG7-aD6HDz-43" target="tAh5_Dv9XLEUhuwZVZgv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TysiPa89LfpG7-aD6HDz-43" target="tAh5_Dv9XLEUhuwZVZgv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-43" value="external" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
