@@ -1,35 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T17:17:08.391Z" agent="5.0 (X11)" etag="kyWbTqPwKYGqfXp1r_KZ" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T05:39:18.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="DNgcfgQedBqjGT4vZqaz" version="14.5.8" type="github">
   <diagram id="CXtjrz0CC56r9_kdbqIl" name="Page-1">
-    <mxGraphModel dx="1252" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMcOxIyKWQ6gz_tthfHf-1" target="QLJabMkSsxI0vp1HL2iL-2">
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMcOxIyKWQ6gz_tthfHf-1" target="QLJabMkSsxI0vp1HL2iL-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mMcOxIyKWQ6gz_tthfHf-1" value="Strategic Management Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-2" target="QLJabMkSsxI0vp1HL2iL-4">
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QLJabMkSsxI0vp1HL2iL-2" target="QLJabMkSsxI0vp1HL2iL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-2" value="Planning means deciding what needs to done in the future and generating blueprints for action. &lt;u&gt;Planning involves determination of the&lt;br&gt;course of action to attain the predetermined objectives.&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-2" value="Planning means deciding what needs to done in the future and generating blueprints for action. &lt;u&gt;Planning involves determination of the&lt;br&gt;course of action to attain the predetermined objectives.&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-4" target="QLJabMkSsxI0vp1HL2iL-8">
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QLJabMkSsxI0vp1HL2iL-4" target="QLJabMkSsxI0vp1HL2iL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-4" target="QLJabMkSsxI0vp1HL2iL-7">
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QLJabMkSsxI0vp1HL2iL-4" target="QLJabMkSsxI0vp1HL2iL-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-4" value="&lt;u&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-4" value="&lt;u&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="130" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-7" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-7" target="N-dBoI1tjxxxeQjzbhxL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-7" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QLJabMkSsxI0vp1HL2iL-8" value="Strategic Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLJabMkSsxI0vp1HL2iL-8" target="N-dBoI1tjxxxeQjzbhxL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QLJabMkSsxI0vp1HL2iL-8" value="Strategic Planning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-1" target="N-dBoI1tjxxxeQjzbhxL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-1" value="1.&amp;nbsp;&lt;span&gt;made by the senior management for the entire&lt;/span&gt;&lt;div&gt;organization&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span&gt;game plan that actually steers the firm towards&lt;/span&gt;&lt;/div&gt;&lt;div&gt;success.&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&lt;span&gt;determining the objectives of the firm, resources&lt;/span&gt;&lt;/div&gt;&lt;div&gt;required to attain these objectives and formulation of policies to govern&amp;nbsp;&lt;span&gt;the acquisition, use and disposition of resources.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-2" target="N-dBoI1tjxxxeQjzbhxL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-2" value="1.&amp;nbsp;&lt;span&gt;made at the middle and lower&lt;/span&gt;&lt;div&gt;level management.&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span&gt;how the resources are to be&lt;/span&gt;&lt;/div&gt;&lt;div&gt;utilized efficiently for the attainment of objectives.&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&lt;span&gt;Operational level managers should be&lt;/span&gt;&lt;/div&gt;&lt;div&gt;efficient enough to understand the overall vision of the organisation and&amp;nbsp;&lt;span&gt;work accordingly to fulfil it within the allocated time.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-5" target="N-dBoI1tjxxxeQjzbhxL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-5" value="STRATEGIC DECISION MAKING" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-8" target="N-dBoI1tjxxxeQjzbhxL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-8" value="&lt;div&gt;Decision making is a managerial process of selecting the best course of action&amp;nbsp;&lt;span&gt;out of several alternative coursesfor the purpose of accomplishment of the&amp;nbsp;&lt;/span&gt;&lt;span&gt;organizational goals.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-10" target="N-dBoI1tjxxxeQjzbhxL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-10" value="Characteristics" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="580" width="420" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-11" value="&lt;div&gt;i. Strategic decisions require top-management involvement.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ii. Strategic decisions involve commitment of organisational resources.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;iii. Strategic decisions are likely to have a significant impact on the long term&lt;/div&gt;&lt;div&gt;prosperity of the firm.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;iv. Strategic decisions are future oriented.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;v. Strategic decisions usually have major multifunctional or multi-business&lt;/div&gt;&lt;div&gt;consequences&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N-dBoI1tjxxxeQjzbhxL-10">
+          <mxGeometry y="40" width="420" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-13" target="N-dBoI1tjxxxeQjzbhxL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-13" value="STRATEGIC INTENTION" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-15" target="N-dBoI1tjxxxeQjzbhxL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-15" value="Strategic intent is the term used to describe the aspirational plans, overarching purpose or intended direction of travel needed to reach an organisational vision" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-18" value="&lt;b&gt;&lt;u&gt;Elements&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="790" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
