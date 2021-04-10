@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T17:28:22.458Z" agent="5.0 (X11)" etag="y_8DW_noLX0rZ1Up-G-t" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T18:27:46.488Z" agent="5.0 (X11)" etag="gQ-ZPN7gxqZ95GRaygpM" version="14.5.10" type="github">
   <diagram id="RixgKizn2iweD-DXBTsM" name="Page-1">
     <mxGraphModel dx="2738" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-2" value="Retrenchment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,19 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-5" value="Liquidation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-6" value="Combination" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-7" value="Divestment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-8" value="turn around" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-17" value="Mergers and acquisition " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,9 +67,6 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-18" value="intensification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-950" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-19" value="Strategic alliance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -85,11 +79,21 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-31" value="concentric diversification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-31" value="&lt;div&gt;concentric&lt;/div&gt;&lt;div&gt;diversification&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-280" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="-280" y="240" width="270" height="150" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-32" value="conglomerate diversification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="TysiPa89LfpG7-aD6HDz-21" value="Concentric diversification refers to that diversification in which the company goes into a new business which is closely related to the current business or in simple words company develops products or services which are closely related with current core products or services of the company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-31">
+          <mxGeometry y="40" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-32" value="&lt;div&gt;conglomerate&lt;/div&gt;&lt;div&gt;diversification&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-410" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="-410" y="240" width="430" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-20" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-32">
+          <mxGeometry y="40" width="430" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-33" target="tAh5_Dv9XLEUhuwZVZgv-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -186,7 +190,7 @@
           <mxGeometry y="40" width="460" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-20" value="Diversification" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-440" y="160" width="120" height="40" as="geometry">
+          <mxGeometry x="-480" y="160" width="120" height="40" as="geometry">
             <mxRectangle x="-440" y="160" width="450" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -194,12 +198,73 @@
           <mxGeometry y="40" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-34" value="&lt;div&gt;horizontal &lt;br&gt;&lt;/div&gt;&lt;div&gt;intergrated&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-520" y="240" width="120" height="40" as="geometry">
+          <mxGeometry x="-545" y="240" width="120" height="40" as="geometry">
             <mxRectangle x="-520" y="240" width="470" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-19" value="Through the acquisition of one or more similar&lt;br&gt;businesses operating at the same stage of the production or marketing that is offering&lt;br&gt;complimentary products or by-products or taking over products of competitors. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-34">
           <mxGeometry y="40" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-17" target="TysiPa89LfpG7-aD6HDz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-17" target="TysiPa89LfpG7-aD6HDz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-17" target="TysiPa89LfpG7-aD6HDz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-17" target="TysiPa89LfpG7-aD6HDz-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-17" value="&lt;div&gt;Mergers &lt;br&gt;&lt;/div&gt;&lt;div&gt;and acquisition &lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="30" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="150" width="480" height="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-22" value="Merger and acquisition in simple words are defined as a process of combining two&lt;br&gt;or more organizations together." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
+          <mxGeometry y="40" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-23" value="Merger is considered to be a process when two or more companies come together&lt;br&gt;to expand their business operations. In such a case the deal gets finalized on&lt;br&gt;&lt;u&gt;&lt;b&gt;friendly&lt;/b&gt;&lt;/u&gt; terms and both the organizations share profits in the newly created entity.&lt;br&gt;In a merger two organizations combine to increase their strength and financial&lt;br&gt;gains along with breaking the trade barriers." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
+          <mxGeometry y="100" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-24" value="When one organization takes over the other organization and controls all its&lt;br&gt;business operations, it is known as acquisitions. In this process of acquisition, one&lt;br&gt;financially strong organization overpowers the weaker one. It is also called as&lt;br&gt;&lt;u&gt;&lt;b&gt;takeover or absorption&lt;/b&gt;&lt;/u&gt;. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
+          <mxGeometry y="180" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-19" value="Strategic alliance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-31" value="&lt;div&gt;Conglomerate&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="220" y="240" width="430" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-32" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-31">
+          <mxGeometry y="40" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-29" value="&lt;div&gt;Co-generic&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="100" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="100" y="240" width="430" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-30" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-29">
+          <mxGeometry y="40" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-27" value="&lt;div&gt;Vertical&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-20" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="-20" y="240" width="430" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-28" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-27">
+          <mxGeometry y="40" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-25" value="&lt;div&gt;Horizontal&lt;/div&gt;&lt;div&gt;Merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-140" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="-140" y="240" width="430" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-26" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-25">
+          <mxGeometry y="40" width="430" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
