@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T18:27:46.488Z" agent="5.0 (X11)" etag="gQ-ZPN7gxqZ95GRaygpM" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T19:01:51.931Z" agent="5.0 (X11)" etag="O3dTt4fv2agWOj1ZnQtf" version="14.5.10" type="github">
   <diagram id="RixgKizn2iweD-DXBTsM" name="Page-1">
     <mxGraphModel dx="2738" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -217,9 +217,44 @@
         <mxCell id="TysiPa89LfpG7-aD6HDz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-17" target="TysiPa89LfpG7-aD6HDz-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-19" value="Strategic alliance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-31" value="&lt;div&gt;Conglomerate&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="220" y="240" width="430" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-32" value="• Conglomerate mergers are the combination of organizations that are&lt;br&gt;unrelated to each other.&lt;br&gt;• There are no linkages with respect to customer groups, customer functions&lt;br&gt;and technologies being used. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-31">
+          <mxGeometry y="40" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-29" value="&lt;div&gt;Co-generic&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="100" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="100" y="240" width="430" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-30" value="A congeneric merger is where the acquiring company and the target company are in the same or related industry but have different business lines or products." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-29">
+          <mxGeometry y="40" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-27" value="&lt;div&gt;Vertical&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-20" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="-20" y="240" width="430" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-28" value="• It is a merger of two organizations that are operating in the same industry but&lt;br&gt;at different stages of production or distribution system- This often leads to&lt;br&gt;increased synergies with the merging firms.&lt;br&gt;• If an organization takes over its supplier/producers of raw material, then it&lt;br&gt;leads to backward integration. On the other hand, when an organization&lt;br&gt;decides to take over its buyer organizations or distribution channels it is&lt;br&gt;forward integration.&lt;br&gt;• Vertical merger results in many operating and financial economies. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-27">
+          <mxGeometry y="40" width="430" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-25" value="&lt;div&gt;Horizontal&lt;/div&gt;&lt;div&gt;Merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-140" y="240" width="110" height="40" as="geometry">
+            <mxRectangle x="-140" y="240" width="430" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-26" value="• Horizontal mergers are combinations of firms engaged in the same industry.&lt;br&gt;It is a merger with a direct competitor.&lt;br&gt;• The principal objective behind this type of mergers is to achieve economies&lt;br&gt;of scale in the production process by shedding duplication of installations and&lt;br&gt;functions, widening the line of products, decrease in working capital and fixed&lt;br&gt;assets investment, getting rid of competition and so on." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-25">
+          <mxGeometry y="40" width="430" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-17" value="&lt;div&gt;Mergers &lt;br&gt;&lt;/div&gt;&lt;div&gt;and acquisition &lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="30" y="160" width="120" height="40" as="geometry">
-            <mxRectangle x="-40" y="150" width="480" height="260" as="alternateBounds" />
+            <mxRectangle x="30" y="160" width="480" height="420" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-22" value="Merger and acquisition in simple words are defined as a process of combining two&lt;br&gt;or more organizations together." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
@@ -231,40 +266,11 @@
         <mxCell id="TysiPa89LfpG7-aD6HDz-24" value="When one organization takes over the other organization and controls all its&lt;br&gt;business operations, it is known as acquisitions. In this process of acquisition, one&lt;br&gt;financially strong organization overpowers the weaker one. It is also called as&lt;br&gt;&lt;u&gt;&lt;b&gt;takeover or absorption&lt;/b&gt;&lt;/u&gt;. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
           <mxGeometry y="180" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-19" value="Strategic alliance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="TysiPa89LfpG7-aD6HDz-39" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Reasons&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;• To meet the basic business urge to grow&lt;br&gt;• To achieve a measure of synergy between the parent and acquired firms.&lt;br&gt;The synergy may arise from factors like physical facilities, technical and&lt;br&gt;managerial skills, distribution channels, general administration, R&amp;amp;D etc. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
+          <mxGeometry y="260" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-31" value="&lt;div&gt;Conglomerate&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="220" y="240" width="110" height="40" as="geometry">
-            <mxRectangle x="220" y="240" width="430" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-32" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-31">
-          <mxGeometry y="40" width="430" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-29" value="&lt;div&gt;Co-generic&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="100" y="240" width="110" height="40" as="geometry">
-            <mxRectangle x="100" y="240" width="430" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-30" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-29">
-          <mxGeometry y="40" width="430" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-27" value="&lt;div&gt;Vertical&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-20" y="240" width="110" height="40" as="geometry">
-            <mxRectangle x="-20" y="240" width="430" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-28" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-27">
-          <mxGeometry y="40" width="430" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-25" value="&lt;div&gt;Horizontal&lt;/div&gt;&lt;div&gt;Merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-140" y="240" width="110" height="40" as="geometry">
-            <mxRectangle x="-140" y="240" width="430" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TysiPa89LfpG7-aD6HDz-26" value="conglomerate diversification refers to that diversification&amp;nbsp; in which company goes into new business which is completely unrelated to current business of the company or in simple words company develops products or services which have no relation with current core products or services of the company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-25">
-          <mxGeometry y="40" width="430" height="70" as="geometry" />
+        <mxCell id="TysiPa89LfpG7-aD6HDz-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Reasons&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;• To meet the basic business urge to grow&lt;br&gt;• To achieve a measure of synergy between the parent and acquired firms.&lt;br&gt;The synergy may arise from factors like physical facilities, technical and&lt;br&gt;managerial skills, distribution channels, general administration, R&amp;amp;D etc. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-17">
+          <mxGeometry y="340" width="480" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
