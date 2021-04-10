@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T19:01:51.931Z" agent="5.0 (X11)" etag="O3dTt4fv2agWOj1ZnQtf" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T19:36:28.859Z" agent="5.0 (X11)" etag="eUehrtX4vlQ0pk9yMv4c" version="14.5.10" type="github">
   <diagram id="RixgKizn2iweD-DXBTsM" name="Page-1">
     <mxGraphModel dx="2738" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,9 +13,6 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -28,8 +25,11 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-2" value="Retrenchment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-5" value="Liquidation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="770" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-6" value="Combination" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="910" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-7" value="Divestment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-8" value="turn around" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
