@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T06:01:31.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="IhZG1X59R-syOdldyRu1" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T06:14:59.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="vZ8V3GDnHyyCubPIijbJ" version="14.5.8" type="github">
   <diagram id="CXtjrz0CC56r9_kdbqIl" name="Page-1">
     <mxGraphModel dx="2107" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,6 +142,9 @@
         <mxCell id="N-dBoI1tjxxxeQjzbhxL-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N-dBoI1tjxxxeQjzbhxL-37">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-35" target="N-dBoI1tjxxxeQjzbhxL-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N-dBoI1tjxxxeQjzbhxL-35" value="Mission" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="200" y="1080" width="120" height="40" as="geometry">
             <mxRectangle x="200" y="1080" width="440" height="170" as="alternateBounds" />
@@ -154,15 +157,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-dBoI1tjxxxeQjzbhxL-33" value="Vision" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="40" y="1080" width="120" height="40" as="geometry">
+          <mxGeometry x="-230" y="1080" width="120" height="40" as="geometry">
             <mxRectangle x="40" y="1080" width="420" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-dBoI1tjxxxeQjzbhxL-34" value="&lt;div&gt;• Vision implies the blueprint of the company’s future position. It describes&lt;/div&gt;&lt;div&gt;where the organisation wants to land.&lt;/div&gt;&lt;div&gt;• It represent (depicts) the organisation’s aspirations and provides a glance&lt;/div&gt;&lt;div&gt;(glimpse) of what the organization would like to become in future.&lt;/div&gt;&lt;div&gt;• Every sub system of the organization is required to follow its vision.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N-dBoI1tjxxxeQjzbhxL-33">
           <mxGeometry y="40" width="420" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="N-dBoI1tjxxxeQjzbhxL-43" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Tesla&lt;/u&gt;&lt;/b&gt;: To accelerate the world’s transition to sustainable energy.&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Nike&lt;/u&gt;&lt;/b&gt;: Bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;TED&lt;/u&gt;&lt;/b&gt;: Spread ideas.&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Amazon&lt;/u&gt;&lt;/b&gt;: To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Google&lt;/u&gt;&lt;/b&gt;: To organize the world’s information and make it universally accessible and useful.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;ICAI&lt;/u&gt;&lt;/b&gt;: World’s becomes leading accounting body, a regulator and&lt;/div&gt;&lt;div&gt;developer of trusted and independent professionals with world class&amp;nbsp;&lt;span&gt;competencies in accounting, assurance, taxation, finance and business&amp;nbsp;&lt;/span&gt;&lt;span&gt;advisoryservices.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1140" width="360" height="210" as="geometry" />
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-dBoI1tjxxxeQjzbhxL-43" target="N-dBoI1tjxxxeQjzbhxL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-43" value="&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;ICAI&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;: World’s becomes leading accounting body, a regulator and&lt;/div&gt;&lt;div&gt;developer of trusted and independent professionals with world class&lt;/div&gt;&lt;div&gt;competencies in accounting, assurance, taxation, finance and business&lt;/div&gt;&lt;div&gt;advisoryservices.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Google’s&lt;/i&gt;&lt;/u&gt;&lt;/b&gt;: “to provide access to the world’s information in one click.”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Amazon&lt;/i&gt;&lt;/u&gt;&lt;/b&gt;: To be Earth’s most customer-centric company, where&lt;/div&gt;&lt;div&gt;customers can find and discover anything they might want to buy&lt;/div&gt;&lt;div&gt;online.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;TED&lt;/i&gt;&lt;/u&gt;&lt;/b&gt;: We believe passionately in the power of ideas to change attitudes,&lt;/div&gt;&lt;div&gt;lives and, ultimately, the world.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Tesla&lt;/i&gt;&lt;/u&gt;&lt;/b&gt;: To create the most compelling car company of the 21st&lt;/div&gt;&lt;div&gt;century by driving the world’s transition to electric vehicles.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1140" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-45" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Essentials&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;• The entrepreneurial challenge in developing a strategic vision is to think&lt;/div&gt;&lt;div&gt;creatively about how to prepare a company for the future.&lt;/div&gt;&lt;div&gt;• A well-articulated (spoken) strategic vision creates enthusiasm among the&amp;nbsp;&lt;span&gt;members of the organisation.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;• Forming a strategic vision is an exercise in intelligent entrepreneurship.&lt;/div&gt;&lt;div&gt;• The best-worded vision statement clearly enhances the direction in which&lt;/div&gt;&lt;div&gt;organization is headed.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1400" width="400" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N-dBoI1tjxxxeQjzbhxL-47" value="&lt;div&gt;1. &lt;b&gt;&lt;u&gt;ICAI&lt;/u&gt;&lt;/b&gt;: ICAI will leverage technology and infrastructure and partner&lt;/div&gt;&lt;div&gt;withits stake holders to...&lt;/div&gt;&lt;div&gt;• Impart world class education, training and professional development&lt;/div&gt;&lt;div&gt;opportunities to create global professionals.&lt;/div&gt;&lt;div&gt;• Develop an independent and transparen tregulatory mechanism that&lt;/div&gt;&lt;div&gt;keeps pace with the changing times.&lt;/div&gt;&lt;div&gt;• Ensure adherence to highest ethical standards.&lt;/div&gt;&lt;div&gt;• Conduct cutting edge research and development in the areas of accounting,&amp;nbsp;&lt;span&gt;assurance, taxation, finance and business advisory services&lt;/span&gt;&lt;/div&gt;&lt;div&gt;• Establish ICAI members and firms as Indian multi-national service&lt;/div&gt;&lt;div&gt;providers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;b&gt;&lt;u&gt;Google’s&lt;/u&gt;&lt;/b&gt;: To organize the world’s information and makeit universally&lt;/div&gt;&lt;div&gt;accessible anduseful”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;b&gt;&lt;u&gt;Amazon&lt;/u&gt;&lt;/b&gt;: We strive to offer our customers the lowest possibleprices, the&lt;/div&gt;&lt;div&gt;best available selection, and the utmostconvenience.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;b&gt;&lt;u&gt;TED&lt;/u&gt;&lt;/b&gt;: Spreadideas.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;b&gt;&lt;u&gt;Tesla&lt;/u&gt;&lt;/b&gt;: To accelerate the world’s transition to sustainableenergy.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1140" width="410" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
