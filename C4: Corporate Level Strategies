@@ -1,131 +1,200 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T07:14:12.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="1izJi6wNsy4zSlaYMHL4" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T17:22:18.144Z" agent="5.0 (X11)" etag="bGWr7nvYUmRZiZleCgeJ" version="14.5.10" type="github">
   <diagram id="RixgKizn2iweD-DXBTsM" name="Page-1">
-    <mxGraphModel dx="3798" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2738" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-2">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-3">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-4">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-5">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-6">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-1" target="tAh5_Dv9XLEUhuwZVZgv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-1" value="Strategy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-1" value="Strategy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-7">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-8">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="tAh5_Dv9XLEUhuwZVZgv-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-2" value="Retrenchment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-2" value="Retrenchment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-17">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-20">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-19">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-18">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-3" value="Expansion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-4" value="Stability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-5" value="Liquidation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-5" value="Liquidation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-6" value="Combination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-6" value="Combination" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-7" value="Divestment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-7" value="Divestment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-8" value="turn around" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-8" value="turn around" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-17" value="M&amp;amp;A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-17" value="Mergers and acquisition " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-25">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-27">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-26">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-18" target="tAh5_Dv9XLEUhuwZVZgv-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-18" value="intensification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-18" value="intensification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-19" value="St. alliance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-19" value="Strategic alliance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-31">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-32">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-33">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-34">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-20" target="tAh5_Dv9XLEUhuwZVZgv-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-20" value="Diversification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-25" value="market development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-26" value="product development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-27" value="market penetration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-31" value="concentric diversification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-32" value="conglomerate diversification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-33" target="tAh5_Dv9XLEUhuwZVZgv-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-33" target="tAh5_Dv9XLEUhuwZVZgv-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-33" value="vertically intergrated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-34" value="horizontal intergrated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-31" value="concentric diversification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-41" value="Forward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-32" value="conglomerate diversification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-42" value="Backward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-33" target="tAh5_Dv9XLEUhuwZVZgv-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-33" target="tAh5_Dv9XLEUhuwZVZgv-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-34" value="horizontal intergrated" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-41" value="Forward" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-760" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="-760" y="320" width="470" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-15" value="• On the other hand, forward integration is moving forward in the value chain and&lt;br&gt;entering business lines that use our existing products.&lt;br&gt;• Forward integration will also take place where organizations enter into businesses&lt;br&gt;of distribution channels." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-41">
+          <mxGeometry y="40" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-42" value="Backward" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-600" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="-600" y="320" width="440" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-16" value="• Backward integration is a step towards, creation of effective supply by entering&lt;br&gt;business of input providers.&lt;br&gt;• This Strategy is employed to gain greater control over production of a product.&lt;br&gt;• Here company will purchase or build a business that will increase its own supply&lt;br&gt;capability or lessen its cost of production. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-42">
+          <mxGeometry y="40" width="440" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TysiPa89LfpG7-aD6HDz-1" target="tAh5_Dv9XLEUhuwZVZgv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-1" value="given by glueck and jauch. they define various strategic options as strategy alternatives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-120" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TysiPa89LfpG7-aD6HDz-2" target="TysiPa89LfpG7-aD6HDz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-2" value="Corporate level strategies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-4" value="Stability" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-1320" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="-1320" y="80" width="410" height="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-4">
+          <mxGeometry y="40" width="410" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-6" value="Stability strategy is the one in which the organisation maintains the current size and current level of operation. If the environment is stable and the organisation is doing well then it may decide to make no changes." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-4">
+          <mxGeometry x="10" y="50" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-7" value="&lt;u&gt;&lt;b&gt;objective&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp;To safeguard its existing interests and strengths,&lt;br&gt;&amp;nbsp;To pursue well established and tested objectives,&lt;br&gt;&amp;nbsp;To continue in the chosen business path, (no major change in the product or&lt;br&gt;&amp;nbsp;Service line, markets, or functions)&lt;br&gt;&amp;nbsp;To maintain operational efficiency on a sustained basis,&lt;br&gt;&amp;nbsp;To optimize returns on the resources committed in the business." style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-4">
+          <mxGeometry x="10" y="120" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-8" value="&lt;div&gt;&lt;u&gt;A stability strategy is pursued by a firm when:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;/u&gt;&lt;br&gt; &amp;gt;&amp;nbsp; The environment faced is relatively stable. Expansion may be perceived as  being threatening,&lt;br&gt;&amp;gt;  It is less risky, involves less changes and people feel comfortable with things as they are.&lt;br&gt;&amp;gt;&amp;nbsp; After a period of rapid expansion, consolidation is sought through stabilizing&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-4">
+          <mxGeometry x="10" y="260" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-3" value="Expansion" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-240" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="-240" y="80" width="390" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-9" value="Expansion strategy is implemented by redefining the business by adding&lt;br&gt;the scope of business substantially increasing the efforts of the current&lt;br&gt;business.&lt;br&gt;• This strategy helps the firm to grow either by intensification or&lt;br&gt;&lt;div&gt;diversification.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Rewards and risks are very high. &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-3">
+          <mxGeometry y="40" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-10" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Uses&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;i. It may become imperative when environment demands increase in activity,&lt;br&gt;ii. Increasing size may lead to more control over the market&lt;br&gt;vis-à-vis competitors.&lt;br&gt;iii Advantages from the experience curve and scale of operations may accrue.&lt;br&gt;iv. Psychologically, strategists may feel more satisfied with the prospects of growth from expansion; chief executives may take pride in presiding over organizations perceived to be growth-oriented. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-3">
+          <mxGeometry y="170" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-27" value="&lt;div&gt;market &lt;br&gt;&lt;/div&gt;&lt;div&gt;penetration&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-1160" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="-1160" y="240" width="440" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-11" value="&lt;u&gt;&lt;b&gt;Existing products in the existing market&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;i. The most common expansion strategy is market penetration/concentration on&lt;/div&gt;the current business. The firm directs its resources to the profitable growth of&lt;br&gt;a single product, in a single market, and with a single technology.&lt;br&gt;ii. It is adopted by Increasing market share, increasing product usage, Increase&lt;br&gt;the frequency used, Increasing the quantity used, Finding the new application&lt;br&gt;for the existing users. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-27">
+          <mxGeometry y="40" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-25" value="&lt;div&gt;market &lt;br&gt;&lt;/div&gt;&lt;div&gt;development&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-1000" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="-1000" y="240" width="450" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-12" value="&lt;u&gt;&lt;b&gt;Existing products in new markets to sell more.&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;i. It consists of marketing present products, to customers in related market&lt;/div&gt;areas by adding different channels of distribution or by changing the content&lt;br&gt;of advertising or the promotional media.&lt;br&gt;ii. It is adopted by expanding geographically and by targeting new market&lt;br&gt;segments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-25">
+          <mxGeometry y="40" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-26" value="&lt;div&gt;product&lt;/div&gt;&lt;div&gt;development&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-840" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="-840" y="240" width="440" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-14" value="&lt;u&gt;&lt;b&gt;Existing markets - new products &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;i. Product Development involves substantial modification of existing products or&lt;/div&gt;creation of new but related items that can be marketed to current customers&lt;br&gt;through establish channels.&lt;br&gt;ii. It is adopted by adding more features to the existing product, product&lt;br&gt;refinement, developing a new-generation product for the same market. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-26">
+          <mxGeometry y="40" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-33" value="&lt;div&gt;vertically &lt;br&gt;&lt;/div&gt;&lt;div&gt;intergrated&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-680" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="-680" y="240" width="460" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-17" value="• In this firms engage in businesses that are related to the existing businesses of the&lt;br&gt;firm.&lt;br&gt;• The firm either becomes its own supplier or distributor.&lt;br&gt;• Sequentially it moves forward or backward in the chain It can be through either&lt;br&gt;backward or Forward Integrations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-33">
+          <mxGeometry y="40" width="460" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tAh5_Dv9XLEUhuwZVZgv-20" value="Diversification" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-440" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="-440" y="160" width="450" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-18" value="• Diversification is expansion by entering into new businesses other than current&lt;br&gt;ones.&lt;br&gt;• It may be entry into new markets or introduction of new products. It may be into&lt;br&gt;related or unrelated businesses of the firm." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-20">
+          <mxGeometry y="40" width="450" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
