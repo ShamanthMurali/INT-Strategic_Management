@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T21:02:37.791Z" agent="5.0 (X11)" etag="eF2Sil6pksL9vYagBFLe" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T21:06:51.073Z" agent="5.0 (X11)" etag="fFseXAqChduL5Fl0Efft" version="14.5.10" type="github">
   <diagram id="RixgKizn2iweD-DXBTsM" name="Page-1">
-    <mxGraphModel dx="2738" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2538" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="tAh5_Dv9XLEUhuwZVZgv-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-5" target="TysiPa89LfpG7-aD6HDz-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-5" value="Liquidation" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="770" y="240" width="120" height="40" as="geometry">
             <mxRectangle x="780" y="240" width="460" height="230" as="alternateBounds" />
@@ -47,11 +50,14 @@
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-6" value="Combination" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="900" y="80" width="120" height="40" as="geometry">
-            <mxRectangle x="910" y="80" width="460" height="200" as="alternateBounds" />
+            <mxRectangle x="900" y="80" width="460" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-56" value="• Stability, Expansion and retrenchment are not mutually exclusive alternatives and&lt;br&gt;hence, a combination of all the same can be adopted.&lt;br&gt;• An enterprise may seek, stability in certain areas of business or for certain product&lt;br&gt;lines or certain businesses and Expansion for others - This is a combination&lt;br&gt;strategy.&lt;br&gt;• Reasons for Adopting Combination Strategies:&lt;br&gt; Large enterprises are complex, one strategy for entire business may not suit&lt;br&gt;them&lt;br&gt; Portfolio of businesses cannot be managed with single strategy. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-6">
           <mxGeometry y="40" width="460" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-7" target="TysiPa89LfpG7-aD6HDz-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-7" value="Divestment" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="630" y="240" width="120" height="40" as="geometry">
@@ -115,6 +121,13 @@
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-33" target="tAh5_Dv9XLEUhuwZVZgv-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-41" target="TysiPa89LfpG7-aD6HDz-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-41" value="Forward" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-750" y="320" width="120" height="40" as="geometry">
             <mxRectangle x="-760" y="320" width="470" height="120" as="alternateBounds" />
@@ -122,6 +135,9 @@
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-15" value="• On the other hand, forward integration is moving forward in the value chain and&lt;br&gt;entering business lines that use our existing products.&lt;br&gt;• Forward integration will also take place where organizations enter into businesses&lt;br&gt;of distribution channels." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-41">
           <mxGeometry y="40" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-42" target="TysiPa89LfpG7-aD6HDz-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-42" value="Backward" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-610" y="320" width="120" height="40" as="geometry">
@@ -159,6 +175,13 @@
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-8" value="&lt;div&gt;&lt;u&gt;A stability strategy is pursued by a firm when:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;/u&gt;&lt;br&gt; &amp;gt;&amp;nbsp; The environment faced is relatively stable. Expansion may be perceived as  being threatening,&lt;br&gt;&amp;gt;  It is less risky, involves less changes and people feel comfortable with things as they are.&lt;br&gt;&amp;gt;&amp;nbsp; After a period of rapid expansion, consolidation is sought through stabilizing&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-4">
           <mxGeometry x="10" y="260" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-3" target="TysiPa89LfpG7-aD6HDz-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-3" value="Expansion" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-240" y="80" width="120" height="40" as="geometry">
@@ -211,6 +234,13 @@
         <mxCell id="TysiPa89LfpG7-aD6HDz-18" value="• Diversification is expansion by entering into new businesses other than current&lt;br&gt;ones.&lt;br&gt;• It may be entry into new markets or introduction of new products. It may be into&lt;br&gt;related or unrelated businesses of the firm." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-20">
           <mxGeometry y="40" width="450" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-34" target="TysiPa89LfpG7-aD6HDz-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-34" value="&lt;div&gt;horizontal &lt;br&gt;&lt;/div&gt;&lt;div&gt;intergrated&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-545" y="240" width="120" height="40" as="geometry">
             <mxRectangle x="-520" y="240" width="470" height="100" as="alternateBounds" />
@@ -231,6 +261,9 @@
         <mxCell id="TysiPa89LfpG7-aD6HDz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-17" target="TysiPa89LfpG7-aD6HDz-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="TysiPa89LfpG7-aD6HDz-31" target="TysiPa89LfpG7-aD6HDz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-31" value="&lt;div&gt;Conglomerate&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="220" y="240" width="110" height="40" as="geometry">
             <mxRectangle x="220" y="240" width="430" height="110" as="alternateBounds" />
@@ -238,6 +271,9 @@
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-32" value="• Conglomerate mergers are the combination of organizations that are&lt;br&gt;unrelated to each other.&lt;br&gt;• There are no linkages with respect to customer groups, customer functions&lt;br&gt;and technologies being used. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-31">
           <mxGeometry y="40" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="TysiPa89LfpG7-aD6HDz-29" target="TysiPa89LfpG7-aD6HDz-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-29" value="&lt;div&gt;Co-generic&lt;/div&gt;&lt;div&gt;merger&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="100" y="240" width="110" height="40" as="geometry">
@@ -306,6 +342,13 @@
         <mxCell id="TysiPa89LfpG7-aD6HDz-50" value="&lt;div&gt;A strategic alliance is a relationship between two or more businesses that enables each&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; certain&amp;nbsp; strategic&amp;nbsp; objectives&amp;nbsp; which&amp;nbsp; neither&amp;nbsp; would&amp;nbsp; be&amp;nbsp; able&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; on&amp;nbsp; its&amp;nbsp; own. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Benefits&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;Organizational&lt;/b&gt;&lt;/u&gt;: Strategic alliance helps to learn necessary skills and obtain certain capabilities from strategic partners. Strategic partners may also help to&amp;nbsp; enhance&amp;nbsp; productive&amp;nbsp; capacity,&amp;nbsp; provide&amp;nbsp; a&amp;nbsp; distribution&amp;nbsp; system,&amp;nbsp; or&amp;nbsp; extend&amp;nbsp; supply&amp;nbsp;&amp;nbsp; chain.&amp;nbsp;&amp;nbsp; Strategic&amp;nbsp;&amp;nbsp; partners&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; provide&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; good&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; that&amp;nbsp;&amp;nbsp; complements thereby creating a synergy. Having a strategic partner who is well&amp;nbsp;&amp;nbsp; -known&amp;nbsp; and&amp;nbsp; respected&amp;nbsp; also&amp;nbsp; helps&amp;nbsp; add&amp;nbsp; legitimacy&amp;nbsp; and&amp;nbsp; creditability&amp;nbsp; to&amp;nbsp; a&amp;nbsp; new venture.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;Economic&lt;/b&gt;&lt;/u&gt;: There&amp;nbsp; can&amp;nbsp; be&amp;nbsp; reduction&amp;nbsp; in&amp;nbsp; costs&amp;nbsp; and&amp;nbsp; risks&amp;nbsp; by&amp;nbsp; distributing&amp;nbsp; them&amp;nbsp; across&amp;nbsp; the&amp;nbsp; members&amp;nbsp; of&amp;nbsp; the&amp;nbsp; alliance.&amp;nbsp; Greater&amp;nbsp; economies&amp;nbsp; of&amp;nbsp; scale&amp;nbsp; can&amp;nbsp; be&amp;nbsp; obtained in an alliance, as production volume can increase, causing the cost per unit to decline. Finally, partners can take advantage of co-specialization, creating&amp;nbsp; additional&amp;nbsp; value,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; when&amp;nbsp; a&amp;nbsp; leading&amp;nbsp; computer&amp;nbsp; manufacturer&amp;nbsp; bundles its desktop with a leading monitor manufacturer’s monitor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Strategic&lt;/b&gt;&lt;/u&gt;: Rivals can join together to cooperate instead of competing&amp;nbsp; with&amp;nbsp; each&amp;nbsp; other.&amp;nbsp; Vertical&amp;nbsp; integration&amp;nbsp; can&amp;nbsp; be&amp;nbsp; created&amp;nbsp; where&amp;nbsp; partners&amp;nbsp; are&amp;nbsp; part&amp;nbsp; of&amp;nbsp; supply chain. Strategic alliances may also be useful to create a competitive advantage by&amp;nbsp; the&amp;nbsp; pooling&amp;nbsp; of&amp;nbsp; resources&amp;nbsp; and&amp;nbsp; skills.&amp;nbsp; This&amp;nbsp; may&amp;nbsp; also&amp;nbsp; help&amp;nbsp; with&amp;nbsp; future&amp;nbsp; business&amp;nbsp; opportunities&amp;nbsp; and&amp;nbsp; the&amp;nbsp; development&amp;nbsp; of&amp;nbsp; new&amp;nbsp; products&amp;nbsp; and&amp;nbsp; technologies.&amp;nbsp; Strategic&amp;nbsp; alliances&amp;nbsp; may&amp;nbsp; also&amp;nbsp; be&amp;nbsp; used&amp;nbsp; to&amp;nbsp; get&amp;nbsp; access&amp;nbsp; to&amp;nbsp; new&amp;nbsp; technologies or to pursue joint research and development.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;Political&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Sometimes&amp;nbsp; strategic&amp;nbsp; alliances&amp;nbsp; are&amp;nbsp; formed&amp;nbsp; with&amp;nbsp; a&amp;nbsp; local&amp;nbsp; foreign&amp;nbsp; business&amp;nbsp; to&amp;nbsp; gain&amp;nbsp; entry&amp;nbsp; into&amp;nbsp; a&amp;nbsp; foreign&amp;nbsp; market&amp;nbsp; either&amp;nbsp; because&amp;nbsp; of&amp;nbsp; local&amp;nbsp; prejudices&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; legal&amp;nbsp;&amp;nbsp; barriers&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; entry.&amp;nbsp;&amp;nbsp; Forming&amp;nbsp;&amp;nbsp; strategic&amp;nbsp;&amp;nbsp; alliances&amp;nbsp;&amp;nbsp; with politically-influential&amp;nbsp; partners&amp;nbsp; may&amp;nbsp; also&amp;nbsp; help&amp;nbsp; improve&amp;nbsp; your&amp;nbsp; own&amp;nbsp; influence&amp;nbsp; and position&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Strategic alliances require sharing of resources and profits, and&amp;nbsp; also&amp;nbsp; sharing&amp;nbsp; knowledge&amp;nbsp; and&amp;nbsp; skills&amp;nbsp; that&amp;nbsp; otherwise&amp;nbsp; organisations&amp;nbsp; may&amp;nbsp; not&amp;nbsp; like&amp;nbsp; to&amp;nbsp; share. Sharing knowledge and skills can be problematic if they involve trade secrets. Agreements&amp;nbsp; can&amp;nbsp; be&amp;nbsp; executed&amp;nbsp; to&amp;nbsp; protect&amp;nbsp; trade&amp;nbsp; secrets,&amp;nbsp; but&amp;nbsp; they&amp;nbsp; are&amp;nbsp; only&amp;nbsp; as&amp;nbsp; good&amp;nbsp; as&amp;nbsp; the&amp;nbsp; willingness&amp;nbsp; of&amp;nbsp; parties&amp;nbsp; to&amp;nbsp; abide&amp;nbsp; by&amp;nbsp; the&amp;nbsp; agreements&amp;nbsp; or&amp;nbsp; the&amp;nbsp; courts&amp;nbsp; willingness&amp;nbsp; to&amp;nbsp; enforce them. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Strategic alliances may also create potential competition when an ally becomes an opponent in future when it decides to separate out.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-19">
           <mxGeometry y="40" width="560" height="540" as="geometry" />
         </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;" edge="1" parent="1" source="tAh5_Dv9XLEUhuwZVZgv-2" target="TysiPa89LfpG7-aD6HDz-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tAh5_Dv9XLEUhuwZVZgv-2" value="Retrenchment" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="590" y="80" width="110" height="40" as="geometry">
             <mxRectangle x="600" y="80" width="470" height="210" as="alternateBounds" />
@@ -313,6 +356,38 @@
         </mxCell>
         <mxCell id="TysiPa89LfpG7-aD6HDz-51" value="• Retrenchment strategy is followed when an organization substantially reduces the&lt;br&gt;scope of its activity.&lt;br&gt;• Retrenchment strategy constitutes redefinition of business of the firm.&lt;br&gt;• A defensive strategy adopted as a temporary business policy to face problems like&lt;br&gt;intensive competition, lack of managerial abilities, change in market or economic&lt;br&gt;conditions.&lt;br&gt;• This involves reduction of products or services or withdrawal from some markets.&lt;br&gt;Retrenchment may be done either internally or externally.&lt;br&gt;• Internal Retrenchment is called as Turnaround Strategy; External Retrenchment is&lt;br&gt;called as Divestment. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tAh5_Dv9XLEUhuwZVZgv-2">
           <mxGeometry y="40" width="470" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-57" value="VS" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="320" y="40" width="40" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-57">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-61" value="VS" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="190" y="320" width="40" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-61">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-65" value="VS" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="740" y="320" width="40" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-65">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-69" value="VS" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-510" y="440" width="40" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TysiPa89LfpG7-aD6HDz-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TysiPa89LfpG7-aD6HDz-69">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
