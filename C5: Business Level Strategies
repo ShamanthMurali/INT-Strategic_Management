@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T19:12:30.671Z" agent="5.0 (X11)" etag="P5Rp3-ortgab0RbN8X8N" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T19:37:06.491Z" agent="5.0 (X11)" etag="HGF8voARBSJ1mKOiDrh7" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
-    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1040" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,6 @@
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-7" target="k9fuDM1XkgYCxQBIZw3T-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-7" value="1. risk of new entrants into the industry " style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="750" width="280" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-8" target="k9fuDM1XkgYCxQBIZw3T-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -90,6 +87,38 @@
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-24" value="Step 3: &lt;span style=&quot;font-weight: normal&quot;&gt;Determine whether the collective strength of the five competitive forces is conducive to earning attractive profits. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="215" y="1180" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-7" value="1. risk of new entrants into the industry " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="260" y="750" width="270" height="30" as="geometry">
+            <mxRectangle x="260" y="750" width="870" height="530" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry y="40" width="870" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-26" value="&lt;div&gt;new competitors in the market place can erode a firms profits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Solution&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;install/erect entry barriers which discourage firms from entering the market.&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Types of Barriers&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="240" y="60" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;1 Capital barrier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;When a large amount of capital is required to enter an industry, firms lacking funds are effectively barred from the industry&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it will be difficult for small firms to enter the business.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="20" y="200" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-28" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;2 Economies of Scale&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;A large firm that&lt;br&gt;enjoys economies of scale can produce high volumes of goods at&lt;br&gt;successively lower costs. This tends to discourage new entrants. &lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="230" y="200" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-29" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;3 Product Differentiation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when there is high product differentiation. is will be difficult for new firms to create new and genuine designs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="440" y="200" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;4 switching costs&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;if it is easy for a consumer to switch to a alternative the probable loss of customers will be high. if switching&lt;br&gt;costs are high, buyers are often reluctant to change.&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="650" y="200" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-31" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;5 Brand Identity&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if a brand has highly loyal customers it will be difficult for the competitors to gain market share.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="120" y="360" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-32" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;6 Access to Distribution Channels&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;The unavailability of distribution&lt;br&gt;channels for new entrants poses another significant entry barrier. Often, existing firms have significant influence over the distribution channels and can restrict or obstruct their use by new firms." style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="335" y="360" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;7 Possibility of Aggressive Retaliation (fight back)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;threat of aggressive retaliation by existing firms can newly entering by other firms into an existing industry." style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+          <mxGeometry x="550" y="360" width="200" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
