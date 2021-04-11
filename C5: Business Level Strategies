@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T19:37:06.491Z" agent="5.0 (X11)" etag="HGF8voARBSJ1mKOiDrh7" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T19:41:01.163Z" agent="5.0 (X11)" etag="d98WFCCyiI1lz4P2852p" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
     <mxGraphModel dx="1040" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,13 +49,10 @@
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-8" target="k9fuDM1XkgYCxQBIZw3T-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-8" value="2. bargaining power of buyers" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="800" width="280" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-9" target="k9fuDM1XkgYCxQBIZw3T-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="850" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-10" target="k9fuDM1XkgYCxQBIZw3T-11">
@@ -119,6 +116,14 @@
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;7 Possibility of Aggressive Retaliation (fight back)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;threat of aggressive retaliation by existing firms can newly entering by other firms into an existing industry." style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
           <mxGeometry x="550" y="360" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-8" value="2. bargaining power of buyers" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="257.5" y="800" width="275" height="30" as="geometry">
+            <mxRectangle x="255" y="800" width="330" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-34" value="If the buyer is able to bargain then the firm can earn less profits, if the buyers are not able to bargain then the propensity to earn profits is higher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-8">
+          <mxGeometry y="30" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
