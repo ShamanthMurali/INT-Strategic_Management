@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T19:41:01.163Z" agent="5.0 (X11)" etag="d98WFCCyiI1lz4P2852p" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T19:54:49.789Z" agent="5.0 (X11)" etag="ajtKzqoxyCiwwjhoAfb9" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
-    <mxGraphModel dx="1040" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,9 +52,6 @@
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-9" target="k9fuDM1XkgYCxQBIZw3T-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="850" width="280" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-10" target="k9fuDM1XkgYCxQBIZw3T-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -79,8 +76,14 @@
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-20" value="Step 1: &lt;span style=&quot;font-weight: normal&quot;&gt;Identify the specific competitive pressures associated with each of the five forces. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=16;" vertex="1" parent="1">
           <mxGeometry x="215" y="1060" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-22" target="k9fuDM1XkgYCxQBIZw3T-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-22" value="Step 2:&lt;span style=&quot;font-weight: normal&quot;&gt; Evaluate how strong the pressures comprising each of the five forces are (fierce, strong, moderate to normal, or weak). &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="215" y="1120" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-24" target="k9fuDM1XkgYCxQBIZw3T-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-24" value="Step 3: &lt;span style=&quot;font-weight: normal&quot;&gt;Determine whether the collective strength of the five competitive forces is conducive to earning attractive profits. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="215" y="1180" width="360" height="40" as="geometry" />
@@ -124,6 +127,28 @@
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-34" value="If the buyer is able to bargain then the firm can earn less profits, if the buyers are not able to bargain then the propensity to earn profits is higher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-8">
           <mxGeometry y="30" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="258.75" y="850" width="274.25" height="30" as="geometry">
+            <mxRectangle x="255" y="850" width="420" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-35" value="Bargaining power of suppliers refers to the power that suppliers can exert&lt;br&gt;which is typically exhibited by threatening to raise prices, reduce volumes,&lt;br&gt;affect quality or curtail service, under various conditions. " style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-9">
+          <mxGeometry y="30" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-36" value="nature of rivalry in the industry " style="swimlane;startSize=40;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="275" y="1260" width="240" height="40" as="geometry">
+            <mxRectangle x="280" y="1260" width="540" height="530" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-36">
+          <mxGeometry y="40" width="540" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-38" value="&lt;div&gt;&lt;b&gt;The more intensive the rivalry, the less attractive is the industry.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rivalry among competitors tends to be cutthroat and industry profitability low when: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=30;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-36">
+          <mxGeometry x="65" y="50" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-39" value="(i) &lt;u&gt;&lt;b&gt;Industry Leader&lt;/b&gt;&lt;/u&gt;: A strong industry leader can discourage price wars by&lt;br&gt;disciplining initiators of such activity. Because of its greater financial&lt;br&gt;&lt;div&gt;resources, a leader can generally outlast smaller rivals in a price war.&lt;/div&gt;&lt;div&gt;Knowing this, smaller rivals often avoid initiating such a contest.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(ii) &lt;u&gt;&lt;b&gt;Number of Competitors&lt;/b&gt;&lt;/u&gt;: pricing discipline diminishes with the increased number of&lt;br&gt;rivals in the industry as communicating expectations to players becomes&lt;br&gt;more difficult. competitors increase, competition increases.&lt;div&gt;&lt;br&gt;&lt;/div&gt;(iii) &lt;u&gt;&lt;b&gt;Fixed Costs&lt;/b&gt;&lt;/u&gt;: when fixed costs are higher they have reduce price and increase supply for recover the amount. For this reason, profitability tends to&lt;br&gt;be lower in industries (for example, airline, telecommunications)&lt;br&gt;&lt;div&gt;characterized by high fixed costs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(iv) &lt;u&gt;&lt;b&gt;Exit Barriers&lt;/b&gt;&lt;/u&gt;: a firm who can find no buyer for its assets. This discourages exit. Their continued presence in an industry exerts downward pressure on the &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability of all competitors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Product Differentiation&lt;/b&gt;&lt;/u&gt;: insulate from price wars by differentiating products. &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability tends to be higher in industries that has differentiation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Profitability tends to be lower in industries that has undifferentiated commodities &lt;br&gt;&lt;/div&gt;&lt;div&gt;such as, memory chips, natural resources, processed metals and railroads. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;Slow Growth&lt;/b&gt;&lt;/u&gt;: Industries whose growth is slowing down tend to face more&lt;br&gt;intense rivalry. As industry growth slows, rivals must often fight harder to&lt;br&gt;grow or even to keep their existing market share. The resulting intensive&lt;br&gt;rivalry tends to reduce profitability for all. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=30;arcSize=5;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-36">
+          <mxGeometry x="10" y="110" width="520" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
