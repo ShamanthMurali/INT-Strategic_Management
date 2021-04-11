@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T20:01:33.185Z" agent="5.0 (X11)" etag="cAdD-L-jiTjGRc132AmA" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T20:05:27.301Z" agent="5.0 (X11)" etag="jSlom_c_AV4JyAI7BGlV" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
     <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,16 +63,16 @@
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-20" target="k9fuDM1XkgYCxQBIZw3T-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-20" value="Step 1: &lt;span style=&quot;font-weight: normal&quot;&gt;Identify the specific competitive pressures associated with each of the five forces. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=16;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-20" value="&lt;u&gt;Step 1&lt;/u&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;Identify the specific competitive pressures associated with each of the five forces. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=16;" vertex="1" parent="1">
           <mxGeometry x="215" y="1060" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-22" target="k9fuDM1XkgYCxQBIZw3T-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-22" value="Step 2:&lt;span style=&quot;font-weight: normal&quot;&gt; Evaluate how strong the pressures comprising each of the five forces are (fierce, strong, moderate to normal, or weak). &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-22" value="&lt;u&gt;Step 2&lt;/u&gt;:&lt;span style=&quot;font-weight: normal&quot;&gt; Evaluate how strong the pressures comprising each of the five forces are (fierce, strong, moderate to normal, or weak). &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="215" y="1120" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-24" value="Step 3: &lt;span style=&quot;font-weight: normal&quot;&gt;Determine whether the collective strength of the five competitive forces is conducive to earning attractive profits. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-24" value="&lt;u&gt;Step 3&lt;/u&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;Determine whether the collective strength of the five competitive forces is conducive to earning attractive profits. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="215" y="1180" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-7" value="1. risk of new entrants into the industry " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
