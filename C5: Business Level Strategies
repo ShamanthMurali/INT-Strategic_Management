@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T18:43:15.153Z" agent="5.0 (X11)" etag="yVRwkxtd3iE-4bChu77u" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T18:43:50.751Z" agent="5.0 (X11)" etag="8EXP9ptkLtOJdJK4SXuj" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -201,25 +201,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-11" value="Cost Leadership Strategies" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="97.5" y="1840" width="120" height="40" as="geometry" />
+          <mxGeometry x="96.25" y="1840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-12" target="URiNhKrDzLi6sdf9Skbb-34" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-12" value="Differentiation Strategy" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="335" y="1840" width="120" height="40" as="geometry" />
+          <mxGeometry x="333.75" y="1840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-13" target="URiNhKrDzLi6sdf9Skbb-48" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-13" value="Focus Strategies " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="575" y="1840" width="120" height="40" as="geometry" />
+          <mxGeometry x="573.75" y="1840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-17" target="URiNhKrDzLi6sdf9Skbb-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-17" value="For broad markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1780" width="115" height="20" as="geometry" />
+          <mxGeometry x="98.75" y="1780" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-12">
           <mxGeometry relative="1" as="geometry" />
@@ -227,13 +227,13 @@
         <mxCell id="URiNhKrDzLi6sdf9Skbb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="513" y="1820" />
-              <mxPoint x="635" y="1820" />
+              <mxPoint x="511.75" y="1820" />
+              <mxPoint x="633.75" y="1820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-18" value="For narrow markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1780" width="115" height="20" as="geometry" />
+          <mxGeometry x="453.75" y="1780" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-25" target="URiNhKrDzLi6sdf9Skbb-27" visible="0">
           <mxGeometry relative="1" as="geometry" />
