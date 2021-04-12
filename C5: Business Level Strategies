@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T16:16:42.704Z" agent="5.0 (X11)" etag="EqnXTG3mndw3iIoCsuFd" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T16:20:34.800Z" agent="5.0 (X11)" etag="iAbcoLxngHokN8D523om" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
-    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-1" value="Business Level Strategies" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1260" width="150" height="40" as="geometry" />
+          <mxGeometry x="300" y="1260" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-3" target="URiNhKrDzLi6sdf9Skbb-5">
           <mxGeometry relative="1" as="geometry" />
@@ -166,8 +166,38 @@
         <mxCell id="URiNhKrDzLi6sdf9Skbb-3" value="The company makes use of its core competencies to develop and expand its&lt;br&gt;strategies or competitive advantage. The purpose of business level&lt;br&gt;strategies is to be enhance competitive advantage through effective use of&lt;br&gt;these resources, skills and synergies. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="1320" width="420" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-5" target="URiNhKrDzLi6sdf9Skbb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-5" value="Business level strategies are concerned with: &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Positioning the business against competitors&lt;br&gt;2. Anticipating changes in demand and other factors and adjusting to provide for them&lt;br&gt;3. Influencing the nature of competition through strategic action.&lt;br&gt;4. Meeting the needs of key customers.&lt;br&gt;5. Achieving advantage over competitors.&lt;br&gt;6. Avoiding competitive disadvantage. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1410" width="410" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-7" target="URiNhKrDzLi6sdf9Skbb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-7" value="&lt;div&gt;Michel Porter’s&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Base Generic strategies&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1610" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-9" value="&lt;div&gt;&lt;b&gt;how to gain competitive advantage ?&lt;/b&gt;&lt;/div&gt;there are three bases they are" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1670" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-11" value="Cost Leadership Strategies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-12" value="Differentiation Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-13" value="Focus Strategies " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1740" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
