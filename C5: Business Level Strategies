@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T20:05:27.301Z" agent="5.0 (X11)" etag="jSlom_c_AV4JyAI7BGlV" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T16:16:42.704Z" agent="5.0 (X11)" etag="EqnXTG3mndw3iIoCsuFd" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
-    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="mhRhwa4l2dtEvNVXjP_p-2" value="Business Level Strategies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhRhwa4l2dtEvNVXjP_p-4" target="k9fuDM1XkgYCxQBIZw3T-1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mhRhwa4l2dtEvNVXjP_p-4" target="k9fuDM1XkgYCxQBIZw3T-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mhRhwa4l2dtEvNVXjP_p-4" value="They are micro in nature" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,131 +25,149 @@
         <mxCell id="mhRhwa4l2dtEvNVXjP_p-6" value="Nature" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-1" target="k9fuDM1XkgYCxQBIZw3T-3">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-1" target="k9fuDM1XkgYCxQBIZw3T-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-1" value="PORTER’S FIVE FORCES MODEL - COMPETITIVE ANALYSIS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-1" value="PORTER’S FIVE FORCES MODEL - COMPETITIVE ANALYSIS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="560" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-3" target="k9fuDM1XkgYCxQBIZw3T-5">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-3" target="k9fuDM1XkgYCxQBIZw3T-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-3" value="Competition will be always there in every industry but state of competition will be different in different industries. In more simpler words, level of competition will be different in different industries. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-3" value="Competition will be always there in every industry but state of competition will be different in different industries. In more simpler words, level of competition will be different in different industries. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="620" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-5" target="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-5" target="k9fuDM1XkgYCxQBIZw3T-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-5" value="&lt;b&gt;According to porter there are 5 forces which threaten a companies profits&lt;/b&gt; they are: " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-5" value="&lt;b&gt;According to porter there are 5 forces which threaten a companies profits&lt;/b&gt; they are: " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="173.9" y="690" width="442.2" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-7" target="k9fuDM1XkgYCxQBIZw3T-8">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-7" target="k9fuDM1XkgYCxQBIZw3T-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-8" target="k9fuDM1XkgYCxQBIZw3T-9">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-8" target="k9fuDM1XkgYCxQBIZw3T-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-36" target="k9fuDM1XkgYCxQBIZw3T-18">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-36" target="k9fuDM1XkgYCxQBIZw3T-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="980" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-18" target="k9fuDM1XkgYCxQBIZw3T-20">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-18" target="k9fuDM1XkgYCxQBIZw3T-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-18" value="The strategists can use the five - forces model to determine what&lt;br&gt;competition is like in a given industry by undertaking the following steps: " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-18" value="The strategists can use the five - forces model to determine what&lt;br&gt;competition is like in a given industry by undertaking the following steps: " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="1000" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-20" target="k9fuDM1XkgYCxQBIZw3T-22">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-20" target="k9fuDM1XkgYCxQBIZw3T-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-20" value="&lt;u&gt;Step 1&lt;/u&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;Identify the specific competitive pressures associated with each of the five forces. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=16;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-20" value="&lt;u&gt;Step 1&lt;/u&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;Identify the specific competitive pressures associated with each of the five forces. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=16;" parent="1" vertex="1">
           <mxGeometry x="215" y="1060" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-22" target="k9fuDM1XkgYCxQBIZw3T-24">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-22" target="k9fuDM1XkgYCxQBIZw3T-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-22" value="&lt;u&gt;Step 2&lt;/u&gt;:&lt;span style=&quot;font-weight: normal&quot;&gt; Evaluate how strong the pressures comprising each of the five forces are (fierce, strong, moderate to normal, or weak). &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-22" value="&lt;u&gt;Step 2&lt;/u&gt;:&lt;span style=&quot;font-weight: normal&quot;&gt; Evaluate how strong the pressures comprising each of the five forces are (fierce, strong, moderate to normal, or weak). &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="215" y="1120" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-24" value="&lt;u&gt;Step 3&lt;/u&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;Determine whether the collective strength of the five competitive forces is conducive to earning attractive profits. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-24" target="URiNhKrDzLi6sdf9Skbb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-24" value="&lt;u&gt;Step 3&lt;/u&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;Determine whether the collective strength of the five competitive forces is conducive to earning attractive profits. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="215" y="1180" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-7" value="1. risk of new entrants into the industry " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-7" value="1. risk of new entrants into the industry " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="260" y="750" width="270" height="30" as="geometry">
             <mxRectangle x="260" y="750" width="870" height="530" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry y="40" width="870" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-26" value="&lt;div&gt;new competitors in the market place can erode a firms profits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Solution&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;install/erect entry barriers which discourage firms from entering the market.&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Types of Barriers&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-26" value="&lt;div&gt;new competitors in the market place can erode a firms profits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Solution&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;install/erect entry barriers which discourage firms from entering the market.&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Types of Barriers&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="240" y="60" width="390" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;1 Capital barrier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;When a large amount of capital is required to enter an industry, firms lacking funds are effectively barred from the industry&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it will be difficult for small firms to enter the business.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;1 Capital barrier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;When a large amount of capital is required to enter an industry, firms lacking funds are effectively barred from the industry&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;it will be difficult for small firms to enter the business.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="20" y="200" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-28" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;2 Economies of Scale&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;A large firm that&lt;br&gt;enjoys economies of scale can produce high volumes of goods at&lt;br&gt;successively lower costs. This tends to discourage new entrants. &lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-28" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;2 Economies of Scale&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;A large firm that&lt;br&gt;enjoys economies of scale can produce high volumes of goods at&lt;br&gt;successively lower costs. This tends to discourage new entrants. &lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="230" y="200" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-29" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;3 Product Differentiation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when there is high product differentiation. is will be difficult for new firms to create new and genuine designs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-29" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;3 Product Differentiation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when there is high product differentiation. is will be difficult for new firms to create new and genuine designs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="440" y="200" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;4 switching costs&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;if it is easy for a consumer to switch to a alternative the probable loss of customers will be high. if switching&lt;br&gt;costs are high, buyers are often reluctant to change.&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;4 switching costs&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;if it is easy for a consumer to switch to a alternative the probable loss of customers will be high. if switching&lt;br&gt;costs are high, buyers are often reluctant to change.&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="650" y="200" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-31" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;5 Brand Identity&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if a brand has highly loyal customers it will be difficult for the competitors to gain market share.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-31" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;5 Brand Identity&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if a brand has highly loyal customers it will be difficult for the competitors to gain market share.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="120" y="360" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-32" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;6 Access to Distribution Channels&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;The unavailability of distribution&lt;br&gt;channels for new entrants poses another significant entry barrier. Often, existing firms have significant influence over the distribution channels and can restrict or obstruct their use by new firms." style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-32" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;6 Access to Distribution Channels&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;The unavailability of distribution&lt;br&gt;channels for new entrants poses another significant entry barrier. Often, existing firms have significant influence over the distribution channels and can restrict or obstruct their use by new firms." style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="335" y="360" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;7 Possibility of Aggressive Retaliation (fight back)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;threat of aggressive retaliation by existing firms can newly entering by other firms into an existing industry." style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-7">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;7 Possibility of Aggressive Retaliation (fight back)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;threat of aggressive retaliation by existing firms can newly entering by other firms into an existing industry." style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="550" y="360" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-8" value="2. bargaining power of buyers" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-8" value="2. bargaining power of buyers" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="260" y="800" width="270" height="30" as="geometry">
             <mxRectangle x="255" y="800" width="330" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-34" value="If the buyer is able to bargain then the firm can earn less profits, if the buyers are not able to bargain then the propensity to earn profits is higher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-8">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-34" value="If the buyer is able to bargain then the firm can earn less profits, if the buyers are not able to bargain then the propensity to earn profits is higher" style="rounded=0;whiteSpace=wrap;html=1;" parent="k9fuDM1XkgYCxQBIZw3T-8" vertex="1">
           <mxGeometry y="30" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-9" target="k9fuDM1XkgYCxQBIZw3T-10">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-9" target="k9fuDM1XkgYCxQBIZw3T-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="260" y="850" width="270" height="30" as="geometry">
             <mxRectangle x="255" y="850" width="420" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-35" value="Bargaining power of suppliers refers to the power that suppliers can exert&lt;br&gt;which is typically exhibited by threatening to raise prices, reduce volumes,&lt;br&gt;affect quality or curtail service, under various conditions. " style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-9">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-35" value="Bargaining power of suppliers refers to the power that suppliers can exert&lt;br&gt;which is typically exhibited by threatening to raise prices, reduce volumes,&lt;br&gt;affect quality or curtail service, under various conditions. " style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-9" vertex="1">
           <mxGeometry y="30" width="420" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-36" value="&lt;div&gt;5. intensity of rivalry among &lt;br&gt;&lt;/div&gt;&lt;div&gt;existing competitors&lt;/div&gt;" style="swimlane;startSize=40;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-36" value="&lt;div&gt;5. intensity of rivalry among &lt;br&gt;&lt;/div&gt;&lt;div&gt;existing competitors&lt;/div&gt;" style="swimlane;startSize=40;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="260" y="950" width="270" height="30" as="geometry">
             <mxRectangle x="280" y="1260" width="540" height="530" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-36">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
           <mxGeometry y="40" width="540" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-38" value="&lt;div&gt;&lt;b&gt;The more intensive the rivalry, the less attractive is the industry.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rivalry among competitors tends to be cutthroat and industry profitability low when: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=30;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-36">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-38" value="&lt;div&gt;&lt;b&gt;The more intensive the rivalry, the less attractive is the industry.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rivalry among competitors tends to be cutthroat and industry profitability low when: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
           <mxGeometry x="65" y="50" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-39" value="(i) &lt;u&gt;&lt;b&gt;Industry Leader&lt;/b&gt;&lt;/u&gt;: A strong industry leader can discourage price wars by&lt;br&gt;disciplining initiators of such activity. Because of its greater financial&lt;br&gt;&lt;div&gt;resources, a leader can generally outlast smaller rivals in a price war.&lt;/div&gt;&lt;div&gt;Knowing this, smaller rivals often avoid initiating such a contest.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(ii) &lt;u&gt;&lt;b&gt;Number of Competitors&lt;/b&gt;&lt;/u&gt;: pricing discipline diminishes with the increased number of&lt;br&gt;rivals in the industry as communicating expectations to players becomes&lt;br&gt;more difficult. competitors increase, competition increases.&lt;div&gt;&lt;br&gt;&lt;/div&gt;(iii) &lt;u&gt;&lt;b&gt;Fixed Costs&lt;/b&gt;&lt;/u&gt;: when fixed costs are higher they have reduce price and increase supply for recover the amount. For this reason, profitability tends to&lt;br&gt;be lower in industries (for example, airline, telecommunications)&lt;br&gt;&lt;div&gt;characterized by high fixed costs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(iv) &lt;u&gt;&lt;b&gt;Exit Barriers&lt;/b&gt;&lt;/u&gt;: a firm who can find no buyer for its assets. This discourages exit. Their continued presence in an industry exerts downward pressure on the &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability of all competitors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Product Differentiation&lt;/b&gt;&lt;/u&gt;: insulate from price wars by differentiating products. &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability tends to be higher in industries that has differentiation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Profitability tends to be lower in industries that has undifferentiated commodities &lt;br&gt;&lt;/div&gt;&lt;div&gt;such as, memory chips, natural resources, processed metals and railroads. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;Slow Growth&lt;/b&gt;&lt;/u&gt;: Industries whose growth is slowing down tend to face more&lt;br&gt;intense rivalry. As industry growth slows, rivals must often fight harder to&lt;br&gt;grow or even to keep their existing market share. The resulting intensive&lt;br&gt;rivalry tends to reduce profitability for all. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=30;arcSize=5;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-36">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-39" value="(i) &lt;u&gt;&lt;b&gt;Industry Leader&lt;/b&gt;&lt;/u&gt;: A strong industry leader can discourage price wars by&lt;br&gt;disciplining initiators of such activity. Because of its greater financial&lt;br&gt;&lt;div&gt;resources, a leader can generally outlast smaller rivals in a price war.&lt;/div&gt;&lt;div&gt;Knowing this, smaller rivals often avoid initiating such a contest.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(ii) &lt;u&gt;&lt;b&gt;Number of Competitors&lt;/b&gt;&lt;/u&gt;: pricing discipline diminishes with the increased number of&lt;br&gt;rivals in the industry as communicating expectations to players becomes&lt;br&gt;more difficult. competitors increase, competition increases.&lt;div&gt;&lt;br&gt;&lt;/div&gt;(iii) &lt;u&gt;&lt;b&gt;Fixed Costs&lt;/b&gt;&lt;/u&gt;: when fixed costs are higher they have reduce price and increase supply for recover the amount. For this reason, profitability tends to&lt;br&gt;be lower in industries (for example, airline, telecommunications)&lt;br&gt;&lt;div&gt;characterized by high fixed costs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(iv) &lt;u&gt;&lt;b&gt;Exit Barriers&lt;/b&gt;&lt;/u&gt;: a firm who can find no buyer for its assets. This discourages exit. Their continued presence in an industry exerts downward pressure on the &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability of all competitors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Product Differentiation&lt;/b&gt;&lt;/u&gt;: insulate from price wars by differentiating products. &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability tends to be higher in industries that has differentiation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Profitability tends to be lower in industries that has undifferentiated commodities &lt;br&gt;&lt;/div&gt;&lt;div&gt;such as, memory chips, natural resources, processed metals and railroads. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;Slow Growth&lt;/b&gt;&lt;/u&gt;: Industries whose growth is slowing down tend to face more&lt;br&gt;intense rivalry. As industry growth slows, rivals must often fight harder to&lt;br&gt;grow or even to keep their existing market share. The resulting intensive&lt;br&gt;rivalry tends to reduce profitability for all. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=30;arcSize=5;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
           <mxGeometry x="10" y="110" width="520" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-10" target="k9fuDM1XkgYCxQBIZw3T-36">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-10" target="k9fuDM1XkgYCxQBIZw3T-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-10" value="4. threat of substitutes" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-10" value="4. threat of substitutes" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="260" y="900" width="270" height="30" as="geometry">
             <mxRectangle x="258.75" y="900" width="400" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-43" value="1. The greater the number of&lt;br&gt;&lt;div&gt;substitutes that customers perceive and use as alternates, the harder it is for a company to hold on to customer loyalty and preference&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. inability to raise prices and obtain higher profit margins.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. For instance, if customers perceive&lt;br&gt;many substitutes to coffee (tea, fruit juices, other soft drinks), it becomes difficult for coffee producers to keep prices high; they will by necessity have to lower them in order to be cost competitive. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="k9fuDM1XkgYCxQBIZw3T-10">
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-43" value="1. The greater the number of&lt;br&gt;&lt;div&gt;substitutes that customers perceive and use as alternates, the harder it is for a company to hold on to customer loyalty and preference&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. inability to raise prices and obtain higher profit margins.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. For instance, if customers perceive&lt;br&gt;many substitutes to coffee (tea, fruit juices, other soft drinks), it becomes difficult for coffee producers to keep prices high; they will by necessity have to lower them in order to be cost competitive. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-10" vertex="1">
           <mxGeometry y="30" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-1" target="URiNhKrDzLi6sdf9Skbb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-1" value="Business Level Strategies" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-3" target="URiNhKrDzLi6sdf9Skbb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-3" value="The company makes use of its core competencies to develop and expand its&lt;br&gt;strategies or competitive advantage. The purpose of business level&lt;br&gt;strategies is to be enhance competitive advantage through effective use of&lt;br&gt;these resources, skills and synergies. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1320" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-5" value="Business level strategies are concerned with: &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Positioning the business against competitors&lt;br&gt;2. Anticipating changes in demand and other factors and adjusting to provide for them&lt;br&gt;3. Influencing the nature of competition through strategic action.&lt;br&gt;4. Meeting the needs of key customers.&lt;br&gt;5. Achieving advantage over competitors.&lt;br&gt;6. Avoiding competitive disadvantage. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1410" width="410" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
