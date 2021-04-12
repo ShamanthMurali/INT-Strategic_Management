@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T18:43:50.751Z" agent="5.0 (X11)" etag="8EXP9ptkLtOJdJK4SXuj" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T18:52:26.836Z" agent="5.0 (X11)" etag="VwhWwMwi0pDGECMtkEns" version="14.5.10" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
-    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,21 +178,14 @@
         <mxCell id="URiNhKrDzLi6sdf9Skbb-7" value="&lt;div&gt;Michel Porter’s&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Base Generic strategies&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1610" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="1740" />
-              <mxPoint x="158" y="1740" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-70" target="URiNhKrDzLi6sdf9Skbb-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="1740" />
-              <mxPoint x="513" y="1740" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-9" value="&lt;div&gt;&lt;b&gt;how to gain competitive advantage ?&lt;/b&gt;&lt;/div&gt;there are three bases they are" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1670" width="230" height="50" as="geometry" />
@@ -201,39 +194,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-11" value="Cost Leadership Strategies" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="96.25" y="1840" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-12" target="URiNhKrDzLi6sdf9Skbb-34" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-12" value="Differentiation Strategy" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="333.75" y="1840" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-13" target="URiNhKrDzLi6sdf9Skbb-48" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-13" value="Focus Strategies " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="573.75" y="1840" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-17" target="URiNhKrDzLi6sdf9Skbb-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-17" value="For broad markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="98.75" y="1780" width="115" height="20" as="geometry" />
+          <mxGeometry x="102.5" y="1740" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-12">
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="511.75" y="1820" />
-              <mxPoint x="633.75" y="1820" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-18" value="For narrow markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="453.75" y="1780" width="115" height="20" as="geometry" />
+          <mxGeometry x="337.5" y="1740" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-25" target="URiNhKrDzLi6sdf9Skbb-27" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -339,6 +327,24 @@
         </mxCell>
         <mxCell id="URiNhKrDzLi6sdf9Skbb-58" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages of Focused Strategy&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The firms lacking in distinctive competencies may not be able to pursue focus strategy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Due to the limited demand of product/services, costs are high which can&lt;br&gt;&lt;div&gt;cause problems.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. In long run, the niche could disappear or be taken over by larger competitors&lt;br&gt;by acquiring the same distinctive competencies. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="650" y="2420" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-64" target="URiNhKrDzLi6sdf9Skbb-72" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-64" value="&lt;div&gt;Best-Cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;Provider Strategy&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="580" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-70" value="Hybrid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="1740" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1695.0344827586205" as="sourcePoint" />
+            <mxPoint x="639.9655172413793" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-72" value="The new model of best cost provider strategy is a further development of above&lt;br&gt;three generic strategies. It is directed towards giving customers more value for the&lt;br&gt;money by emphasizing both low cost and upscale differences. The objective is to&lt;br&gt;&lt;div&gt;keep costs and prices lower than those of other sellers of comparable products.Best-cost provider strategy involves providing customers more value for the money by emphasizing low cost and better quality difference.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; It can be done:&lt;/div&gt;(a) through offering products at lower price than what is being offered by rivals&lt;br&gt;for products with comparable quality and features or&lt;br&gt;(b) charging similar price as by the rivals for products with much higher quality&lt;br&gt;and better features. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="420" y="1860" width="440" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
