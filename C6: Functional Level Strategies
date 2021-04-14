@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:03:56.388Z" agent="5.0 (X11)" etag="jel8rIy4vDTyzsyNrDAm" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:08:14.647Z" agent="5.0 (X11)" etag="PRQsqlYaT7_FxGNeXcu5" version="14.6.0" type="github">
   <diagram id="5e-XyvuUPSNW5-qvgfR8" name="Page-1">
     <mxGraphModel dx="1903" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -165,8 +165,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ertDeUdLPHvkuPLK6w1d-58" value="Financial strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="480" width="120" height="40" as="geometry" />
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-58" target="ertDeUdLPHvkuPLK6w1d-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-58" target="ertDeUdLPHvkuPLK6w1d-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-58" value="Production strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-59" target="ertDeUdLPHvkuPLK6w1d-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-59" value="Production System " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-60" target="ertDeUdLPHvkuPLK6w1d-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-60" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-63" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Scope&lt;/b&gt;&lt;/u&gt;: The production system is concerned with the capacity, location, layout, product or service design, work system, degree of automation, extent of vertical integration, and similar factors&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Importance&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Production System Strategies involve decisions which are long-term in nature, and have an influence on- &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Operations capability of the Firm, and&lt;/div&gt;&lt;div&gt; b. Its ability to implement strategies and achieve objectives &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="620" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-65" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Scope&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Here,&amp;nbsp; Strategies&amp;nbsp; are&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; aggregate&amp;nbsp; production&amp;nbsp; planning, materials&amp;nbsp; supply,&amp;nbsp; inventory,&amp;nbsp; cost,&amp;nbsp; quality&amp;nbsp; management,&amp;nbsp; maintenance&amp;nbsp; of&amp;nbsp; plant&amp;nbsp; &amp;amp; equipment, etc.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Importance&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Operational&amp;nbsp; Strategies&amp;nbsp; seek&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; the&amp;nbsp; resources&amp;nbsp; are efficiently utilized, and the day-to-day operations are carried out in the light of long-term&amp;nbsp; objectives &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="620" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
