@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:25:20.588Z" agent="5.0 (X11)" etag="dSQppuDQ07V3tXzqMX6P" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:26:31.045Z" agent="5.0 (X11)" etag="huSrw3a7K_FxOMIUgvCT" version="14.6.0" type="github">
   <diagram id="5e-XyvuUPSNW5-qvgfR8" name="Page-1">
     <mxGraphModel dx="1903" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
           <mxGeometry x="1970" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-80" value="&lt;div&gt;&amp;gt; The&amp;nbsp;&amp;nbsp; term&amp;nbsp;&amp;nbsp; supply&amp;nbsp;&amp;nbsp; chain&amp;nbsp;&amp;nbsp; refers&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; linkages&amp;nbsp;&amp;nbsp; between&amp;nbsp;&amp;nbsp; suppliers, manufacturers&amp;nbsp; and&amp;nbsp;&amp;nbsp;&amp;nbsp; customers.&amp;nbsp; Supply&amp;nbsp; chains&amp;nbsp; involve&amp;nbsp; all&amp;nbsp; activities&amp;nbsp; like sourcing and procurement of material, conversion, and logistics. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; process&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; planning, implementing,&amp;nbsp; and&amp;nbsp; controlling&amp;nbsp; the&amp;nbsp; supply&amp;nbsp; chain&amp;nbsp; operations.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; as efficiently as possible&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; improve&amp;nbsp; trust&amp;nbsp; and&amp;nbsp; collaboration amongst partners&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; These functions&amp;nbsp; can&amp;nbsp; be&amp;nbsp; outsourced&amp;nbsp; to&amp;nbsp; other&amp;nbsp; business&amp;nbsp; organizations&amp;nbsp; that&amp;nbsp; specialize in those activities and can perform in a better and cost effective manner.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="550" width="340" height="240" as="geometry" />
+          <mxGeometry x="1860" y="540" width="340" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-82" value="VS" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1820" y="480" width="40" height="40" as="geometry">
