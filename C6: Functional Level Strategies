@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:08:14.647Z" agent="5.0 (X11)" etag="PRQsqlYaT7_FxGNeXcu5" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:09:18.988Z" agent="5.0 (X11)" etag="7Oh9b0q27lgOZLIpPYA0" version="14.6.0" type="github">
   <diagram id="5e-XyvuUPSNW5-qvgfR8" name="Page-1">
     <mxGraphModel dx="1903" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,18 +149,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ertDeUdLPHvkuPLK6w1d-53" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;1.&amp;nbsp;&amp;nbsp; Net Asset based or Balance sheet based method: &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Net Worth= Fixed assets + Net working capital - Long term debts&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Net Worth=&amp;nbsp; Equity&amp;nbsp; share&amp;nbsp; capital&amp;nbsp; +&amp;nbsp; Pref&amp;nbsp; share&amp;nbsp; Capital+&amp;nbsp; Reserves&amp;nbsp; &amp;amp;&amp;nbsp; Surplus&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;+/- P&amp;amp;L a/c- Miscellaneous expenditure &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;2.&amp;nbsp;&amp;nbsp; Profit based method / Capitalisation method:(Present value method)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• A discount rate can be used and then calculated. (OR) &lt;br&gt;&lt;/div&gt;&lt;div&gt;• Net worth= Current annual profit * no of years (eg: 5 years) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;3.&amp;nbsp;&amp;nbsp; Market Based Methods: &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Comparative Price: Networth or selling price of a similar company is considered.&lt;/div&gt;&lt;div&gt;P.E Based: Networth = PE ratio * Average net income for the given (eg 5) years Outstanding shares &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;4. method/market capitalization method:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Networth = Current market price per share * no of shares outstanding &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1530" width="540" height="250" as="geometry" />
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-53" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;METHODS FOR DECIDING THE NETWORTH OF BUSINESS&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;1.&amp;nbsp;&amp;nbsp; Net Asset based or Balance sheet based method: &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Net Worth= Fixed assets + Net working capital - Long term debts&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Net Worth=&amp;nbsp; Equity&amp;nbsp; share&amp;nbsp; capital&amp;nbsp; +&amp;nbsp; Pref&amp;nbsp; share&amp;nbsp; Capital+&amp;nbsp; Reserves&amp;nbsp; &amp;amp;&amp;nbsp; Surplus&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;+/- P&amp;amp;L a/c- Miscellaneous expenditure &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;2.&amp;nbsp;&amp;nbsp; Profit based method / Capitalisation method:(Present value method)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• A discount rate can be used and then calculated. (OR) &lt;br&gt;&lt;/div&gt;&lt;div&gt;• Net worth= Current annual profit * no of years (eg: 5 years) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;3.&amp;nbsp;&amp;nbsp; Market Based Methods: &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Comparative Price: Networth or selling price of a similar company is considered.&lt;/div&gt;&lt;div&gt;P.E Based: Networth = PE ratio * Average net income for the given (eg 5) years Outstanding shares &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;4. method/market capitalization method:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Networth = Current market price per share * no of shares outstanding &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1530" width="540" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Evaluating&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="300" y="1625" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-55" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="1800" as="sourcePoint" />
+            <mxPoint x="460" y="1810" as="sourcePoint" />
             <mxPoint x="460" y="1510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="1800" />
+              <mxPoint x="420" y="1810" />
               <mxPoint x="420" y="1510" />
             </Array>
           </mxGeometry>
@@ -177,13 +177,13 @@
         <mxCell id="ertDeUdLPHvkuPLK6w1d-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-59" target="ertDeUdLPHvkuPLK6w1d-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ertDeUdLPHvkuPLK6w1d-59" value="Production System " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-59" value="&lt;div&gt;Production &lt;br&gt;&lt;/div&gt;&lt;div&gt;System &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1080" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-60" target="ertDeUdLPHvkuPLK6w1d-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ertDeUdLPHvkuPLK6w1d-60" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-60" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1400" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-63" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Scope&lt;/b&gt;&lt;/u&gt;: The production system is concerned with the capacity, location, layout, product or service design, work system, degree of automation, extent of vertical integration, and similar factors&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Importance&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Production System Strategies involve decisions which are long-term in nature, and have an influence on- &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Operations capability of the Firm, and&lt;/div&gt;&lt;div&gt; b. Its ability to implement strategies and achieve objectives &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
