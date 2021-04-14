@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T11:42:53.469Z" agent="5.0 (X11)" version="14.6.0" etag="-nJa0wYz4azH3X1hHell" type="github"><diagram id="5e-XyvuUPSNW5-qvgfR8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-14T17:03:44.981Z" agent="5.0 (X11)" etag="84W3fKklpTBXN0eOCCgb" version="14.6.0" type="github">
+  <diagram id="5e-XyvuUPSNW5-qvgfR8" name="Page-1">
+    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-1" target="ertDeUdLPHvkuPLK6w1d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-1" value="Functional strategies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-2" value="&lt;div&gt;Functional strategies refer to strategies which are formulated in the individual functional departments such as marketing, finance, production, R&amp;amp;D, Human resource management. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Level&amp;nbsp; (Hierarchy):&amp;nbsp; Functional&amp;nbsp; strategies&amp;nbsp; operate&amp;nbsp; below&amp;nbsp; the&amp;nbsp; SBU&amp;nbsp; or business level strategies. They stand at the lowest level in the hierarchy&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="440" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
