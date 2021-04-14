@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T17:57:51.915Z" agent="5.0 (X11)" etag="y11F9NZLeSYX0_WpLAj7" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:03:56.388Z" agent="5.0 (X11)" etag="jel8rIy4vDTyzsyNrDAm" version="14.6.0" type="github">
   <diagram id="5e-XyvuUPSNW5-qvgfR8" name="Page-1">
     <mxGraphModel dx="1903" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,15 +86,6 @@
         <mxCell id="ertDeUdLPHvkuPLK6w1d-31" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Process&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Acquiring capital to implement strategies / sources of funds&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Projected financial statements / budgets &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Management / usage of funds &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Evaluating the worth of a business &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="540" width="330" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ertDeUdLPHvkuPLK6w1d-34" value="Budgeting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="470" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ertDeUdLPHvkuPLK6w1d-35" value="Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="470" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ertDeUdLPHvkuPLK6w1d-36" value="Evaluating" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="530" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-37" target="ertDeUdLPHvkuPLK6w1d-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -117,11 +108,14 @@
         <mxCell id="ertDeUdLPHvkuPLK6w1d-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-44" target="ertDeUdLPHvkuPLK6w1d-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-44" target="ertDeUdLPHvkuPLK6w1d-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-44" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;financial budget&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A financial budget is also a document that details how funds will be obtained and spent for a specified period of time. Annual budgets are most common, although the&amp;nbsp; period&amp;nbsp; of&amp;nbsp; time&amp;nbsp; for&amp;nbsp; a&amp;nbsp; budget&amp;nbsp; can&amp;nbsp; range&amp;nbsp; from&amp;nbsp; one&amp;nbsp; day&amp;nbsp; to&amp;nbsp; more&amp;nbsp; than&amp;nbsp; ten&amp;nbsp; years. There are almost as many different types of financial budgets as there are types of organizations.&amp;nbsp; Some&amp;nbsp; common&amp;nbsp; types&amp;nbsp; of&amp;nbsp; budgets&amp;nbsp; include&amp;nbsp; cash&amp;nbsp; budgets,&amp;nbsp; operating budgets, sales budgets, profit budgets, factory budgets, capital budgets, expense budgets, divisional budgets, variable budgets, flexible budgets, and fixed budgets. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="440" y="990" width="330" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-46" value="&lt;div&gt;&lt;b&gt;Financial budgets have some limitations &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Cumbersome&amp;nbsp; -&amp;nbsp; A budget is a tool and not an end in itself. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Over budgeting or under budgeting can cause problems. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A budget is a tool and not an end in itself. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Budgets&amp;nbsp; can&amp;nbsp; hide&amp;nbsp; inefficiencies&amp;nbsp; if&amp;nbsp; based&amp;nbsp; solely&amp;nbsp; on&amp;nbsp; precedent&amp;nbsp; rather&amp;nbsp; than&amp;nbsp; on periodic evaluation of circumstances and standards. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; budgets&amp;nbsp; are&amp;nbsp; sometimes&amp;nbsp; used&amp;nbsp; as&amp;nbsp; instruments&amp;nbsp; of&amp;nbsp; tyranny&amp;nbsp; (dictatorship)&amp;nbsp; that result in frustration, resentment, absenteeism, and high turnover. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="800" y="990" width="330" height="230" as="geometry" />
+          <mxGeometry x="810" y="990" width="330" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Budgeting&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="1085" width="100" height="40" as="geometry" />
@@ -135,6 +129,44 @@
               <mxPoint x="420" y="970" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-50" target="ertDeUdLPHvkuPLK6w1d-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-50" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Management / usage of funds&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The&amp;nbsp; important&amp;nbsp; factors&amp;nbsp; regarding&amp;nbsp; which&amp;nbsp; plans&amp;nbsp; and&amp;nbsp; policies&amp;nbsp; are&amp;nbsp; to&amp;nbsp; be&amp;nbsp; made&amp;nbsp; are:&amp;nbsp; capital investment;&amp;nbsp; fixed&amp;nbsp; asset&amp;nbsp; acquisition;&amp;nbsp; current&amp;nbsp; assets;&amp;nbsp; loans&amp;nbsp; and&amp;nbsp; advances;&amp;nbsp; dividend decisions;&amp;nbsp; and&amp;nbsp; relationship&amp;nbsp; with&amp;nbsp; shareholders. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Usage of funds is important since it relates to the efficiency and effectiveness of resource utilization in the process of strategy implementation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The major factors regarding which plans and policies related to the management of funds have to be made are: the systems of finance, accounting, and budgeting; management control system; cash, credit, and risk management; cost control and reduction; and tax planning and advantages.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1260" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-51" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Management&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="1355" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-52" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1510" as="sourcePoint" />
+            <mxPoint x="460" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1510" />
+              <mxPoint x="420" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-53" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;1.&amp;nbsp;&amp;nbsp; Net Asset based or Balance sheet based method: &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Net Worth= Fixed assets + Net working capital - Long term debts&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Net Worth=&amp;nbsp; Equity&amp;nbsp; share&amp;nbsp; capital&amp;nbsp; +&amp;nbsp; Pref&amp;nbsp; share&amp;nbsp; Capital+&amp;nbsp; Reserves&amp;nbsp; &amp;amp;&amp;nbsp; Surplus&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;+/- P&amp;amp;L a/c- Miscellaneous expenditure &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;2.&amp;nbsp;&amp;nbsp; Profit based method / Capitalisation method:(Present value method)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• A discount rate can be used and then calculated. (OR) &lt;br&gt;&lt;/div&gt;&lt;div&gt;• Net worth= Current annual profit * no of years (eg: 5 years) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;3.&amp;nbsp;&amp;nbsp; Market Based Methods: &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Comparative Price: Networth or selling price of a similar company is considered.&lt;/div&gt;&lt;div&gt;P.E Based: Networth = PE ratio * Average net income for the given (eg 5) years Outstanding shares &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;4. method/market capitalization method:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Networth = Current market price per share * no of shares outstanding &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1530" width="540" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Evaluating&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="1625" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-55" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1800" as="sourcePoint" />
+            <mxPoint x="460" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1800" />
+              <mxPoint x="420" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-58" value="Financial strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
