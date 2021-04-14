@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T17:03:44.981Z" agent="5.0 (X11)" etag="84W3fKklpTBXN0eOCCgb" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T17:07:49.015Z" agent="5.0 (X11)" etag="mq28sOw5bPU9F4mArJRx" version="14.6.0" type="github">
   <diagram id="5e-XyvuUPSNW5-qvgfR8" name="Page-1">
-    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,14 @@
         <mxCell id="ertDeUdLPHvkuPLK6w1d-1" value="Functional strategies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-2" target="ertDeUdLPHvkuPLK6w1d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-2" value="&lt;div&gt;Functional strategies refer to strategies which are formulated in the individual functional departments such as marketing, finance, production, R&amp;amp;D, Human resource management. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Level&amp;nbsp; (Hierarchy):&amp;nbsp; Functional&amp;nbsp; strategies&amp;nbsp; operate&amp;nbsp; below&amp;nbsp; the&amp;nbsp; SBU&amp;nbsp; or business level strategies. They stand at the lowest level in the hierarchy&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Practical&amp;nbsp; feasibility&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Strategies&amp;nbsp; formulated&amp;nbsp; at&amp;nbsp; corporate&amp;nbsp; level&amp;nbsp; should&amp;nbsp; be translated&amp;nbsp; into&amp;nbsp; operational&amp;nbsp; plans&amp;nbsp; for&amp;nbsp; each&amp;nbsp; functional&amp;nbsp; area.&amp;nbsp; Only&amp;nbsp; then,&amp;nbsp; the plans will be practically feasible. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Consistency&lt;/b&gt;&lt;/u&gt;: Similar situations occurring in different functional areas can be handled in a consistent manner. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Co-ordination&lt;/b&gt;&lt;/u&gt;: Strategic decisions are implemented by all the divisions of an organization.&amp;nbsp; There&amp;nbsp; should&amp;nbsp; be&amp;nbsp; co-ordination&amp;nbsp; among&amp;nbsp; divisional&amp;nbsp; plans&amp;nbsp; and actions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Efficiency in functions&lt;/b&gt;&lt;/u&gt;: It improves efficiency in operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Implementation at functional level&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Strategies&amp;nbsp; should&amp;nbsp; be&amp;nbsp; segregated&amp;nbsp; into viable&amp;nbsp; functional&amp;nbsp; plans&amp;nbsp; and&amp;nbsp; policies&amp;nbsp; that&amp;nbsp; are&amp;nbsp; compatible&amp;nbsp; with&amp;nbsp; each&amp;nbsp; other&amp;nbsp; so that strategies can be implemented by the functional managers.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="180" width="490" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
