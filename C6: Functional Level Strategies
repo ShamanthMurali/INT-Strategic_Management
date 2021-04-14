@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:09:18.988Z" agent="5.0 (X11)" etag="7Oh9b0q27lgOZLIpPYA0" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:25:20.588Z" agent="5.0 (X11)" etag="dSQppuDQ07V3tXzqMX6P" version="14.6.0" type="github">
   <diagram id="5e-XyvuUPSNW5-qvgfR8" name="Page-1">
     <mxGraphModel dx="1903" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,6 +20,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-4" target="ertDeUdLPHvkuPLK6w1d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-4" target="ertDeUdLPHvkuPLK6w1d-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-4" target="ertDeUdLPHvkuPLK6w1d-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-4" target="ertDeUdLPHvkuPLK6w1d-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Practical&amp;nbsp; feasibility&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Strategies&amp;nbsp; formulated&amp;nbsp; at&amp;nbsp; corporate&amp;nbsp; level&amp;nbsp; should&amp;nbsp; be translated&amp;nbsp; into&amp;nbsp; operational&amp;nbsp; plans&amp;nbsp; for&amp;nbsp; each&amp;nbsp; functional&amp;nbsp; area.&amp;nbsp; Only&amp;nbsp; then,&amp;nbsp; the plans will be practically feasible. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Consistency&lt;/b&gt;&lt;/u&gt;: Similar situations occurring in different functional areas can be handled in a consistent manner. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Co-ordination&lt;/b&gt;&lt;/u&gt;: Strategic decisions are implemented by all the divisions of an organization.&amp;nbsp; There&amp;nbsp; should&amp;nbsp; be&amp;nbsp; co-ordination&amp;nbsp; among&amp;nbsp; divisional&amp;nbsp; plans&amp;nbsp; and actions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Efficiency in functions&lt;/b&gt;&lt;/u&gt;: It improves efficiency in operations &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Implementation at functional level&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Strategies&amp;nbsp; should&amp;nbsp; be&amp;nbsp; segregated&amp;nbsp; into viable&amp;nbsp; functional&amp;nbsp; plans&amp;nbsp; and&amp;nbsp; policies&amp;nbsp; that&amp;nbsp; are&amp;nbsp; compatible&amp;nbsp; with&amp;nbsp; each&amp;nbsp; other&amp;nbsp; so that strategies can be implemented by the functional managers.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -115,7 +124,7 @@
           <mxGeometry x="440" y="990" width="330" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-46" value="&lt;div&gt;&lt;b&gt;Financial budgets have some limitations &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Cumbersome&amp;nbsp; -&amp;nbsp; A budget is a tool and not an end in itself. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Over budgeting or under budgeting can cause problems. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A budget is a tool and not an end in itself. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Budgets&amp;nbsp; can&amp;nbsp; hide&amp;nbsp; inefficiencies&amp;nbsp; if&amp;nbsp; based&amp;nbsp; solely&amp;nbsp; on&amp;nbsp; precedent&amp;nbsp; rather&amp;nbsp; than&amp;nbsp; on periodic evaluation of circumstances and standards. &lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; budgets&amp;nbsp; are&amp;nbsp; sometimes&amp;nbsp; used&amp;nbsp; as&amp;nbsp; instruments&amp;nbsp; of&amp;nbsp; tyranny&amp;nbsp; (dictatorship)&amp;nbsp; that result in frustration, resentment, absenteeism, and high turnover. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="810" y="990" width="330" height="230" as="geometry" />
+          <mxGeometry x="790" y="990" width="330" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Budgeting&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="1085" width="100" height="40" as="geometry" />
@@ -172,25 +181,75 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-58" value="Production strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-59" target="ertDeUdLPHvkuPLK6w1d-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-59" value="&lt;div&gt;Production &lt;br&gt;&lt;/div&gt;&lt;div&gt;System &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1080" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="920" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-60" target="ertDeUdLPHvkuPLK6w1d-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-60" value="Operational Planning" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1400" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="1240" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-63" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Scope&lt;/b&gt;&lt;/u&gt;: The production system is concerned with the capacity, location, layout, product or service design, work system, degree of automation, extent of vertical integration, and similar factors&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Importance&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Production System Strategies involve decisions which are long-term in nature, and have an influence on- &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Operations capability of the Firm, and&lt;/div&gt;&lt;div&gt; b. Its ability to implement strategies and achieve objectives &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="620" width="280" height="170" as="geometry" />
+          <mxGeometry x="840" y="620" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ertDeUdLPHvkuPLK6w1d-65" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Scope&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Here,&amp;nbsp; Strategies&amp;nbsp; are&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; aggregate&amp;nbsp; production&amp;nbsp; planning, materials&amp;nbsp; supply,&amp;nbsp; inventory,&amp;nbsp; cost,&amp;nbsp; quality&amp;nbsp; management,&amp;nbsp; maintenance&amp;nbsp; of&amp;nbsp; plant&amp;nbsp; &amp;amp; equipment, etc.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Importance&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Operational&amp;nbsp; Strategies&amp;nbsp; seek&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; the&amp;nbsp; resources&amp;nbsp; are efficiently utilized, and the day-to-day operations are carried out in the light of long-term&amp;nbsp; objectives &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="620" width="280" height="170" as="geometry" />
+          <mxGeometry x="1160" y="620" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-68" target="ertDeUdLPHvkuPLK6w1d-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-68" target="ertDeUdLPHvkuPLK6w1d-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-68" value="logistics strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-69" target="ertDeUdLPHvkuPLK6w1d-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-69" value="Logistics is a process which integrates the flow of supplies into, through and out of the organization. The objective is to ensure that the right materials are available at the right place, at the right time, of the right quality, and at the right cost. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="540" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-71" target="ertDeUdLPHvkuPLK6w1d-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-71" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Functions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Sources of raw materials and components available &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Number of manufacturing locations, and the products manufactured therein &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Modes of transportation used for various materials and components &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Nature of materials handling equipment used &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Nature of distribution facilities &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Method for deploying inventory in the logistics network&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Ownership of transport vehicles by the firm &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="640" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-73" target="ertDeUdLPHvkuPLK6w1d-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-73" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Functions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Sources of raw materials and components available &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Number of manufacturing locations, and the products manufactured therein &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Modes of transportation used for various materials and components &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Nature of materials handling equipment used &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Nature of distribution facilities &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Method for deploying inventory in the logistics network&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Ownership of transport vehicles by the firm &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="920" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-75" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Cost savings &lt;br&gt;&lt;/div&gt;&lt;div&gt;•Reduced inventory &lt;br&gt;&lt;/div&gt;&lt;div&gt;•Improved delivery time&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;•Smooth production schedule &lt;br&gt;&lt;/div&gt;&lt;div&gt; •Customer satisfaction&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;•Competitive Advantage &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1200" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-78" target="ertDeUdLPHvkuPLK6w1d-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ertDeUdLPHvkuPLK6w1d-78" target="ertDeUdLPHvkuPLK6w1d-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-78" value="Supply chain management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-80" value="&lt;div&gt;&amp;gt; The&amp;nbsp;&amp;nbsp; term&amp;nbsp;&amp;nbsp; supply&amp;nbsp;&amp;nbsp; chain&amp;nbsp;&amp;nbsp; refers&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; linkages&amp;nbsp;&amp;nbsp; between&amp;nbsp;&amp;nbsp; suppliers, manufacturers&amp;nbsp; and&amp;nbsp;&amp;nbsp;&amp;nbsp; customers.&amp;nbsp; Supply&amp;nbsp; chains&amp;nbsp; involve&amp;nbsp; all&amp;nbsp; activities&amp;nbsp; like sourcing and procurement of material, conversion, and logistics. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; process&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; planning, implementing,&amp;nbsp; and&amp;nbsp; controlling&amp;nbsp; the&amp;nbsp; supply&amp;nbsp; chain&amp;nbsp; operations.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; as efficiently as possible&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; improve&amp;nbsp; trust&amp;nbsp; and&amp;nbsp; collaboration amongst partners&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; These functions&amp;nbsp; can&amp;nbsp; be&amp;nbsp; outsourced&amp;nbsp; to&amp;nbsp; other&amp;nbsp; business&amp;nbsp; organizations&amp;nbsp; that&amp;nbsp; specialize in those activities and can perform in a better and cost effective manner.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="550" width="340" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-82" value="VS" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1820" y="480" width="40" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ertDeUdLPHvkuPLK6w1d-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ertDeUdLPHvkuPLK6w1d-82">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
