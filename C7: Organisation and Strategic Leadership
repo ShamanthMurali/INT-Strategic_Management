@@ -1,11 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T06:22:45.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="ANyQDwlI3mewPViWnM7O" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T07:00:04.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="vntG_h7CJDZuUb9bWhqR" version="14.6.1" type="github">
   <diagram id="N3dyDGIBtXr8hTmWvwKY" name="Page-1">
     <mxGraphModel dx="1051" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sw-CaN76OAAPuKDkVYWO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sw-CaN76OAAPuKDkVYWO-1" target="Sw-CaN76OAAPuKDkVYWO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sw-CaN76OAAPuKDkVYWO-1" value="ORGANISATION AND STRATEGIC LEADERSHIP&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw-CaN76OAAPuKDkVYWO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sw-CaN76OAAPuKDkVYWO-2" target="Sw-CaN76OAAPuKDkVYWO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw-CaN76OAAPuKDkVYWO-2" value="Organisational&amp;nbsp; structure&amp;nbsp; involves&amp;nbsp; arrangement&amp;nbsp; of&amp;nbsp; activities&amp;nbsp; and&amp;nbsp; assignment&amp;nbsp; of personnel to these activities in order to achieve the organisational goals in an efficient manner.&lt;br&gt;&lt;br&gt;Ineffective&amp;nbsp; strategy&amp;nbsp; /&amp;nbsp; structure&amp;nbsp; match&amp;nbsp; may&amp;nbsp; result&amp;nbsp; in&amp;nbsp; company&amp;nbsp; rigidity&amp;nbsp; and increases&amp;nbsp; the&amp;nbsp; complexity&amp;nbsp; and&amp;nbsp; need&amp;nbsp; for&amp;nbsp; rapid&amp;nbsp; changes&amp;nbsp; in&amp;nbsp; today’s&amp;nbsp; competitive landscape." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw-CaN76OAAPuKDkVYWO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sw-CaN76OAAPuKDkVYWO-4" target="Sw-CaN76OAAPuKDkVYWO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw-CaN76OAAPuKDkVYWO-4" value="&lt;b&gt;&lt;u&gt;Factors effecting organization structure&lt;br&gt;&lt;/u&gt;&lt;/b&gt;(According to Chandler)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw-CaN76OAAPuKDkVYWO-6" value="1. &lt;b&gt;&lt;u&gt;Design&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; There&amp;nbsp; is&amp;nbsp; no&amp;nbsp; one&amp;nbsp; optimal&amp;nbsp; organizational&amp;nbsp; design&amp;nbsp; or&amp;nbsp; structure&amp;nbsp; for&amp;nbsp; a&amp;nbsp; given strategy or type of firm. &lt;br&gt;&lt;br&gt;2. &lt;b&gt;&lt;u&gt;Firm specific&lt;/u&gt;&lt;/b&gt;: What is appropriate for one firm may not be appropriate for another firm.&lt;br&gt;&lt;br&gt;3. &lt;b&gt;&lt;u&gt;Size&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; Structure&amp;nbsp; is&amp;nbsp; also&amp;nbsp; affected&amp;nbsp; by&amp;nbsp; size&amp;nbsp; of&amp;nbsp; the&amp;nbsp; firm.&amp;nbsp; Generally&amp;nbsp; small&amp;nbsp; firms&amp;nbsp; are functionally&amp;nbsp; structured&amp;nbsp; (i.e.&amp;nbsp; centralized),&amp;nbsp; medium&amp;nbsp; firms&amp;nbsp; are&amp;nbsp; divisionally&amp;nbsp; structured (i.e. decentralized), while large firms use matrix structure (i.e. SBU form). &lt;br&gt;&lt;br&gt;4. &lt;b&gt;&lt;u&gt;Growth&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; As&amp;nbsp; firms&amp;nbsp; grow,&amp;nbsp; their&amp;nbsp; structures&amp;nbsp; change&amp;nbsp; from&amp;nbsp; simple&amp;nbsp; to&amp;nbsp; complex&lt;br&gt;&lt;br&gt;&lt;b&gt;5.&lt;/b&gt; &lt;b&gt;Symptoms of ineffective organization structure&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;gt;&amp;gt; Too many levels of management &lt;br&gt;&amp;gt;&amp;gt; Too many meetings attended by too many people &lt;br&gt;&amp;gt;&amp;gt; Too much attention diverted towards interdepartmental conflicts &lt;br&gt;&amp;gt;&amp;gt; Large span of control &lt;br&gt;&amp;gt;&amp;gt; Many unachieved objectives&lt;br&gt;&lt;br&gt;6. &lt;b&gt;&lt;u&gt;Need for change&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; When&amp;nbsp; a&amp;nbsp; firm&amp;nbsp; changes&amp;nbsp; its&amp;nbsp; strategy,&amp;nbsp; the&amp;nbsp; existing&amp;nbsp; organizational structure&amp;nbsp; may&amp;nbsp; become&amp;nbsp; ineffective.&lt;br&gt;&lt;br&gt;7.&amp;nbsp; &amp;nbsp;&lt;b&gt;&lt;u&gt;Not a remedy&lt;/u&gt;&lt;/b&gt;: Changes in structure can facilitate strategy implementation efforts. But&amp;nbsp; changes&amp;nbsp; in&amp;nbsp; structure&amp;nbsp; can&#39;t&amp;nbsp; make&amp;nbsp; a&amp;nbsp; bad&amp;nbsp; strategy&amp;nbsp; to&amp;nbsp; good,&amp;nbsp; bad&amp;nbsp; managers&amp;nbsp; to good or bad products to sell." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="240" width="390" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
