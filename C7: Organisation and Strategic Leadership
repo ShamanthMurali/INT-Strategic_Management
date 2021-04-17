@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T07:00:04.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="B0hi8JKTtB6ZZIT5ALLc" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T07:03:08.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="24qF47U7CPHEAg8E-TaK" version="14.6.1" type="github">
   <diagram id="N3dyDGIBtXr8hTmWvwKY" name="Page-1">
     <mxGraphModel dx="2112" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -212,6 +212,21 @@
         </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cf.ppt-online.org/files/slide/e/EIKjiN64QtAw8Z9BFuCaXdzWJpgsPemDLr3kq1/slide-13.jpg;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="860" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-71" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Advantages of Network Structure&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Most suitable in unstable&amp;nbsp;&lt;/div&gt;&lt;div&gt;environment.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Innovation and quick response is&amp;nbsp;&lt;/div&gt;&lt;div&gt;possible.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Increased flexibility and&amp;nbsp;&lt;/div&gt;&lt;div&gt;adaptability to cope with rapid&amp;nbsp;&lt;/div&gt;&lt;div&gt;technological change and shifting&amp;nbsp;&lt;/div&gt;&lt;div&gt;requirements of international trade&amp;nbsp;&lt;/div&gt;&lt;div&gt;and competition&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Enables company to focus on&amp;nbsp;&lt;/div&gt;&lt;div&gt;core competencies&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1420" width="280" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-72" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Disadvantages of Network Structure:&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Lack of coordination and control due to numerous partners.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Several functions are contracted to separate suppliers or distributors. It may be&amp;nbsp;&lt;/div&gt;&lt;div&gt;difficult to discover synergy benefits by combining different activities.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• If a particular firm overspecializes in only few functions, it may choose wrong&amp;nbsp;&lt;/div&gt;&lt;div&gt;function and thus become non - competitive.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;• New structures may create stress for many employees.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• New structures often demand new skills, many workers may not adopt to it and&amp;nbsp;&lt;/div&gt;&lt;div&gt;may not perform well&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Employees may lack confidence to participate organization sponsored learning&amp;nbsp;&lt;/div&gt;&lt;div&gt;programs.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1420" width="280" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-73" target="ObN9QLPdV3uD9SNAZ5Un-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-73" target="ObN9QLPdV3uD9SNAZ5Un-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1220" width="440" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
