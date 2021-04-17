@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T05:23:39.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="XKsrrp5yJvOWJRz2AIOs" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T05:26:36.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="bwkUh0RmeVz0O5jFkPiC" version="14.6.1" type="github">
   <diagram id="N3dyDGIBtXr8hTmWvwKY" name="Page-1">
     <mxGraphModel dx="2110" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,10 @@
         <mxCell id="Sw-CaN76OAAPuKDkVYWO-9" value="TYPES OF ORGANIZATIONAL STRUCTURE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="680" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-1" value="Simple Structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-1" target="ObN9QLPdV3uD9SNAZ5Un-17" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-1" value="Simple Structure" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-127.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-2" value="FUNCTIONAL STRUCTURE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,6 +81,15 @@
         </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-8" value="HOUR GLASS STRUCTURE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="847.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-17" target="ObN9QLPdV3uD9SNAZ5Un-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-17" value="&lt;div&gt;it is most appropriate for companies that follow a&amp;nbsp;&lt;/div&gt;&lt;div&gt;single-business strategy and offer a line of products in a single geographic&amp;nbsp;&lt;/div&gt;&lt;div&gt;market. A simple structure is an organizational form in which the owner-manager&amp;nbsp;&lt;/div&gt;&lt;div&gt;makes all major decisions directly and monitors all activities, while the company’s staff&amp;nbsp;&lt;/div&gt;&lt;div&gt;merely serves as an executor.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;communication is frequent and direct, and new products tend to&amp;nbsp;&lt;/div&gt;&lt;div&gt;be introduced to the market quickly, which can result in a competitive advantage.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Because of these characteristics, few of the coordination problems that are common in&amp;nbsp;&lt;/div&gt;&lt;div&gt;larger organizations exist&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-303.75" y="860" width="472.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-19" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;advantages&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- a broad-based openness to innovation,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- greater structural flexibility, and&amp;nbsp;&lt;/div&gt;&lt;div&gt;- an ability to respond more rapidly to environmental changes.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-182.5" y="1030" width="230" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
