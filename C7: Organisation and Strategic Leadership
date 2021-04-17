@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T05:45:31.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="u8b-Rs5UU01iTUM_CgwN" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T06:32:15.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="QD9lfMKR2Q7uml5o3gMv" version="14.6.1" type="github">
   <diagram id="N3dyDGIBtXr8hTmWvwKY" name="Page-1">
-    <mxGraphModel dx="1902" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,12 @@
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-2" value="FUNCTIONAL STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="12.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-3" target="ObN9QLPdV3uD9SNAZ5Un-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-3" target="ObN9QLPdV3uD9SNAZ5Un-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-3" value="&amp;nbsp; &amp;nbsp;DIVISIONAL MULTI DIVISIONAL / M-FORM STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
@@ -120,6 +126,30 @@
         </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.3queries.com/wp-content/uploads/2020/04/pmp-functional-organizational-structure-pmp.png;" vertex="1" parent="1" visible="0">
           <mxGeometry x="-187.5" y="860" width="520" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-33" target="ObN9QLPdV3uD9SNAZ5Un-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-33" target="ObN9QLPdV3uD9SNAZ5Un-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-33" value="&lt;div&gt; Here each division represents a separate business or product line. Top&amp;nbsp;&lt;/div&gt;&lt;div&gt;management delegates even strategic functions to the respective divisions.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; The divisional structure can be organized in one of the four ways: by geographic&amp;nbsp;&lt;/div&gt;&lt;div&gt;area, by product or service, by customer, or by process. With a divisional&amp;nbsp;&lt;/div&gt;&lt;div&gt;structure, functional activities are performed both centrally and, in each division,&amp;nbsp;&lt;/div&gt;&lt;div&gt;separately.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt; Top management is responsible for the overall strategy, whereas divisional level&amp;nbsp;&lt;/div&gt;&lt;div&gt;management is responsible for their divisional.&amp;nbsp;&lt;/div&gt;&lt;div&gt; Certain functions can be organized and managed centrally too&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1090" width="440" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-36" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Advantages of divisional structure&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Divisional Heads take the&amp;nbsp;&lt;/div&gt;&lt;div&gt;responsibility for growth and profits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Decentralization and extensive&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- delegation of authority improves&amp;nbsp;&lt;/div&gt;&lt;div&gt;employee morale and&amp;nbsp;&lt;/div&gt;&lt;div&gt;performance.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Employee willingly puts efforts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Organization provides for career&amp;nbsp;&lt;/div&gt;&lt;div&gt;development opportunities for&amp;nbsp;&lt;/div&gt;&lt;div&gt;managers.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Focused attention is possible&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Better control&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1300" width="280" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-37" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Disadvantages of Divisional Structure&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Expensive&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Duplication of specialists and&amp;nbsp;&lt;span&gt;functions&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Requires qualified and committed&amp;nbsp;&lt;/div&gt;&lt;div&gt;managers&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Requires elaborate control system,&amp;nbsp;&lt;/div&gt;&lt;div&gt;by establishing the standard of&amp;nbsp;&lt;/div&gt;&lt;div&gt;performance than measure actual&amp;nbsp;&lt;/div&gt;&lt;div&gt;performance and if deviation&amp;nbsp;&lt;/div&gt;&lt;div&gt;rectified.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Inconsistent decision making - each&amp;nbsp;&lt;/div&gt;&lt;div&gt;division may take its own decision&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Divisional level practices may be&amp;nbsp;&lt;/div&gt;&lt;div&gt;established, instead of corporate&amp;nbsp;&lt;/div&gt;&lt;div&gt;practices.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Difficulty in allocating overheads etc.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1300" width="280" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-40" target="ObN9QLPdV3uD9SNAZ5Un-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.differencebetween.com/wp-content/uploads/2017/04/Difference-Between-Functional-and-Divisional-Structure-1.png;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="880" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-43" value="Multi Divisional Structure" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
