@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T03:00:46.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="tgllpeGyJ_Cb-ZhihKHb" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T03:28:50.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="kd-0-It2Gxa5LktaiGDs" version="14.6.1" type="github">
   <diagram id="N3dyDGIBtXr8hTmWvwKY" name="Page-1">
-    <mxGraphModel dx="1900" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1719" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,19 +280,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ickKCg5ccA4yBcYowNC-9" value="Transactional Leadership style&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1048" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="1053.5" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ickKCg5ccA4yBcYowNC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-10" target="3ickKCg5ccA4yBcYowNC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ickKCg5ccA4yBcYowNC-10" value="Transformational Leadership style" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1383" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="1388.5" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ickKCg5ccA4yBcYowNC-13" value="&lt;div&gt;- Focuses more on designing systems and controlling the organization&#39;s activities&amp;nbsp;&amp;nbsp;&lt;span&gt;and is more likely to be associated with improving the current situation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Uses the authority of it&#39;s office to exchange rewards such as pay and status&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- Focuses more on designing systems and controlling the organization&#39;s activities&amp;nbsp;&amp;nbsp;&lt;span&gt;and is more likely to be associated with improving the current situation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Uses the authority of it&#39;s office to exchange rewards such as pay and status&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="390" width="320" height="270" as="geometry" />
+          <mxGeometry x="953.5" y="360" width="320" height="270" as="geometry" />
         </mxCell>
         <mxCell id="3ickKCg5ccA4yBcYowNC-15" value="&lt;div&gt;- This style of leadership uses charisma and enthusiasm to inspire people to exert&amp;nbsp;&amp;nbsp;&lt;span&gt;them for the good of the organization.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- This style is suitable in turbulent environments, in the initial stages of organization&amp;nbsp;&amp;nbsp;&lt;span&gt;or at the declining stages, in turn around strategies where there is a need to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;inspire organization to adopt to major changes.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Transformational leaders offer excitement, vision, intellectual stimulation and&amp;nbsp;&amp;nbsp;&lt;span&gt;personal satisfaction.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- They inspire involvement in a mission, giving followers a dream or vision of higher&amp;nbsp;&amp;nbsp;&lt;span&gt;calling so as to elicit more dramatic changes in organizational performance.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Such a leadership motivates followers to do more dramatic changes in&amp;nbsp;&amp;nbsp;&lt;span&gt;organizational performance&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1283" y="390" width="320" height="270" as="geometry" />
+          <mxGeometry x="1288.5" y="360" width="320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-17" value="vs" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1260" y="300" width="40" height="40" as="geometry">
+            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ickKCg5ccA4yBcYowNC-17">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-19" target="3ickKCg5ccA4yBcYowNC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-19" value="Strategy Supportive Culture" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1" width="160" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-20" target="3ickKCg5ccA4yBcYowNC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-20" value="&lt;div&gt;Corporate culture refers to a company&#39;s values, beliefs, business principles,&amp;nbsp;&amp;nbsp;&lt;span&gt;traditions, ways of operating, and internal work environment.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="60" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-21" target="3ickKCg5ccA4yBcYowNC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-21" value="&lt;div&gt;When they are compatible, the culture becomes a valuable ally in strategy&amp;nbsp;&lt;/div&gt;&lt;div&gt;implementation and execution. When the culture is in conflict with some aspect of the&amp;nbsp;&lt;/div&gt;&lt;div&gt;company&#39;s direction, performance targets or strategy, the culture becomes a stumbling&amp;nbsp;&lt;/div&gt;&lt;div&gt;block that impedes successful strategy implementation and execution.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="120" width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-24" value="&lt;b&gt;&lt;u&gt;Role of culture in strategy execution &lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Perils of Strategy-Culture Conflict: When a company&#39;s culture is out of sync with&amp;nbsp;&lt;/div&gt;&lt;div&gt;what is needed for strategic success, the culture has to be changed as rapidly as can&amp;nbsp;&lt;/div&gt;&lt;div&gt;be managed. While correcting a strategy-culture conflict can occasionally mean&amp;nbsp;&lt;/div&gt;&lt;div&gt;revamping strategy to produce cultural fit, more usually it means revamping the&amp;nbsp;&lt;/div&gt;&lt;div&gt;mismatched cultural features to produce strategy fit.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Creating a strong fit between strategy and culture&lt;/u&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;Changing a company&#39;s culture is&lt;/span&gt;&lt;span&gt;&amp;nbsp;toughest management tasks.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The first step is to diagnose which facets of the present culture are strategy supportive&amp;nbsp;&lt;/div&gt;&lt;div&gt;and which are not. Then, managers have to talk openly and forthrightly to all concerned&amp;nbsp;&lt;/div&gt;&lt;div&gt;about those aspects of the culture that have to be changed.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The talk has to be followed swiftly by visible, aggressive actions to modify the&amp;nbsp;&lt;/div&gt;&lt;div&gt;culture-actions that everyone will understand are intended to establish a new culture&amp;nbsp;&lt;/div&gt;&lt;div&gt;more in tune with the strategy.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The menu of culture-changing actions includes revising policies and procedures in ways&amp;nbsp;&lt;/div&gt;&lt;div&gt;that will help drive cultural change, altering incentive compensation (to reward the&amp;nbsp;&lt;/div&gt;&lt;div&gt;desired cultural behaviour), visibly praising and recognizing people who display the new&amp;nbsp;&lt;/div&gt;&lt;div&gt;cultural traits, recruiting and hiring new managers and employees who have the desired&amp;nbsp;&lt;/div&gt;&lt;div&gt;cultural values and can serve as role models for the desired cultural behaviour,&amp;nbsp;&lt;/div&gt;&lt;div&gt;replacing key executives who are strongly associated with the old culture, and taking&amp;nbsp;&lt;/div&gt;&lt;div&gt;every opportunity to communicate to employees the basis for cultural change and its&amp;nbsp;&lt;/div&gt;&lt;div&gt;benefits to all concerned.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1902.5" y="230" width="515" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
