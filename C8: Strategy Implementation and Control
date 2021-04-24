@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T05:48:09.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="QxZDHH3Q6JrQBEVLhBca" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T06:44:54.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="f7yWKsPnCHL5nrVGxmEW" version="14.6.6" type="github">
   <diagram id="Do2IUJFNIAkwGLn3xXTK" name="Page-1">
-    <mxGraphModel dx="1249" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry x="490" y="350" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7M5YqOrOC7l556pe-yM--13" value="Strategy Implementation" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="390" width="220" height="30" as="geometry" />
+          <mxGeometry x="350" y="390" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7M5YqOrOC7l556pe-yM--14" value="&lt;b&gt;Strategy Formulation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="197" y="256" width="160" height="30" as="geometry" />
@@ -68,28 +68,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-1" value="STRATEGIC CHANGE&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1140" width="155" height="40" as="geometry" />
+          <mxGeometry x="272.5" y="1670" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPXhKmsbnDWppPi-VBan-2" target="yPXhKmsbnDWppPi-VBan-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-2" value="&lt;b&gt;&lt;u&gt;Steps to initiate strategic change&amp;nbsp;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="1200" width="240" height="30" as="geometry" />
+          <mxGeometry x="230" y="1730" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPXhKmsbnDWppPi-VBan-5" target="yPXhKmsbnDWppPi-VBan-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-5" value="&lt;b&gt;&lt;u&gt;Step 1:&amp;nbsp;&amp;nbsp;Recognize the need for change&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Do environmental scanning -&amp;gt; SWOT analysis -&amp;gt; recognize where the lacuna lies and scope of change exists.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="1250" width="320" height="80" as="geometry" />
+          <mxGeometry x="190" y="1780" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPXhKmsbnDWppPi-VBan-6" target="yPXhKmsbnDWppPi-VBan-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-6" value="&lt;u&gt;&lt;b&gt;Step 2:&amp;nbsp;Create a shared vision to manage change&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;br&gt;Senior managers need to constantly and consistently communicate the vision not only to inform but also to overcome resistance&amp;nbsp; through&amp;nbsp; proper&amp;nbsp; communication.&amp;nbsp; Strategy&amp;nbsp; implementers&amp;nbsp; have&amp;nbsp; to convince all those concerned that the change in business culture is not superficial or cosmetic." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="1350" width="320" height="130" as="geometry" />
+          <mxGeometry x="190" y="1880" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="yPXhKmsbnDWppPi-VBan-8" value="&lt;b&gt;&lt;u&gt;Step 3:&amp;nbsp;&amp;nbsp;Institutionalize the change&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;Change&amp;nbsp; process&amp;nbsp; must&amp;nbsp; be&amp;nbsp; regularly&amp;nbsp; monitored&amp;nbsp; and reviewed&amp;nbsp; to&amp;nbsp; analyses&amp;nbsp; the&amp;nbsp; after-effects&amp;nbsp; of&amp;nbsp; change.&amp;nbsp; Any&amp;nbsp; discrepancy&amp;nbsp; or&amp;nbsp; deviation should&amp;nbsp; be&amp;nbsp; brought&amp;nbsp; to&amp;nbsp; the&amp;nbsp; notice&amp;nbsp; of&amp;nbsp; persons&amp;nbsp; concerned&amp;nbsp; so&amp;nbsp; that&amp;nbsp; the&amp;nbsp; necessary corrective actions are taken.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="1500" width="320" height="130" as="geometry" />
+          <mxGeometry x="190" y="2030" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-11" value="KURT LEWIN &lt;br&gt;CHANGE MANGEMENT PROCESS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1660" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPXhKmsbnDWppPi-VBan-12" target="yPXhKmsbnDWppPi-VBan-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-12" value="&amp;nbsp;issues in strategy implementation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPXhKmsbnDWppPi-VBan-13" target="yPXhKmsbnDWppPi-VBan-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-13" value="•&amp;nbsp; &amp;nbsp; Project implementation &lt;br&gt;•&amp;nbsp; &amp;nbsp; Procedural implementation &lt;br&gt;•&amp;nbsp; &amp;nbsp; Resource aIIocation &lt;br&gt;•&amp;nbsp; &amp;nbsp; Structural implementation &lt;br&gt;•&amp;nbsp; &amp;nbsp; Functional implementation &lt;br&gt;•&amp;nbsp; &amp;nbsp; Behavioural implementation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="1140" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yPXhKmsbnDWppPi-VBan-15" target="yPXhKmsbnDWppPi-VBan-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-15" value="Management issues central to strategy implementation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="1280" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yPXhKmsbnDWppPi-VBan-17" value="-establishing annual objectives,&amp;nbsp; &lt;br&gt;-devising policies, allocating resources,&amp;nbsp; &lt;br&gt;-altering an existing organizational structure,&amp;nbsp; &lt;br&gt;-restructuring and reengineering,&amp;nbsp; &lt;br&gt;-revising reward and incentive plans, &lt;br&gt;-minimizing resistance to change,&amp;nbsp;&lt;br&gt;&amp;nbsp;-developing a strategy-supportive culture,&amp;nbsp; &lt;br&gt;-adapting production/operations processes,&amp;nbsp; &lt;br&gt;-developing an effective human resource system and, &lt;br&gt;-if necessary, downsizing.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1340" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
