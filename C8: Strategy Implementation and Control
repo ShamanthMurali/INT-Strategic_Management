@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T00:04:17.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="AofJSNOmGNZmzyA3P-x8" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T00:23:36.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="E_RMmr2tDpFwutrbu1RB" version="14.6.6" type="github">
   <diagram id="Do2IUJFNIAkwGLn3xXTK" name="Page-1">
-    <mxGraphModel dx="863" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1252" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,8 +145,118 @@
         <mxCell id="T8xEqvB-nj8D2XWixDIn-5" value="unfreezing is the process of breaking down the old attitudes and behaviors, customs and traditions so that they start with a clean slate. &lt;br&gt;&lt;br&gt;This&amp;nbsp; can&amp;nbsp; be&amp;nbsp; achieved&amp;nbsp; by&amp;nbsp; making&amp;nbsp; announcements,&amp;nbsp; holding&amp;nbsp; meetings&amp;nbsp; and promoting the ideas throughout the organization.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-1">
           <mxGeometry y="40" width="310" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-10" target="T8xEqvB-nj8D2XWixDIn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-10" target="T8xEqvB-nj8D2XWixDIn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-10" target="T8xEqvB-nj8D2XWixDIn-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="2140" />
+              <mxPoint x="180" y="2140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-10" value="STRATEGIC CONTROL" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="2080" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-14" target="T8xEqvB-nj8D2XWixDIn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-14" target="T8xEqvB-nj8D2XWixDIn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-14" target="T8xEqvB-nj8D2XWixDIn-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="2220" />
+              <mxPoint x="260" y="2220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-14" target="T8xEqvB-nj8D2XWixDIn-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="2220" />
+              <mxPoint x="740" y="2220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-14" value="strategic&lt;br&gt;&amp;nbsp;control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-13" value="operational&amp;nbsp; &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="120" y="2160" width="120" height="40" as="geometry">
+            <mxRectangle x="227.5" y="2160" width="440" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-15" value="Operational control is the process of evaluating the performance of the strategic business units, divisions etc., and their contribution to the contribution to the achievement of organisational goals. &lt;br&gt;&lt;br&gt;In other words, operational control means focusing on micro or individualistic control.&lt;br&gt;&lt;br&gt;The thrust of operational control is on individual tasks or transactions as against total or more aggregative management functions. For example, procuring specific items&amp;nbsp; for&amp;nbsp; inventory&amp;nbsp; is&amp;nbsp; a&amp;nbsp; matter&amp;nbsp; of&amp;nbsp; operational&amp;nbsp; control,&amp;nbsp; in&amp;nbsp; contrast&amp;nbsp; to&amp;nbsp; inventory management as a whole.&lt;br&gt;&lt;br&gt;tests that can be applied to identify operational control areas is that there should be a clear-cut and somewhat measurable relationship between inputs and outputs which could be predetermined or estimated with least uncertainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-13">
+          <mxGeometry x="0.5" y="40" width="439.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-11" value="management &lt;br&gt;control&amp;nbsp;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="280" y="2160" width="120" height="40" as="geometry">
+            <mxRectangle x="280" y="2160" width="380" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-16" value="When compared with operational control, management control is more inclusive and more aggregative, in the sense of embracing the integrated activities of a complete&amp;nbsp; department,&amp;nbsp; division&amp;nbsp; or&amp;nbsp; even&amp;nbsp; entire&amp;nbsp; organisation,&amp;nbsp; instead&amp;nbsp; or&amp;nbsp; mere narrowly circumscribed activities of sub-units. &lt;br&gt;&lt;br&gt;The&amp;nbsp; basic&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; management&amp;nbsp; control&amp;nbsp; is&amp;nbsp; the&amp;nbsp; achievement&amp;nbsp; of&amp;nbsp; enterprise&amp;nbsp; goals&amp;nbsp; – short range and long range – in a most effective and efficient manner.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-11">
+          <mxGeometry y="40" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-18" value="Premise &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="200" y="2240" width="120" height="40" as="geometry">
+            <mxRectangle x="200" y="2240" width="330" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-33" value="•&amp;nbsp; &amp;nbsp; A strategy is formed on the basis of certain assumptions or premises about the complex and turbulent organizational environment. &lt;br&gt;•&amp;nbsp; &amp;nbsp; Over a period of time these premises may not remain valid. Premise control is a tool for systematic and continuous monitoring of the environment to verify the&amp;nbsp; validity&amp;nbsp; and&amp;nbsp; accuracy&amp;nbsp; of&amp;nbsp; the&amp;nbsp; premises&amp;nbsp; on&amp;nbsp; which&amp;nbsp; the&amp;nbsp; strategy&amp;nbsp; has&amp;nbsp; been built. &lt;br&gt;•&amp;nbsp; &amp;nbsp; It&amp;nbsp; involves&amp;nbsp; monitoring&amp;nbsp; environmental&amp;nbsp; and&amp;nbsp; industry&amp;nbsp; factors,&amp;nbsp; (micro,&amp;nbsp; macro environment and industry related factors) &lt;br&gt;•&amp;nbsp; &amp;nbsp; It is neither feasible not desirable to control all types of premises in the same manner. Different premises may require different amount of control." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-18">
+          <mxGeometry y="40" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-19" target="T8xEqvB-nj8D2XWixDIn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-19" value="Implementation control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-30" value="Milestone Reviews" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="760" y="2400" width="120" height="60" as="geometry">
+            <mxRectangle x="760" y="2400" width="250" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-43" value="All key activities necessary to implement strategy are Segregated&amp;nbsp; in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; time,&amp;nbsp; events&amp;nbsp; or&amp;nbsp; major&amp;nbsp; resources&amp;nbsp; allocation.&amp;nbsp; It normally&amp;nbsp; involves&amp;nbsp; a&amp;nbsp; complete&amp;nbsp; reassessment&amp;nbsp; of&amp;nbsp; the&amp;nbsp; strategy.&amp;nbsp; It&amp;nbsp; also assesses&amp;nbsp; the&amp;nbsp; need&amp;nbsp; to&amp;nbsp; continue&amp;nbsp; or&amp;nbsp; refocus&amp;nbsp; on&amp;nbsp; the&amp;nbsp; direction&amp;nbsp; of&amp;nbsp; an organization.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-30">
+          <mxGeometry y="60" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-20" value="Strategic &lt;br&gt;surveillance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="2240" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="2240" width="320" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-34" value="[staying uptodate to with current matters of the world]&lt;br&gt;•&amp;nbsp; &amp;nbsp; It&amp;nbsp; involves&amp;nbsp; general&amp;nbsp; monitoring&amp;nbsp; of&amp;nbsp; various&amp;nbsp; sources&amp;nbsp; of&amp;nbsp; information&amp;nbsp; to&amp;nbsp; uncover unanticipated information having an impact on the organizational strategy. •&amp;nbsp; &amp;nbsp; Ex: Reading financial and other newspapers, business magazines, meetings, conferences, discussions at clubs or parties and so on can help in strategic surveillance. Strategic surveillance may be lose form of strategic control, but is capable of uncovering information relevant to the strategy. &amp;nbsp; &amp;nbsp; (Note: Premise control is with a focus on assumptions - whereas surveillance control is without specific focus - general monitoring of environment)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-20">
+          <mxGeometry y="40" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-21" value="Special alert &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="520" y="2240" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="2240" width="380" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-35" value="•&amp;nbsp; &amp;nbsp; At&amp;nbsp; times&amp;nbsp; unexpected&amp;nbsp; events&amp;nbsp; may&amp;nbsp; force&amp;nbsp; organizations&amp;nbsp; to&amp;nbsp; reconsider&amp;nbsp; their strategy. &lt;br&gt;•&amp;nbsp; &amp;nbsp; These controls help organizations to cope up with these eventualities, form crisis management teams to handle the situation. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Sudden&amp;nbsp; changes&amp;nbsp; in&amp;nbsp; government,&amp;nbsp; natural&amp;nbsp; calamities,&amp;nbsp; terrorist&amp;nbsp; attacks, unexpected merger/acquisition by competitors, industrial disasters and other such events may trigger an immediate and intense review of strategy.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-21">
+          <mxGeometry y="40" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-38" target="T8xEqvB-nj8D2XWixDIn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8xEqvB-nj8D2XWixDIn-38" target="T8xEqvB-nj8D2XWixDIn-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-38" value="&amp;nbsp;assessing the need for changes in the overall&amp;nbsp; strategy&amp;nbsp; in&amp;nbsp; light&amp;nbsp; of&amp;nbsp; unfolding&amp;nbsp; events&amp;nbsp; and&amp;nbsp; results&amp;nbsp; associated&amp;nbsp; with incremental steps and actions.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-29" value="Monitoring &lt;br&gt;strategic&lt;br&gt;thrusts" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="600" y="2400" width="120" height="60" as="geometry">
+            <mxRectangle x="600" y="2400" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-42" value="Monitoring&amp;nbsp; strategic&amp;nbsp; thrusts&amp;nbsp; help managers to determine whether the overall strategy is progressing as desired or whether there is need for readjustments." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="T8xEqvB-nj8D2XWixDIn-29">
+          <mxGeometry y="60" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
