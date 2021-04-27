@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T02:47:09.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="erPpF9ZHgE25KRXyd12D" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T02:55:52.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="JOFRVG-DDmKDFcaLwNkQ" version="14.6.6" type="github">
   <diagram id="Do2IUJFNIAkwGLn3xXTK" name="Page-1">
     <mxGraphModel dx="646" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,6 +320,9 @@
         <mxCell id="u905G5PJ41BJXGmMC32I-17" value="&lt;b&gt;&lt;u&gt;Advantage&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;A&amp;nbsp; strategy&amp;nbsp; must&amp;nbsp; provide&amp;nbsp; for&amp;nbsp; the&amp;nbsp; creation&amp;nbsp; and/or&amp;nbsp; maintenance&amp;nbsp; of&amp;nbsp; a competitive&amp;nbsp; advantage&amp;nbsp; in&amp;nbsp; a&amp;nbsp; selected&amp;nbsp; area&amp;nbsp; of&amp;nbsp; activity.&amp;nbsp; &lt;br&gt;Competitive&amp;nbsp; advantages normally are the result of superiority in one of three areas: &lt;br&gt;(1) resources,&lt;br&gt;(2) skills, or &lt;br&gt;(3) position." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="3550" width="400" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-19" target="u905G5PJ41BJXGmMC32I-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u905G5PJ41BJXGmMC32I-19" value="strategy&#xa;evaluation &#xa;Difficulties" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="420" y="3690" width="120" height="50" as="geometry">
             <mxRectangle x="420" y="3690" width="340" height="190" as="alternateBounds" />
@@ -327,6 +330,21 @@
         </mxCell>
         <mxCell id="u905G5PJ41BJXGmMC32I-20" value="•&amp;nbsp; &amp;nbsp; A dramatic increase in the environment&#39;s complexity. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing difficulty of predicting the future with accuracy. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing number of variables in the environment. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The rapid rate of obsolescence of even the best plans. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; the&amp;nbsp; number&amp;nbsp; of&amp;nbsp; both&amp;nbsp; domestic&amp;nbsp; and&amp;nbsp; world&amp;nbsp; events&amp;nbsp; affecting organizations. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The decreasing time span for which planning can be done with any degree of certainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u905G5PJ41BJXGmMC32I-19">
           <mxGeometry y="50" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-22" target="u905G5PJ41BJXGmMC32I-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-22" value="BUSINESS PROCESS RE-ENGINEERING (BPR)&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="3780" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-24" target="u905G5PJ41BJXGmMC32I-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-24" value="it refers&amp;nbsp; to&amp;nbsp; the&amp;nbsp; critical&amp;nbsp; analysis&amp;nbsp; and radical&amp;nbsp; re-designing&amp;nbsp; of&amp;nbsp; workflows&amp;nbsp; and&amp;nbsp; processes&amp;nbsp; both&amp;nbsp; within&amp;nbsp; and&amp;nbsp; between business firms.&lt;br&gt;&lt;br&gt;it&amp;nbsp; is&amp;nbsp; a&amp;nbsp; total&amp;nbsp; deconstruction&amp;nbsp; and&amp;nbsp; re-thinking&amp;nbsp; of&amp;nbsp; a&amp;nbsp; business&amp;nbsp; process&amp;nbsp; in&amp;nbsp; its entirety, without bothered by existing structure and pattern, (i.e., radical) &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;br&gt;It&amp;nbsp; is&amp;nbsp; bringing&amp;nbsp; in&amp;nbsp; dramatic&amp;nbsp; improvement&amp;nbsp; in&amp;nbsp; a&amp;nbsp; process,&amp;nbsp; and&amp;nbsp; improves performance measures like cost, time, efforts etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3840" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-26" value="•Operational excellence: The operational&amp;nbsp; excellence&amp;nbsp; of&amp;nbsp; a&amp;nbsp; company&amp;nbsp; is&amp;nbsp; very important for its competitiveness. The business strategy of a company should be designed to improve operational excellence. &lt;br&gt;&lt;br&gt;•Process orientation: A customer-focused firm should be re-aligned in terms of&amp;nbsp; process&amp;nbsp; orientation.&amp;nbsp; Processes&amp;nbsp; need&amp;nbsp; to&amp;nbsp; be&amp;nbsp; managed&amp;nbsp; effectively&amp;nbsp; but&amp;nbsp; not functions. The firm should look at &quot;what work is being done&quot; and also &quot;how work is being done&quot;. &lt;br&gt;&lt;br&gt;•No&amp;nbsp; old&amp;nbsp; ideas:&amp;nbsp; For&amp;nbsp; considering&amp;nbsp; new&amp;nbsp; ways&amp;nbsp; of&amp;nbsp; re-designing&amp;nbsp; processes,&amp;nbsp; each and every concept, assumption, purpose and principle should be abandoned temporarily. It is necessary to proceed afresh, without being influenced by old ideas. &lt;br&gt;&lt;br&gt;•Dramatic improvement: Continuous improvement is not sufficient when the company is below industry standards. Company should take quantum leaps in performance. &lt;br&gt;&lt;br&gt;•Competitive advantage: To survive, grow&amp;nbsp; and tackle competition, &quot;how to compete&quot; is more important than deciding where to compete.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4000" width="400" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
