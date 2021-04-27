@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T02:40:14.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ZYamMuthH0KKcEWzlAvJ" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T02:47:09.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="erPpF9ZHgE25KRXyd12D" version="14.6.6" type="github">
   <diagram id="Do2IUJFNIAkwGLn3xXTK" name="Page-1">
     <mxGraphModel dx="646" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -289,6 +289,44 @@
         </mxCell>
         <mxCell id="u905G5PJ41BJXGmMC32I-7" value="&lt;b&gt;&lt;u&gt;Process&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1.&amp;nbsp; &amp;nbsp; Examining the underlying bases of a firm&#39;s strategy, &lt;br&gt;2. Comparing expected results with actual results, and &lt;br&gt;3.&amp;nbsp; &amp;nbsp; Taking corrective actions to ensure that performance conforms to plans.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="276.25" y="3140" width="402.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-10" target="u905G5PJ41BJXGmMC32I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-10" value="Richard Rumelt&#39;s &lt;br&gt;Criteria for Strategy Audit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="3280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-11" target="u905G5PJ41BJXGmMC32I-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-11" value="&lt;b&gt;&lt;u&gt;Consistency&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;A strategy should not present inconsistent goals and policies." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3340" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-12" target="u905G5PJ41BJXGmMC32I-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-12" value="&lt;b&gt;&lt;u&gt;Consonance&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;Consonance refers to the need for strategists to examine sets of trends, as well as individual trends, in auditing strategies. A strategy must represent&amp;nbsp; an&amp;nbsp; adaptive&amp;nbsp; response&amp;nbsp; to&amp;nbsp; the&amp;nbsp; external&amp;nbsp; environment&amp;nbsp; and&amp;nbsp; to&amp;nbsp; the&amp;nbsp; critical changes&amp;nbsp; occurring&amp;nbsp; within&amp;nbsp; it.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3400" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-15" target="u905G5PJ41BJXGmMC32I-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-15" value="&lt;b&gt;&lt;u&gt;Feasibility&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;examine&amp;nbsp; whether&amp;nbsp; an organization&amp;nbsp; has&amp;nbsp; demonstrated&amp;nbsp; in&amp;nbsp; the&amp;nbsp; past&amp;nbsp; that&amp;nbsp; it&amp;nbsp; possesses&amp;nbsp; the&amp;nbsp; abilities, competencies, skills, and talents needed to carry out a given strategy.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3480" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-17" target="u905G5PJ41BJXGmMC32I-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-17" value="&lt;b&gt;&lt;u&gt;Advantage&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;A&amp;nbsp; strategy&amp;nbsp; must&amp;nbsp; provide&amp;nbsp; for&amp;nbsp; the&amp;nbsp; creation&amp;nbsp; and/or&amp;nbsp; maintenance&amp;nbsp; of&amp;nbsp; a competitive&amp;nbsp; advantage&amp;nbsp; in&amp;nbsp; a&amp;nbsp; selected&amp;nbsp; area&amp;nbsp; of&amp;nbsp; activity.&amp;nbsp; &lt;br&gt;Competitive&amp;nbsp; advantages normally are the result of superiority in one of three areas: &lt;br&gt;(1) resources,&lt;br&gt;(2) skills, or &lt;br&gt;(3) position." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3550" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-19" value="strategy&#xa;evaluation &#xa;Difficulties" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="420" y="3690" width="120" height="50" as="geometry">
+            <mxRectangle x="420" y="3690" width="340" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-20" value="•&amp;nbsp; &amp;nbsp; A dramatic increase in the environment&#39;s complexity. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing difficulty of predicting the future with accuracy. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing number of variables in the environment. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The rapid rate of obsolescence of even the best plans. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; the&amp;nbsp; number&amp;nbsp; of&amp;nbsp; both&amp;nbsp; domestic&amp;nbsp; and&amp;nbsp; world&amp;nbsp; events&amp;nbsp; affecting organizations. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The decreasing time span for which planning can be done with any degree of certainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u905G5PJ41BJXGmMC32I-19">
+          <mxGeometry y="50" width="340" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
