@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T03:38:44.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="dXSePi5tu_0NoOV1jCd-" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T03:44:37.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="xwVxIT8i2bK_VIa1fsvm" version="14.6.6" type="github">
   <diagram id="Do2IUJFNIAkwGLn3xXTK" name="Page-1">
     <mxGraphModel dx="646" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -393,6 +393,15 @@
         </mxCell>
         <mxCell id="u905G5PJ41BJXGmMC32I-42" value="•&amp;nbsp; &amp;nbsp; &lt;b&gt;&lt;u&gt;Customer satisfaction&lt;/u&gt;&lt;/b&gt;: speed, accuracy, adaptability, integration&amp;nbsp; of&amp;nbsp; data, meet the&amp;nbsp; needs&amp;nbsp; of&amp;nbsp; customer&amp;nbsp; quickly, adequately, accurately &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; &lt;b&gt;&lt;u&gt;Globalization&lt;/u&gt;&lt;/b&gt;: overcome geographical distances, faster response&amp;nbsp; to&amp;nbsp; change,&amp;nbsp; adherence&amp;nbsp; to&amp;nbsp; globally&amp;nbsp; accepted&amp;nbsp; norms&amp;nbsp; of&amp;nbsp; quality&amp;nbsp; and&amp;nbsp; thus enables globalization. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Operational speed is improved, drastic reduction of time. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Restructuring of relationships in organization &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Business values are enhanced through IT supported BPR through increasing&amp;nbsp; &lt;br&gt;i.&amp;nbsp; &amp;nbsp; &amp;nbsp; Efficiency - by way of increased productivity &lt;br&gt;ii.&amp;nbsp; &amp;nbsp; &amp;nbsp;Effectiveness - by way of better management &lt;br&gt;iii.&amp;nbsp; &amp;nbsp; Innovation- by way of improved products and services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="4580" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-44" target="u905G5PJ41BJXGmMC32I-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-44" value="BENCHMARKING" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="4900" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-46" value="1.&amp;nbsp; &amp;nbsp; Benchmarking&amp;nbsp; is&amp;nbsp; the&amp;nbsp; process&amp;nbsp; of&amp;nbsp; identifying&amp;nbsp; and&amp;nbsp; learning&amp;nbsp; from&amp;nbsp; the&amp;nbsp; best&amp;nbsp; industry practices and the processes by which they are achieved.&lt;br&gt;&lt;br&gt;2.&amp;nbsp; &amp;nbsp; Benchmarking involves: &lt;br&gt;a.&amp;nbsp; &amp;nbsp; comparing&amp;nbsp; different&amp;nbsp; aspects&amp;nbsp; of&amp;nbsp; the&amp;nbsp; firm&#39;s&amp;nbsp; products,&amp;nbsp; services,&amp;nbsp; activities, processes and other aspects of performance with that of competitors or other leaders in the field and the best prevailing practices, &lt;br&gt;&lt;br&gt;b.&amp;nbsp; &amp;nbsp;Identifying gaps and deficiencies in the firm&#39;s own performance, &lt;br&gt;&lt;br&gt;c.&amp;nbsp; &amp;nbsp; Finding&amp;nbsp; out&amp;nbsp; novel&amp;nbsp; methods&amp;nbsp; to&amp;nbsp; reduce&amp;nbsp; the&amp;nbsp; gaps&amp;nbsp; and&amp;nbsp; also&amp;nbsp; to&amp;nbsp; improve&amp;nbsp; the situations and d.&amp;nbsp; &amp;nbsp;Ensuring that these improved methods are implemented" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4960" width="400" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
