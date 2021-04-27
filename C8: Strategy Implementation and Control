@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T02:23:43.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="g672pXY5iw2zpF7Of2Ho" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T02:40:14.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ZYamMuthH0KKcEWzlAvJ" version="14.6.6" type="github">
   <diagram id="Do2IUJFNIAkwGLn3xXTK" name="Page-1">
     <mxGraphModel dx="646" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -269,8 +269,26 @@
         <mxCell id="u905G5PJ41BJXGmMC32I-1" value="STRATEGIC AUDIT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2500" width="155" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-2" target="u905G5PJ41BJXGmMC32I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u905G5PJ41BJXGmMC32I-2" value="•&amp;nbsp; &amp;nbsp; How well is the current strategy working? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How well will the current strategy be working in future? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How can this be evaluated in present and future? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How urgent is there a need to change the strategy? &lt;br&gt;&lt;br&gt;a&amp;nbsp; periodic&amp;nbsp; review&amp;nbsp; and&amp;nbsp; evaluation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; fundamental&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; a strategy are necessary." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="2560" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-4" target="u905G5PJ41BJXGmMC32I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-4" value="The&amp;nbsp; audit&amp;nbsp; of&amp;nbsp; management&amp;nbsp; performance&amp;nbsp; with&amp;nbsp; regard&amp;nbsp; to&amp;nbsp; its&amp;nbsp; strategies&amp;nbsp; helps&amp;nbsp; an organization&amp;nbsp; identify&amp;nbsp; problem&amp;nbsp; areas&amp;nbsp; and&amp;nbsp; correct&amp;nbsp; the&amp;nbsp; strategic&amp;nbsp; approaches&amp;nbsp; that have not been effective so far.&lt;br&gt;&lt;br&gt;An assessment of the external environment shows where changes happen and where organization&#39;s strategic management no longer match the demands of the marketplace.&lt;br&gt;&lt;br&gt;Based&amp;nbsp; on&amp;nbsp; such&amp;nbsp; analysis,&amp;nbsp; the&amp;nbsp; organization&amp;nbsp; can&amp;nbsp; improve&amp;nbsp; business performance by periodically conducting such an audit.&lt;br&gt;&lt;br&gt;Companies&amp;nbsp; review&amp;nbsp; their&amp;nbsp; business&amp;nbsp; plans&amp;nbsp; and&amp;nbsp; strategies&amp;nbsp; on&amp;nbsp; regular&amp;nbsp; basis&amp;nbsp; to&amp;nbsp; identify weaknesses and shortcomings to enable a successful development plan." style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="2700" width="402.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-6" target="u905G5PJ41BJXGmMC32I-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-6" value="&lt;b&gt;&lt;u&gt;Need&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; When the performance indicators reflect that a strategy is not working properly or is not producing desired outcomes. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When the goals and objectives of the strategy are not being accomplished. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When a major change takes place in the external environment of the organization. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When the top management plans: &lt;br&gt;a) to fine-tune the existing strategies and introduce new strategies and &lt;br&gt;b)&amp;nbsp; &amp;nbsp;to ensure that a strategy that has worked in the past continues to be in-tune with subtle internal and external changes that may have occurred since the formulation of strategies." style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="2930" width="402.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-7" value="&lt;b&gt;&lt;u&gt;Process&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1.&amp;nbsp; &amp;nbsp; Examining the underlying bases of a firm&#39;s strategy, &lt;br&gt;2. Comparing expected results with actual results, and &lt;br&gt;3.&amp;nbsp; &amp;nbsp; Taking corrective actions to ensure that performance conforms to plans.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="3140" width="402.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
