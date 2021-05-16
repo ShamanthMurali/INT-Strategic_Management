@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T18:52:26.836Z" agent="5.0 (X11)" etag="VwhWwMwi0pDGECMtkEns" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T05:18:38.170Z" agent="5.0 (X11)" etag="lrySB1pVn-FUBcERL8aW" version="14.6.13" type="github">
   <diagram id="U_hhcb-Y4Ob0pYnyTFTT" name="Page-1">
-    <mxGraphModel dx="859" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,11 +72,247 @@
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-22" value="&lt;u&gt;Step 2&lt;/u&gt;:&lt;span style=&quot;font-weight: normal&quot;&gt; Evaluate how strong the pressures comprising each of the five forces are (fierce, strong, moderate to normal, or weak). &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="215" y="1120" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9fuDM1XkgYCxQBIZw3T-24" target="URiNhKrDzLi6sdf9Skbb-1">
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-24" target="URiNhKrDzLi6sdf9Skbb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-24" value="&lt;u&gt;Step 3&lt;/u&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;Determine whether the collective strength of the five competitive forces is conducive to earning attractive profits. &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="215" y="1180" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-9" target="k9fuDM1XkgYCxQBIZw3T-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-10" target="k9fuDM1XkgYCxQBIZw3T-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-1" target="URiNhKrDzLi6sdf9Skbb-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-1" value="Business Level Strategies" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1260" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-3" target="URiNhKrDzLi6sdf9Skbb-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-3" value="The company makes use of its core competencies to develop and expand its&lt;br&gt;strategies or competitive advantage. The purpose of business level&lt;br&gt;strategies is to be enhance competitive advantage through effective use of&lt;br&gt;these resources, skills and synergies. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="185" y="1320" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-5" target="URiNhKrDzLi6sdf9Skbb-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-5" value="Business level strategies are concerned with: &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Positioning the business against competitors&lt;br&gt;2. Anticipating changes in demand and other factors and adjusting to provide for them&lt;br&gt;3. Influencing the nature of competition through strategic action.&lt;br&gt;4. Meeting the needs of key customers.&lt;br&gt;5. Achieving advantage over competitors.&lt;br&gt;6. Avoiding competitive disadvantage. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1410" width="410" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-7" target="URiNhKrDzLi6sdf9Skbb-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-7" value="&lt;div&gt;Michel Porter’s&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Base Generic strategies&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1610" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="URiNhKrDzLi6sdf9Skbb-70" target="URiNhKrDzLi6sdf9Skbb-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-9" value="&lt;div&gt;&lt;b&gt;how to gain competitive advantage ?&lt;/b&gt;&lt;/div&gt;there are three bases they are" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1670" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-11" target="URiNhKrDzLi6sdf9Skbb-25" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-12" target="URiNhKrDzLi6sdf9Skbb-34" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-13" target="URiNhKrDzLi6sdf9Skbb-48" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-17" target="URiNhKrDzLi6sdf9Skbb-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-17" value="For broad markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="1740" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-18" value="For narrow markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="337.5" y="1740" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-25" target="URiNhKrDzLi6sdf9Skbb-27" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-25" value="Cost leadership strategies means offering a product / service of the same quality at&lt;br&gt;a lower per unit price than the rival firms in the same broad target market. When all&lt;br&gt;the firms in an industry offer the product/service at the same price, the cost leader&lt;br&gt;&lt;div&gt;earns higher profit margin than its rivals. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As long as the cost leader can cut costs without lowering the quality of the product&lt;br&gt;and keeping differentiation advantages that is has, he can translate cost&lt;br&gt;advantages directly into higher profits than competitors. &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-72.5" y="1900" width="460" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-27" target="URiNhKrDzLi6sdf9Skbb-29" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-27" target="URiNhKrDzLi6sdf9Skbb-30" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;How to get cost leadership?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Forecast the demand of a product or service promptly.&lt;br&gt;2. Optimum utilization of the resources to get cost advantages.&lt;br&gt;3. Achieving economies of scale leads to lower per unit cost of product/service.&lt;br&gt;4. Standardisation of products for mass production to yield lower cost per unit.&lt;br&gt;5. Invest in cost saving technologies and try using advance technology for smart&lt;br&gt;working.&lt;br&gt;6. Resistance to differentiation till it becomes essential. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-7.5" y="2050" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-29" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. &lt;b&gt;Rivalry&lt;/b&gt; – Competitors are likely to avoid a price war, since the low cost firm&lt;br&gt;will continue to earn profits after competitors compete away their profits and&lt;br&gt;&lt;div&gt;enjoy larger market share.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. &lt;b&gt;Buyers&lt;/b&gt; – Powerful buyers/customers would not be able to exploit the cost&lt;br&gt;&lt;div&gt;leader firm and will continue to buy its product.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. &lt;b&gt;Suppliers&lt;/b&gt; – Cost leaders are able to absorb greater price increases before it&lt;br&gt;&lt;div&gt;must raise price to customers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4. &lt;b&gt;Entry barriers for the new entrants &lt;/b&gt;– Low cost leaders create barriers to&lt;br&gt;&lt;div&gt;market entry through its continuous focus on efficiency and reducing costs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. &lt;b&gt;Substitutes&lt;/b&gt; – Low cost leaders are more likely to lower costs to induce&lt;br&gt;customers to stay with their product, invest to develop substitutes, purchase&lt;br&gt;&lt;div&gt;patents.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;6. cost advantage protects the firm from the adverse effect of the downward&lt;br&gt;trend in the industry. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-280" y="2320" width="430" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Cost advantage may not be remaining for long as competitors may also follow&lt;br&gt;cost reduction technique.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cost leadership can succeed only if the firm can achieve higher sales volume.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Cost leaders tend to keep their costs low by minimizing advertising, market&lt;br&gt;research, and research and development, but this approach can prove to be&lt;br&gt;expensive in the long run.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Technology changes are a great threat to the cost leader.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Cost leadership is not a market friendly strategy. Too much emphasis on cost&lt;br&gt;reduction may dilute customer focus and value addition.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. The company focuses on cutting of cost only on few activities and not all&lt;br&gt;activities of the operations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. All competitors share a common input.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Strategy is imitated too early.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Competition by internet. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="170" y="2320" width="430" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-34" target="URiNhKrDzLi6sdf9Skbb-41" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-34" value="Differentiation implies that a product or a service in a given industry is so&lt;br&gt;differentiated from other similar products or services that the differentiated product&lt;br&gt;or service is perceived by the customers to be superior and unique and they are&lt;br&gt;&lt;div&gt;willing to pay a higher price for such product or service.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Successful differentiation can mean greater product flexibility, greater&lt;br&gt;compatibility, lower costs, improved service, less maintenance, greater&lt;br&gt;convenience, or more features. Product development is an example of a strategy&lt;br&gt;that offers the advantages of differentiation. &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="165" y="1900" width="460" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-37" target="URiNhKrDzLi6sdf9Skbb-38" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-37" target="URiNhKrDzLi6sdf9Skbb-39" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;How to get cost leadership?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Offer utility for the customers and match the products with their tastes and preferences.&lt;br&gt;2. Elevate the performance of the product.&lt;br&gt;3. Offer the promise of high quality product/service for buyer satisfaction.&lt;br&gt;4. Rapid product innovation.&lt;br&gt;5. Taking steps for enhancing image and its brand value.&lt;br&gt;6. Fixing product prices based on the unique features of the product and buying capacity of the customer. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="230" y="2310" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-38" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. &lt;b&gt;Rivalry&lt;/b&gt; - Brand loyalty acts as a safeguard against competitors. It means that&lt;br&gt;customers will be less sensitive to price increases, as long as the firm can&lt;br&gt;&lt;div&gt;satisfy the needs of its customers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. &lt;b&gt;Buyers&lt;/b&gt; – They do not negotiate for price as they get special features and&lt;br&gt;&lt;div&gt;also they have fewer options in the market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. &lt;b&gt;Suppliers&lt;/b&gt; – Because differentiators charge a premium price, they can afford&lt;br&gt;&lt;div&gt;to absorb higher costs of supplies and customers are willing to pay extra too.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4. &lt;b&gt;Entrants&lt;/b&gt; – Innovative features are an expensive offer. So, new entrants&lt;br&gt;generally avoid these features because it is tough for them to provide the&lt;br&gt;&lt;div&gt;same product with special features at a comparable price.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. &lt;b&gt;Substitutes&lt;/b&gt; – Substitute products can’t replace differentiated products which&lt;br&gt;have high brand value and enjoy customer loyalty. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-45" y="2520" width="430" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-39" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. In long term, uniqueness is difficult to sustain.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Charging too high a price for differentiated features may cause the customer&lt;br&gt;&lt;div&gt;to switch-off to another alternative.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. Differentiation fails to work if its basis is something that is not valued by the&lt;br&gt;customers. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="405" y="2520" width="430" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-41" target="URiNhKrDzLi6sdf9Skbb-37" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-41" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Basis of Differentiation&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;Product&lt;/b&gt;&lt;/u&gt;: Innovative products that meet customer needs can be an area where a&lt;br&gt;&lt;div&gt;company has an advantage over competitors. For example – ROLEX&lt;/div&gt;watches cost above $ 20,000 but tell time as accurately. Customer are willing to pay premium prices for a Rolex watch because of its intrinsic value and the status it confers on the owners.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;Pricing&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Companies that differentiate based on&lt;br&gt;product price can either determine to offer the lowest price, or can attempt to&lt;br&gt;establish superiority through higher prices. FedEx can charge premium prices due&lt;br&gt;&lt;div&gt;to its excellent services.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;Organisation&lt;/b&gt;&lt;/u&gt;: Location advantage, name recognition and customer loyalty can all provide additional ways for a company differentiate itself from the competition." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="175" y="2060" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-44" target="URiNhKrDzLi6sdf9Skbb-52" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Focused cost leadership" treeRoot="1" id="URiNhKrDzLi6sdf9Skbb-44">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
+            <mxGeometry x="335" y="2020" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-45" target="URiNhKrDzLi6sdf9Skbb-54" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Focused Differentiation " treeRoot="1" id="URiNhKrDzLi6sdf9Skbb-45">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
+            <mxGeometry x="796.1" y="2020" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-48" target="URiNhKrDzLi6sdf9Skbb-44" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-48" target="URiNhKrDzLi6sdf9Skbb-45" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-48" value="Focus strategy is based upon selecting a segment or a group of segments of the&lt;br&gt;market and then focusing on serving their needs and wants. The essence of focus&lt;br&gt;strategy is the exploitation of particular market to the maximum. Focus strategies&lt;br&gt;are most effective when consumers have distinctive preferences or requirements&lt;br&gt;and when rival firms are not attempting to specialize in the same target segment. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="408.9" y="1900" width="452.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-52" target="URiNhKrDzLi6sdf9Skbb-56" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-52" value="Focused cost leadership: A focused cost leadership strategy emphasizes on low&lt;br&gt;overall costs while serving the narrow market. A focused cost leader creates his&lt;br&gt;own niche in the given market and focuses on value creation for his customers.&lt;br&gt;This results in higher profit margins." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="168.89999999999998" y="2080" width="452.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-54" target="URiNhKrDzLi6sdf9Skbb-56" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="856" y="2200" />
+              <mxPoint x="635" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-54" value="A company that pursues a business model based upon&lt;br&gt;focused differentiation not only selects its market segment to serve but also uses&lt;br&gt;differentiation. Due to such a business model, the company successfully position&lt;br&gt;itself to compete in such market segment. For example, Porsche, a French focus&lt;br&gt;company competes with GM in the sports car market but has also differentiates its&lt;br&gt;car on the basis of luxury, speed and image." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="630" y="2080" width="452.2" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-56" target="URiNhKrDzLi6sdf9Skbb-57" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-56" target="URiNhKrDzLi6sdf9Skbb-58" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-56" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Achieving Focused Strategy&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. Selecting specific niches which are not covered by cost leaders and&lt;br&gt;differentiators.&lt;br&gt;2. Creating superior skills for catering to such niche markets.&lt;br&gt;3. Generating high efficiencies for serving such niche markets.&lt;br&gt;4. Developing innovative ways in managing the value chain." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="440" y="2240" width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-57" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages of Focused Strategy&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Premium prices can be charged by the organisations for their focused&lt;br&gt;&lt;div&gt;product / services.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Due to the tremendous expertise about the goods and services that&lt;br&gt;organisations following focus strategy offer, rivals and new entrants may find&lt;br&gt;it difficult to compete. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="390" y="2420" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-58" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages of Focused Strategy&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The firms lacking in distinctive competencies may not be able to pursue focus strategy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Due to the limited demand of product/services, costs are high which can&lt;br&gt;&lt;div&gt;cause problems.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. In long run, the niche could disappear or be taken over by larger competitors&lt;br&gt;by acquiring the same distinctive competencies. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="650" y="2420" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="URiNhKrDzLi6sdf9Skbb-64" target="URiNhKrDzLi6sdf9Skbb-72" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-70" value="Hybrid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="582.5" y="1740" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1695.0344827586205" as="sourcePoint" />
+            <mxPoint x="639.9655172413793" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-72" value="The new model of best cost provider strategy is a further development of above&lt;br&gt;three generic strategies. It is directed towards giving customers more value for the&lt;br&gt;money by emphasizing both low cost and upscale differences. The objective is to&lt;br&gt;&lt;div&gt;keep costs and prices lower than those of other sellers of comparable products.Best-cost provider strategy involves providing customers more value for the money by emphasizing low cost and better quality difference.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; It can be done:&lt;/div&gt;(a) through offering products at lower price than what is being offered by rivals&lt;br&gt;for products with comparable quality and features or&lt;br&gt;(b) charging similar price as by the rivals for products with much higher quality&lt;br&gt;and better features. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="420" y="1860" width="440" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-64" value="&lt;div&gt;Best-Cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;Provider Strategy&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="580" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-13" value="Focus Strategies " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="420" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-12" value="Differentiation Strategy" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="260" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URiNhKrDzLi6sdf9Skbb-11" value="Cost Leadership Strategies" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="100" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-36" value="&lt;div&gt;5. intensity of rivalry among &lt;br&gt;&lt;/div&gt;&lt;div&gt;existing competitors&lt;/div&gt;" style="swimlane;startSize=40;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="260" y="950" width="270" height="30" as="geometry">
+            <mxRectangle x="280" y="1260" width="540" height="530" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
+          <mxGeometry y="40" width="540" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-38" value="&lt;div&gt;&lt;b&gt;The more intensive the rivalry, the less attractive is the industry.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rivalry among competitors tends to be cutthroat and industry profitability low when: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
+          <mxGeometry x="65" y="50" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-39" value="(i) &lt;u&gt;&lt;b&gt;Industry Leader&lt;/b&gt;&lt;/u&gt;: A strong industry leader can discourage price wars by&lt;br&gt;disciplining initiators of such activity. Because of its greater financial&lt;br&gt;&lt;div&gt;resources, a leader can generally outlast smaller rivals in a price war.&lt;/div&gt;&lt;div&gt;Knowing this, smaller rivals often avoid initiating such a contest.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(ii) &lt;u&gt;&lt;b&gt;Number of Competitors&lt;/b&gt;&lt;/u&gt;: pricing discipline diminishes with the increased number of&lt;br&gt;rivals in the industry as communicating expectations to players becomes&lt;br&gt;more difficult. competitors increase, competition increases.&lt;div&gt;&lt;br&gt;&lt;/div&gt;(iii) &lt;u&gt;&lt;b&gt;Fixed Costs&lt;/b&gt;&lt;/u&gt;: when fixed costs are higher they have reduce price and increase supply for recover the amount. For this reason, profitability tends to&lt;br&gt;be lower in industries (for example, airline, telecommunications)&lt;br&gt;&lt;div&gt;characterized by high fixed costs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(iv) &lt;u&gt;&lt;b&gt;Exit Barriers&lt;/b&gt;&lt;/u&gt;: a firm who can find no buyer for its assets. This discourages exit. Their continued presence in an industry exerts downward pressure on the &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability of all competitors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Product Differentiation&lt;/b&gt;&lt;/u&gt;: insulate from price wars by differentiating products. &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability tends to be higher in industries that has differentiation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Profitability tends to be lower in industries that has undifferentiated commodities &lt;br&gt;&lt;/div&gt;&lt;div&gt;such as, memory chips, natural resources, processed metals and railroads. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;Slow Growth&lt;/b&gt;&lt;/u&gt;: Industries whose growth is slowing down tend to face more&lt;br&gt;intense rivalry. As industry growth slows, rivals must often fight harder to&lt;br&gt;grow or even to keep their existing market share. The resulting intensive&lt;br&gt;rivalry tends to reduce profitability for all. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=30;arcSize=5;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
+          <mxGeometry x="10" y="110" width="520" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-10" value="4. threat of substitutes" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="260" y="900" width="270" height="30" as="geometry">
+            <mxRectangle x="258.75" y="900" width="400" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-43" value="1. The greater the number of&lt;br&gt;&lt;div&gt;substitutes that customers perceive and use as alternates, the harder it is for a company to hold on to customer loyalty and preference&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. inability to raise prices and obtain higher profit margins.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. For instance, if customers perceive&lt;br&gt;many substitutes to coffee (tea, fruit juices, other soft drinks), it becomes difficult for coffee producers to keep prices high; they will by necessity have to lower them in order to be cost competitive. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-10" vertex="1">
+          <mxGeometry y="30" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="260" y="850" width="270" height="30" as="geometry">
+            <mxRectangle x="255" y="850" width="420" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-35" value="Bargaining power of suppliers refers to the power that suppliers can exert&lt;br&gt;which is typically exhibited by threatening to raise prices, reduce volumes,&lt;br&gt;affect quality or curtail service, under various conditions. " style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-9" vertex="1">
+          <mxGeometry y="30" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-8" value="2. bargaining power of buyers" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="260" y="800" width="270" height="30" as="geometry">
+            <mxRectangle x="255" y="800" width="330" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9fuDM1XkgYCxQBIZw3T-34" value="If the buyer is able to bargain then the firm can earn less profits, if the buyers are not able to bargain then the propensity to earn profits is higher" style="rounded=0;whiteSpace=wrap;html=1;" parent="k9fuDM1XkgYCxQBIZw3T-8" vertex="1">
+          <mxGeometry y="30" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-7" value="1. risk of new entrants into the industry " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="260" y="750" width="270" height="30" as="geometry">
@@ -109,242 +345,6 @@
         </mxCell>
         <mxCell id="k9fuDM1XkgYCxQBIZw3T-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;7 Possibility of Aggressive Retaliation (fight back)&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;threat of aggressive retaliation by existing firms can newly entering by other firms into an existing industry." style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="k9fuDM1XkgYCxQBIZw3T-7" vertex="1">
           <mxGeometry x="550" y="360" width="200" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-8" value="2. bargaining power of buyers" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="260" y="800" width="270" height="30" as="geometry">
-            <mxRectangle x="255" y="800" width="330" height="80" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-34" value="If the buyer is able to bargain then the firm can earn less profits, if the buyers are not able to bargain then the propensity to earn profits is higher" style="rounded=0;whiteSpace=wrap;html=1;" parent="k9fuDM1XkgYCxQBIZw3T-8" vertex="1">
-          <mxGeometry y="30" width="330" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-9" target="k9fuDM1XkgYCxQBIZw3T-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-9" value="3. bargaining power of suppliers " style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="260" y="850" width="270" height="30" as="geometry">
-            <mxRectangle x="255" y="850" width="420" height="80" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-35" value="Bargaining power of suppliers refers to the power that suppliers can exert&lt;br&gt;which is typically exhibited by threatening to raise prices, reduce volumes,&lt;br&gt;affect quality or curtail service, under various conditions. " style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-9" vertex="1">
-          <mxGeometry y="30" width="420" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-36" value="&lt;div&gt;5. intensity of rivalry among &lt;br&gt;&lt;/div&gt;&lt;div&gt;existing competitors&lt;/div&gt;" style="swimlane;startSize=40;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="260" y="950" width="270" height="30" as="geometry">
-            <mxRectangle x="280" y="1260" width="540" height="530" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
-          <mxGeometry y="40" width="540" height="490" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-38" value="&lt;div&gt;&lt;b&gt;The more intensive the rivalry, the less attractive is the industry.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rivalry among competitors tends to be cutthroat and industry profitability low when: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
-          <mxGeometry x="65" y="50" width="410" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-39" value="(i) &lt;u&gt;&lt;b&gt;Industry Leader&lt;/b&gt;&lt;/u&gt;: A strong industry leader can discourage price wars by&lt;br&gt;disciplining initiators of such activity. Because of its greater financial&lt;br&gt;&lt;div&gt;resources, a leader can generally outlast smaller rivals in a price war.&lt;/div&gt;&lt;div&gt;Knowing this, smaller rivals often avoid initiating such a contest.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(ii) &lt;u&gt;&lt;b&gt;Number of Competitors&lt;/b&gt;&lt;/u&gt;: pricing discipline diminishes with the increased number of&lt;br&gt;rivals in the industry as communicating expectations to players becomes&lt;br&gt;more difficult. competitors increase, competition increases.&lt;div&gt;&lt;br&gt;&lt;/div&gt;(iii) &lt;u&gt;&lt;b&gt;Fixed Costs&lt;/b&gt;&lt;/u&gt;: when fixed costs are higher they have reduce price and increase supply for recover the amount. For this reason, profitability tends to&lt;br&gt;be lower in industries (for example, airline, telecommunications)&lt;br&gt;&lt;div&gt;characterized by high fixed costs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(iv) &lt;u&gt;&lt;b&gt;Exit Barriers&lt;/b&gt;&lt;/u&gt;: a firm who can find no buyer for its assets. This discourages exit. Their continued presence in an industry exerts downward pressure on the &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability of all competitors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Product Differentiation&lt;/b&gt;&lt;/u&gt;: insulate from price wars by differentiating products. &lt;br&gt;&lt;/div&gt;&lt;div&gt;profitability tends to be higher in industries that has differentiation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Profitability tends to be lower in industries that has undifferentiated commodities &lt;br&gt;&lt;/div&gt;&lt;div&gt;such as, memory chips, natural resources, processed metals and railroads. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi) &lt;u&gt;&lt;b&gt;Slow Growth&lt;/b&gt;&lt;/u&gt;: Industries whose growth is slowing down tend to face more&lt;br&gt;intense rivalry. As industry growth slows, rivals must often fight harder to&lt;br&gt;grow or even to keep their existing market share. The resulting intensive&lt;br&gt;rivalry tends to reduce profitability for all. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=30;arcSize=5;" parent="k9fuDM1XkgYCxQBIZw3T-36" vertex="1">
-          <mxGeometry x="10" y="110" width="520" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=30;" parent="1" source="k9fuDM1XkgYCxQBIZw3T-10" target="k9fuDM1XkgYCxQBIZw3T-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-10" value="4. threat of substitutes" style="swimlane;startSize=30;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="260" y="900" width="270" height="30" as="geometry">
-            <mxRectangle x="258.75" y="900" width="400" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k9fuDM1XkgYCxQBIZw3T-43" value="1. The greater the number of&lt;br&gt;&lt;div&gt;substitutes that customers perceive and use as alternates, the harder it is for a company to hold on to customer loyalty and preference&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. inability to raise prices and obtain higher profit margins.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. For instance, if customers perceive&lt;br&gt;many substitutes to coffee (tea, fruit juices, other soft drinks), it becomes difficult for coffee producers to keep prices high; they will by necessity have to lower them in order to be cost competitive. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=30;" parent="k9fuDM1XkgYCxQBIZw3T-10" vertex="1">
-          <mxGeometry y="30" width="400" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-1" target="URiNhKrDzLi6sdf9Skbb-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-1" value="Business Level Strategies" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1260" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-3" target="URiNhKrDzLi6sdf9Skbb-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-3" value="The company makes use of its core competencies to develop and expand its&lt;br&gt;strategies or competitive advantage. The purpose of business level&lt;br&gt;strategies is to be enhance competitive advantage through effective use of&lt;br&gt;these resources, skills and synergies. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1320" width="420" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-5" target="URiNhKrDzLi6sdf9Skbb-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-5" value="Business level strategies are concerned with: &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Positioning the business against competitors&lt;br&gt;2. Anticipating changes in demand and other factors and adjusting to provide for them&lt;br&gt;3. Influencing the nature of competition through strategic action.&lt;br&gt;4. Meeting the needs of key customers.&lt;br&gt;5. Achieving advantage over competitors.&lt;br&gt;6. Avoiding competitive disadvantage. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1410" width="410" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-7" target="URiNhKrDzLi6sdf9Skbb-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-7" value="&lt;div&gt;Michel Porter’s&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Base Generic strategies&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1610" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-70" target="URiNhKrDzLi6sdf9Skbb-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-9" value="&lt;div&gt;&lt;b&gt;how to gain competitive advantage ?&lt;/b&gt;&lt;/div&gt;there are three bases they are" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1670" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-11" target="URiNhKrDzLi6sdf9Skbb-25" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-11" value="Cost Leadership Strategies" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="100" y="1800" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-12" target="URiNhKrDzLi6sdf9Skbb-34" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-12" value="Differentiation Strategy" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="260" y="1800" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-13" target="URiNhKrDzLi6sdf9Skbb-48" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-13" value="Focus Strategies " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="420" y="1800" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-17" target="URiNhKrDzLi6sdf9Skbb-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-17" value="For broad markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="1740" width="115" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-18" target="URiNhKrDzLi6sdf9Skbb-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-18" value="For narrow markets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="1740" width="115" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-25" target="URiNhKrDzLi6sdf9Skbb-27" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-25" value="Cost leadership strategies means offering a product / service of the same quality at&lt;br&gt;a lower per unit price than the rival firms in the same broad target market. When all&lt;br&gt;the firms in an industry offer the product/service at the same price, the cost leader&lt;br&gt;&lt;div&gt;earns higher profit margin than its rivals. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As long as the cost leader can cut costs without lowering the quality of the product&lt;br&gt;and keeping differentiation advantages that is has, he can translate cost&lt;br&gt;advantages directly into higher profits than competitors. &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="-72.5" y="1900" width="460" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-27" target="URiNhKrDzLi6sdf9Skbb-29" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-27" target="URiNhKrDzLi6sdf9Skbb-30" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-27" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;How to get cost leadership?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Forecast the demand of a product or service promptly.&lt;br&gt;2. Optimum utilization of the resources to get cost advantages.&lt;br&gt;3. Achieving economies of scale leads to lower per unit cost of product/service.&lt;br&gt;4. Standardisation of products for mass production to yield lower cost per unit.&lt;br&gt;5. Invest in cost saving technologies and try using advance technology for smart&lt;br&gt;working.&lt;br&gt;6. Resistance to differentiation till it becomes essential. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="-7.5" y="2050" width="330" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-29" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. &lt;b&gt;Rivalry&lt;/b&gt; – Competitors are likely to avoid a price war, since the low cost firm&lt;br&gt;will continue to earn profits after competitors compete away their profits and&lt;br&gt;&lt;div&gt;enjoy larger market share.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. &lt;b&gt;Buyers&lt;/b&gt; – Powerful buyers/customers would not be able to exploit the cost&lt;br&gt;&lt;div&gt;leader firm and will continue to buy its product.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. &lt;b&gt;Suppliers&lt;/b&gt; – Cost leaders are able to absorb greater price increases before it&lt;br&gt;&lt;div&gt;must raise price to customers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4. &lt;b&gt;Entry barriers for the new entrants &lt;/b&gt;– Low cost leaders create barriers to&lt;br&gt;&lt;div&gt;market entry through its continuous focus on efficiency and reducing costs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. &lt;b&gt;Substitutes&lt;/b&gt; – Low cost leaders are more likely to lower costs to induce&lt;br&gt;customers to stay with their product, invest to develop substitutes, purchase&lt;br&gt;&lt;div&gt;patents.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;6. cost advantage protects the firm from the adverse effect of the downward&lt;br&gt;trend in the industry. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="-280" y="2320" width="430" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-30" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Cost advantage may not be remaining for long as competitors may also follow&lt;br&gt;cost reduction technique.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cost leadership can succeed only if the firm can achieve higher sales volume.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Cost leaders tend to keep their costs low by minimizing advertising, market&lt;br&gt;research, and research and development, but this approach can prove to be&lt;br&gt;expensive in the long run.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Technology changes are a great threat to the cost leader.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Cost leadership is not a market friendly strategy. Too much emphasis on cost&lt;br&gt;reduction may dilute customer focus and value addition.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. The company focuses on cutting of cost only on few activities and not all&lt;br&gt;activities of the operations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. All competitors share a common input.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Strategy is imitated too early.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Competition by internet. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="170" y="2320" width="430" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-34" target="URiNhKrDzLi6sdf9Skbb-41" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-34" value="Differentiation implies that a product or a service in a given industry is so&lt;br&gt;differentiated from other similar products or services that the differentiated product&lt;br&gt;or service is perceived by the customers to be superior and unique and they are&lt;br&gt;&lt;div&gt;willing to pay a higher price for such product or service.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Successful differentiation can mean greater product flexibility, greater&lt;br&gt;compatibility, lower costs, improved service, less maintenance, greater&lt;br&gt;convenience, or more features. Product development is an example of a strategy&lt;br&gt;that offers the advantages of differentiation. &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="165" y="1900" width="460" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" source="URiNhKrDzLi6sdf9Skbb-37" target="URiNhKrDzLi6sdf9Skbb-38" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" source="URiNhKrDzLi6sdf9Skbb-37" target="URiNhKrDzLi6sdf9Skbb-39" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;How to get cost leadership?&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Offer utility for the customers and match the products with their tastes and preferences.&lt;br&gt;2. Elevate the performance of the product.&lt;br&gt;3. Offer the promise of high quality product/service for buyer satisfaction.&lt;br&gt;4. Rapid product innovation.&lt;br&gt;5. Taking steps for enhancing image and its brand value.&lt;br&gt;6. Fixing product prices based on the unique features of the product and buying capacity of the customer. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="230" y="2310" width="330" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-38" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. &lt;b&gt;Rivalry&lt;/b&gt; - Brand loyalty acts as a safeguard against competitors. It means that&lt;br&gt;customers will be less sensitive to price increases, as long as the firm can&lt;br&gt;&lt;div&gt;satisfy the needs of its customers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. &lt;b&gt;Buyers&lt;/b&gt; – They do not negotiate for price as they get special features and&lt;br&gt;&lt;div&gt;also they have fewer options in the market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. &lt;b&gt;Suppliers&lt;/b&gt; – Because differentiators charge a premium price, they can afford&lt;br&gt;&lt;div&gt;to absorb higher costs of supplies and customers are willing to pay extra too.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;4. &lt;b&gt;Entrants&lt;/b&gt; – Innovative features are an expensive offer. So, new entrants&lt;br&gt;generally avoid these features because it is tough for them to provide the&lt;br&gt;&lt;div&gt;same product with special features at a comparable price.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. &lt;b&gt;Substitutes&lt;/b&gt; – Substitute products can’t replace differentiated products which&lt;br&gt;have high brand value and enjoy customer loyalty. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="-45" y="2520" width="430" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-39" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. In long term, uniqueness is difficult to sustain.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Charging too high a price for differentiated features may cause the customer&lt;br&gt;&lt;div&gt;to switch-off to another alternative.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. Differentiation fails to work if its basis is something that is not valued by the&lt;br&gt;customers. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="405" y="2520" width="430" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-41" target="URiNhKrDzLi6sdf9Skbb-37" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-41" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Basis of Differentiation&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;Product&lt;/b&gt;&lt;/u&gt;: Innovative products that meet customer needs can be an area where a&lt;br&gt;&lt;div&gt;company has an advantage over competitors. For example – ROLEX&lt;/div&gt;watches cost above $ 20,000 but tell time as accurately. Customer are willing to pay premium prices for a Rolex watch because of its intrinsic value and the status it confers on the owners.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;Pricing&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Companies that differentiate based on&lt;br&gt;product price can either determine to offer the lowest price, or can attempt to&lt;br&gt;establish superiority through higher prices. FedEx can charge premium prices due&lt;br&gt;&lt;div&gt;to its excellent services.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;Organisation&lt;/b&gt;&lt;/u&gt;: Location advantage, name recognition and customer loyalty can all provide additional ways for a company differentiate itself from the competition." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="175" y="2060" width="440" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-44" target="URiNhKrDzLi6sdf9Skbb-52" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Focused cost leadership" treeRoot="1" id="URiNhKrDzLi6sdf9Skbb-44">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" parent="1">
-            <mxGeometry x="335" y="2020" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-45" target="URiNhKrDzLi6sdf9Skbb-54" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Focused Differentiation " treeRoot="1" id="URiNhKrDzLi6sdf9Skbb-45">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" visible="0" parent="1">
-            <mxGeometry x="796.1" y="2020" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-48" target="URiNhKrDzLi6sdf9Skbb-44" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-48" target="URiNhKrDzLi6sdf9Skbb-45" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-48" value="Focus strategy is based upon selecting a segment or a group of segments of the&lt;br&gt;market and then focusing on serving their needs and wants. The essence of focus&lt;br&gt;strategy is the exploitation of particular market to the maximum. Focus strategies&lt;br&gt;are most effective when consumers have distinctive preferences or requirements&lt;br&gt;and when rival firms are not attempting to specialize in the same target segment. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="408.9" y="1900" width="452.2" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-52" target="URiNhKrDzLi6sdf9Skbb-56" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-52" value="Focused cost leadership: A focused cost leadership strategy emphasizes on low&lt;br&gt;overall costs while serving the narrow market. A focused cost leader creates his&lt;br&gt;own niche in the given market and focuses on value creation for his customers.&lt;br&gt;This results in higher profit margins." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="168.89999999999998" y="2080" width="452.2" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-54" target="URiNhKrDzLi6sdf9Skbb-56" visible="0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="856" y="2200" />
-              <mxPoint x="635" y="2200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-54" value="A company that pursues a business model based upon&lt;br&gt;focused differentiation not only selects its market segment to serve but also uses&lt;br&gt;differentiation. Due to such a business model, the company successfully position&lt;br&gt;itself to compete in such market segment. For example, Porsche, a French focus&lt;br&gt;company competes with GM in the sports car market but has also differentiates its&lt;br&gt;car on the basis of luxury, speed and image." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="630" y="2080" width="452.2" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-56" target="URiNhKrDzLi6sdf9Skbb-57" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-56" target="URiNhKrDzLi6sdf9Skbb-58" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-56" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Achieving Focused Strategy&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;1. Selecting specific niches which are not covered by cost leaders and&lt;br&gt;differentiators.&lt;br&gt;2. Creating superior skills for catering to such niche markets.&lt;br&gt;3. Generating high efficiencies for serving such niche markets.&lt;br&gt;4. Developing innovative ways in managing the value chain." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="440" y="2240" width="390" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-57" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages of Focused Strategy&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Premium prices can be charged by the organisations for their focused&lt;br&gt;&lt;div&gt;product / services.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Due to the tremendous expertise about the goods and services that&lt;br&gt;organisations following focus strategy offer, rivals and new entrants may find&lt;br&gt;it difficult to compete. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="390" y="2420" width="240" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-58" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages of Focused Strategy&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. The firms lacking in distinctive competencies may not be able to pursue focus strategy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. Due to the limited demand of product/services, costs are high which can&lt;br&gt;&lt;div&gt;cause problems.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. In long run, the niche could disappear or be taken over by larger competitors&lt;br&gt;by acquiring the same distinctive competencies. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="650" y="2420" width="240" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-64" target="URiNhKrDzLi6sdf9Skbb-72" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-64" value="&lt;div&gt;Best-Cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;Provider Strategy&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="580" y="1800" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-70" value="Hybrid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="1740" width="115" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="URiNhKrDzLi6sdf9Skbb-9" target="URiNhKrDzLi6sdf9Skbb-70">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="1695.0344827586205" as="sourcePoint" />
-            <mxPoint x="639.9655172413793" y="1800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="URiNhKrDzLi6sdf9Skbb-72" value="The new model of best cost provider strategy is a further development of above&lt;br&gt;three generic strategies. It is directed towards giving customers more value for the&lt;br&gt;money by emphasizing both low cost and upscale differences. The objective is to&lt;br&gt;&lt;div&gt;keep costs and prices lower than those of other sellers of comparable products.Best-cost provider strategy involves providing customers more value for the money by emphasizing low cost and better quality difference.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; It can be done:&lt;/div&gt;(a) through offering products at lower price than what is being offered by rivals&lt;br&gt;for products with comparable quality and features or&lt;br&gt;(b) charging similar price as by the rivals for products with much higher quality&lt;br&gt;and better features. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="420" y="1860" width="440" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
