@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T03:44:46.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="SRybgeQXvJrRzb_02Ifv" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T05:20:31.238Z" agent="5.0 (X11)" etag="gOU4xhatNwOO2IOdsBhP" version="14.6.13" type="github">
   <diagram id="N3dyDGIBtXr8hTmWvwKY" name="Page-1">
-    <mxGraphModel dx="2110" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2433" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,23 +58,11 @@
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-1" target="ObN9QLPdV3uD9SNAZ5Un-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-1" value="Simple Structure" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-127.5" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-2" target="ObN9QLPdV3uD9SNAZ5Un-30" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-2" value="FUNCTIONAL STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="12.5" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-3" target="ObN9QLPdV3uD9SNAZ5Un-40" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-3" value="&amp;nbsp; &amp;nbsp;DIVISIONAL MULTI DIVISIONAL / M-FORM STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="152.5" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-4" value="Multi Divisional Structure&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="292.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-54" target="ObN9QLPdV3uD9SNAZ5Un-47" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -82,26 +70,14 @@
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-5" target="ObN9QLPdV3uD9SNAZ5Un-54" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-5" value="STRATEGIC BUSINESS UNIT (SBU) STRUCTURES&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="432.5" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-6" target="ObN9QLPdV3uD9SNAZ5Un-59" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-6" value="MATRIX STRUCTURE - HYBRID STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="567.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-7" target="ObN9QLPdV3uD9SNAZ5Un-69" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-7" value="NETWORK STRUCTURE&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="707.5" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-8" target="ObN9QLPdV3uD9SNAZ5Un-77" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-8" value="HOUR GLASS STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="847.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ObN9QLPdV3uD9SNAZ5Un-17" target="ObN9QLPdV3uD9SNAZ5Un-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -249,122 +225,146 @@
         <mxCell id="ObN9QLPdV3uD9SNAZ5Un-82" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Disadvantages&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Low promotional opportunities for lower level employees due to reduced size of&amp;nbsp;&lt;/div&gt;&lt;div&gt;middle management.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Continuity at same level (lower level) may bring monotony and lack of interest and&amp;nbsp;&lt;span&gt;becomes difficult to keep the motivation levels high.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="920" y="1020" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-1" target="3ickKCg5ccA4yBcYowNC-2">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-1" target="3ickKCg5ccA4yBcYowNC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-1" value="Strategic Leadership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-1" value="Strategic Leadership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1201" y="1" width="160" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-2" target="3ickKCg5ccA4yBcYowNC-4">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-2" target="3ickKCg5ccA4yBcYowNC-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-2" value="&lt;div&gt;Leadership is the capacity to frame plans and to persuade others to carry them out&amp;nbsp;&lt;/div&gt;&lt;div&gt;in the face of all difficulties. Leadership = capability + effectiveness Leadership =&amp;nbsp;&lt;/div&gt;&lt;div&gt;Knowing what to do + getting the things done&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-2" value="&lt;div&gt;Leadership is the capacity to frame plans and to persuade others to carry them out&amp;nbsp;&lt;/div&gt;&lt;div&gt;in the face of all difficulties. Leadership = capability + effectiveness Leadership =&amp;nbsp;&lt;/div&gt;&lt;div&gt;Knowing what to do + getting the things done&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1041" y="60" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-4" target="3ickKCg5ccA4yBcYowNC-6">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-4" target="3ickKCg5ccA4yBcYowNC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-4" value="&lt;div&gt;• Determining the firm&#39;s strategic direction&amp;nbsp;&lt;/div&gt;&lt;div&gt;• Aligning firm&#39;s strategy with its culture&amp;nbsp;&lt;/div&gt;&lt;div&gt;• Modeling and communicating high ethical standards&amp;nbsp;&lt;/div&gt;&lt;div&gt;• Initiating changes in the firm&#39;s strategy, when necessary&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-4" value="&lt;div&gt;• Determining the firm&#39;s strategic direction&amp;nbsp;&lt;/div&gt;&lt;div&gt;• Aligning firm&#39;s strategy with its culture&amp;nbsp;&lt;/div&gt;&lt;div&gt;• Modeling and communicating high ethical standards&amp;nbsp;&lt;/div&gt;&lt;div&gt;• Initiating changes in the firm&#39;s strategy, when necessary&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1161" y="140" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-6" target="3ickKCg5ccA4yBcYowNC-9">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-6" target="3ickKCg5ccA4yBcYowNC-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-6" target="3ickKCg5ccA4yBcYowNC-10">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-6" target="3ickKCg5ccA4yBcYowNC-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-6" value="&lt;b&gt;LEADERSHIP STYLES&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-6" value="&lt;b&gt;LEADERSHIP STYLES&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1211.5" y="260" width="139" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-9" target="3ickKCg5ccA4yBcYowNC-13">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-9" target="3ickKCg5ccA4yBcYowNC-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-9" value="Transactional Leadership style&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-9" value="Transactional Leadership style&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1053.5" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-10" target="3ickKCg5ccA4yBcYowNC-15">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-10" target="3ickKCg5ccA4yBcYowNC-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-10" value="Transformational Leadership style" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-10" value="Transformational Leadership style" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1388.5" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-13" value="&lt;div&gt;- Focuses more on designing systems and controlling the organization&#39;s activities&amp;nbsp;&amp;nbsp;&lt;span&gt;and is more likely to be associated with improving the current situation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Uses the authority of it&#39;s office to exchange rewards such as pay and status&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- Focuses more on designing systems and controlling the organization&#39;s activities&amp;nbsp;&amp;nbsp;&lt;span&gt;and is more likely to be associated with improving the current situation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Uses the authority of it&#39;s office to exchange rewards such as pay and status&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-13" value="&lt;div&gt;- Focuses more on designing systems and controlling the organization&#39;s activities&amp;nbsp;&amp;nbsp;&lt;span&gt;and is more likely to be associated with improving the current situation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Uses the authority of it&#39;s office to exchange rewards such as pay and status&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- Focuses more on designing systems and controlling the organization&#39;s activities&amp;nbsp;&amp;nbsp;&lt;span&gt;and is more likely to be associated with improving the current situation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Uses the authority of it&#39;s office to exchange rewards such as pay and status&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="953.5" y="360" width="320" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-15" value="&lt;div&gt;- This style of leadership uses charisma and enthusiasm to inspire people to exert&amp;nbsp;&amp;nbsp;&lt;span&gt;them for the good of the organization.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- This style is suitable in turbulent environments, in the initial stages of organization&amp;nbsp;&amp;nbsp;&lt;span&gt;or at the declining stages, in turn around strategies where there is a need to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;inspire organization to adopt to major changes.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Transformational leaders offer excitement, vision, intellectual stimulation and&amp;nbsp;&amp;nbsp;&lt;span&gt;personal satisfaction.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- They inspire involvement in a mission, giving followers a dream or vision of higher&amp;nbsp;&amp;nbsp;&lt;span&gt;calling so as to elicit more dramatic changes in organizational performance.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Such a leadership motivates followers to do more dramatic changes in&amp;nbsp;&amp;nbsp;&lt;span&gt;organizational performance&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-15" value="&lt;div&gt;- This style of leadership uses charisma and enthusiasm to inspire people to exert&amp;nbsp;&amp;nbsp;&lt;span&gt;them for the good of the organization.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- This style is suitable in turbulent environments, in the initial stages of organization&amp;nbsp;&amp;nbsp;&lt;span&gt;or at the declining stages, in turn around strategies where there is a need to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;inspire organization to adopt to major changes.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Transformational leaders offer excitement, vision, intellectual stimulation and&amp;nbsp;&amp;nbsp;&lt;span&gt;personal satisfaction.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- They inspire involvement in a mission, giving followers a dream or vision of higher&amp;nbsp;&amp;nbsp;&lt;span&gt;calling so as to elicit more dramatic changes in organizational performance.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Such a leadership motivates followers to do more dramatic changes in&amp;nbsp;&amp;nbsp;&lt;span&gt;organizational performance&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1288.5" y="360" width="320" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-17" value="vs" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1260" y="300" width="40" height="40" as="geometry">
-            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ickKCg5ccA4yBcYowNC-17">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-19" target="3ickKCg5ccA4yBcYowNC-20">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-19" target="3ickKCg5ccA4yBcYowNC-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-19" value="Strategy Supportive Culture" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-19" value="Strategy Supportive Culture" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2080" y="1" width="160" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-20" target="3ickKCg5ccA4yBcYowNC-21">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-20" target="3ickKCg5ccA4yBcYowNC-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-20" value="&lt;div&gt;Corporate culture refers to a company&#39;s values, beliefs, business principles,&amp;nbsp;&amp;nbsp;&lt;span&gt;traditions, ways of operating, and internal work environment.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-20" value="&lt;div&gt;Corporate culture refers to a company&#39;s values, beliefs, business principles,&amp;nbsp;&amp;nbsp;&lt;span&gt;traditions, ways of operating, and internal work environment.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1960" y="60" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-21" target="3ickKCg5ccA4yBcYowNC-24">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-21" target="3ickKCg5ccA4yBcYowNC-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-21" value="&lt;div&gt;When they are compatible, the culture becomes a valuable ally in strategy&amp;nbsp;&lt;/div&gt;&lt;div&gt;implementation and execution. When the culture is in conflict with some aspect of the&amp;nbsp;&lt;/div&gt;&lt;div&gt;company&#39;s direction, performance targets or strategy, the culture becomes a stumbling&amp;nbsp;&lt;/div&gt;&lt;div&gt;block that impedes successful strategy implementation and execution.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-21" value="&lt;div&gt;When they are compatible, the culture becomes a valuable ally in strategy&amp;nbsp;&lt;/div&gt;&lt;div&gt;implementation and execution. When the culture is in conflict with some aspect of the&amp;nbsp;&lt;/div&gt;&lt;div&gt;company&#39;s direction, performance targets or strategy, the culture becomes a stumbling&amp;nbsp;&lt;/div&gt;&lt;div&gt;block that impedes successful strategy implementation and execution.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1925" y="120" width="470" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-24" value="&lt;b&gt;&lt;u&gt;Role of culture in strategy execution &lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Perils of Strategy-Culture Conflict: When a company&#39;s culture is out of sync with&amp;nbsp;&lt;/div&gt;&lt;div&gt;what is needed for strategic success, the culture has to be changed as rapidly as can&amp;nbsp;&lt;/div&gt;&lt;div&gt;be managed. While correcting a strategy-culture conflict can occasionally mean&amp;nbsp;&lt;/div&gt;&lt;div&gt;revamping strategy to produce cultural fit, more usually it means revamping the&amp;nbsp;&lt;/div&gt;&lt;div&gt;mismatched cultural features to produce strategy fit.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Creating a strong fit between strategy and culture&lt;/u&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;Changing a company&#39;s culture is&lt;/span&gt;&lt;span&gt;&amp;nbsp;toughest management tasks.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The first step is to diagnose which facets of the present culture are strategy supportive&amp;nbsp;&lt;/div&gt;&lt;div&gt;and which are not. Then, managers have to talk openly and forthrightly to all concerned&amp;nbsp;&lt;/div&gt;&lt;div&gt;about those aspects of the culture that have to be changed.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The talk has to be followed swiftly by visible, aggressive actions to modify the&amp;nbsp;&lt;/div&gt;&lt;div&gt;culture-actions that everyone will understand are intended to establish a new culture&amp;nbsp;&lt;/div&gt;&lt;div&gt;more in tune with the strategy.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The menu of culture-changing actions includes revising policies and procedures in ways&amp;nbsp;&lt;/div&gt;&lt;div&gt;that will help drive cultural change, altering incentive compensation (to reward the&amp;nbsp;&lt;/div&gt;&lt;div&gt;desired cultural behaviour), visibly praising and recognizing people who display the new&amp;nbsp;&lt;/div&gt;&lt;div&gt;cultural traits, recruiting and hiring new managers and employees who have the desired&amp;nbsp;&lt;/div&gt;&lt;div&gt;cultural values and can serve as role models for the desired cultural behaviour,&amp;nbsp;&lt;/div&gt;&lt;div&gt;replacing key executives who are strongly associated with the old culture, and taking&amp;nbsp;&lt;/div&gt;&lt;div&gt;every opportunity to communicate to employees the basis for cultural change and its&amp;nbsp;&lt;/div&gt;&lt;div&gt;benefits to all concerned.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-24" value="&lt;b&gt;&lt;u&gt;Role of culture in strategy execution &lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Perils of Strategy-Culture Conflict: When a company&#39;s culture is out of sync with&amp;nbsp;&lt;/div&gt;&lt;div&gt;what is needed for strategic success, the culture has to be changed as rapidly as can&amp;nbsp;&lt;/div&gt;&lt;div&gt;be managed. While correcting a strategy-culture conflict can occasionally mean&amp;nbsp;&lt;/div&gt;&lt;div&gt;revamping strategy to produce cultural fit, more usually it means revamping the&amp;nbsp;&lt;/div&gt;&lt;div&gt;mismatched cultural features to produce strategy fit.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Creating a strong fit between strategy and culture&lt;/u&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;Changing a company&#39;s culture is&lt;/span&gt;&lt;span&gt;&amp;nbsp;toughest management tasks.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The first step is to diagnose which facets of the present culture are strategy supportive&amp;nbsp;&lt;/div&gt;&lt;div&gt;and which are not. Then, managers have to talk openly and forthrightly to all concerned&amp;nbsp;&lt;/div&gt;&lt;div&gt;about those aspects of the culture that have to be changed.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The talk has to be followed swiftly by visible, aggressive actions to modify the&amp;nbsp;&lt;/div&gt;&lt;div&gt;culture-actions that everyone will understand are intended to establish a new culture&amp;nbsp;&lt;/div&gt;&lt;div&gt;more in tune with the strategy.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The menu of culture-changing actions includes revising policies and procedures in ways&amp;nbsp;&lt;/div&gt;&lt;div&gt;that will help drive cultural change, altering incentive compensation (to reward the&amp;nbsp;&lt;/div&gt;&lt;div&gt;desired cultural behaviour), visibly praising and recognizing people who display the new&amp;nbsp;&lt;/div&gt;&lt;div&gt;cultural traits, recruiting and hiring new managers and employees who have the desired&amp;nbsp;&lt;/div&gt;&lt;div&gt;cultural values and can serve as role models for the desired cultural behaviour,&amp;nbsp;&lt;/div&gt;&lt;div&gt;replacing key executives who are strongly associated with the old culture, and taking&amp;nbsp;&lt;/div&gt;&lt;div&gt;every opportunity to communicate to employees the basis for cultural change and its&amp;nbsp;&lt;/div&gt;&lt;div&gt;benefits to all concerned.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1902.5" y="230" width="515" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-31" target="3ickKCg5ccA4yBcYowNC-27">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-31" target="3ickKCg5ccA4yBcYowNC-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2720" y="119.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-26" target="3ickKCg5ccA4yBcYowNC-31">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-26" target="3ickKCg5ccA4yBcYowNC-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-26" target="3ickKCg5ccA4yBcYowNC-36">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-26" target="3ickKCg5ccA4yBcYowNC-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-26" value="Entrepreneurship and Intrapreneurship" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-26" value="Entrepreneurship and Intrapreneurship" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2860" width="280" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ickKCg5ccA4yBcYowNC-27" target="3ickKCg5ccA4yBcYowNC-28">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-27" target="3ickKCg5ccA4yBcYowNC-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-27" value="&lt;div&gt;Entrepreneurship involves creation of a business idea and the fusion of capital,&amp;nbsp;&lt;/div&gt;&lt;div&gt;technology and human talent to give practical shape to the idea. The person, who&amp;nbsp;&lt;/div&gt;&lt;div&gt;perceives the business idea and take steps to implement the idea is known as an&amp;nbsp;&lt;/div&gt;&lt;div&gt;entrepreneur.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-27" value="&lt;div&gt;Entrepreneurship involves creation of a business idea and the fusion of capital,&amp;nbsp;&lt;/div&gt;&lt;div&gt;technology and human talent to give practical shape to the idea. The person, who&amp;nbsp;&lt;/div&gt;&lt;div&gt;perceives the business idea and take steps to implement the idea is known as an&amp;nbsp;&lt;/div&gt;&lt;div&gt;entrepreneur.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2480" y="140.5" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-28" value="&lt;div&gt;&amp;gt;&amp;gt; Initiates and innovates a new concept.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Recognises and utilises opportunity.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Arranges and coordinates resources such as man, material, machine and capital.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Faces risks and uncertainties.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Establishes a start - up company.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Adds value to the product or service.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Takes decisions to make the product or service a profitable one.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Is responsible for the profits or losses of the comp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-28" value="&lt;div&gt;&amp;gt;&amp;gt; Initiates and innovates a new concept.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Recognises and utilises opportunity.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Arranges and coordinates resources such as man, material, machine and capital.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Faces risks and uncertainties.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Establishes a start - up company.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Adds value to the product or service.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Takes decisions to make the product or service a profitable one.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; Is responsible for the profits or losses of the comp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2600" y="220.5" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-31" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Entrepreneurship&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-31" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Entrepreneurship&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2660" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3ickKCg5ccA4yBcYowNC-36" target="3ickKCg5ccA4yBcYowNC-34" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-36" target="3ickKCg5ccA4yBcYowNC-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3282.5" y="119.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3ickKCg5ccA4yBcYowNC-34" target="3ickKCg5ccA4yBcYowNC-35" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3ickKCg5ccA4yBcYowNC-34" target="3ickKCg5ccA4yBcYowNC-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-34" value="&lt;div&gt;An intrapreneur is nothing but an entrepreneur who operates within the boundaries of&amp;nbsp;&lt;/div&gt;&lt;div&gt;an organisation. He is an employee of a large organisation, who is vested with authority&amp;nbsp;&lt;/div&gt;&lt;div&gt;of initiating creativity and innovation in the company&#39;s products, services and projects,&amp;nbsp;&lt;/div&gt;&lt;div&gt;redesigning the processes, workflows and systems.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-34" value="&lt;div&gt;An intrapreneur is nothing but an entrepreneur who operates within the boundaries of&amp;nbsp;&lt;/div&gt;&lt;div&gt;an organisation. He is an employee of a large organisation, who is vested with authority&amp;nbsp;&lt;/div&gt;&lt;div&gt;of initiating creativity and innovation in the company&#39;s products, services and projects,&amp;nbsp;&lt;/div&gt;&lt;div&gt;redesigning the processes, workflows and systems.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3042.5" y="140.5" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-35" value="&lt;div&gt;The intrapreneurs believe in change and do not fear failure. They discover new ideas,&amp;nbsp;&lt;/div&gt;&lt;div&gt;look for such opportunities that can benefit the whole organisation and take risks,&amp;nbsp;&lt;/div&gt;&lt;div&gt;promote innovation to improve the performance and profitability of the organisation. The&amp;nbsp;&lt;/div&gt;&lt;div&gt;job of an intrapreneur is extremely challenging. They get recognition and reward for the&amp;nbsp;&lt;/div&gt;&lt;div&gt;success achieved by them. It has now become a trend that large corporations appoint&amp;nbsp;&lt;/div&gt;&lt;div&gt;intrapreneur within the organisation, to bring operational excellence and gain&amp;nbsp;&lt;/div&gt;&lt;div&gt;competitive edge in the market.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-35" value="&lt;div&gt;The intrapreneurs believe in change and do not fear failure. They discover new ideas,&amp;nbsp;&lt;/div&gt;&lt;div&gt;look for such opportunities that can benefit the whole organisation and take risks,&amp;nbsp;&lt;/div&gt;&lt;div&gt;promote innovation to improve the performance and profitability of the organisation. The&amp;nbsp;&lt;/div&gt;&lt;div&gt;job of an intrapreneur is extremely challenging. They get recognition and reward for the&amp;nbsp;&lt;/div&gt;&lt;div&gt;success achieved by them. It has now become a trend that large corporations appoint&amp;nbsp;&lt;/div&gt;&lt;div&gt;intrapreneur within the organisation, to bring operational excellence and gain&amp;nbsp;&lt;/div&gt;&lt;div&gt;competitive edge in the market.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3040" y="220.5" width="485" height="119.5" as="geometry" />
         </mxCell>
-        <mxCell id="3ickKCg5ccA4yBcYowNC-36" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Intrapreneurship&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ickKCg5ccA4yBcYowNC-36" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Intrapreneurship&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3222.5" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-8" value="HOUR GLASS STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="847.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-7" value="NETWORK STRUCTURE&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="707.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-6" value="MATRIX STRUCTURE - HYBRID STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="567.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-5" value="STRATEGIC BUSINESS UNIT (SBU) STRUCTURES&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="432.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-4" value="Multi Divisional Structure&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="292.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-3" value="&amp;nbsp; &amp;nbsp;DIVISIONAL MULTI DIVISIONAL / M-FORM STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="152.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-2" value="FUNCTIONAL STRUCTURE" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="12.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObN9QLPdV3uD9SNAZ5Un-1" value="Simple Structure" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-127.5" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-17" value="vs" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1260" y="300" width="40" height="40" as="geometry">
+            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ickKCg5ccA4yBcYowNC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ickKCg5ccA4yBcYowNC-17" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
