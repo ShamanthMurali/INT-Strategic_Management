@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T03:44:37.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="xwVxIT8i2bK_VIa1fsvm" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T05:24:06.969Z" agent="5.0 (X11)" etag="nuvn_n_7gfRhxn0IjPV1" version="14.6.13" type="github">
   <diagram id="Do2IUJFNIAkwGLn3xXTK" name="Page-1">
-    <mxGraphModel dx="646" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,35 +115,11 @@
         <mxCell id="yPXhKmsbnDWppPi-VBan-17" value="-establishing annual objectives,&amp;nbsp; &lt;br&gt;-devising policies, allocating resources,&amp;nbsp; &lt;br&gt;-altering an existing organizational structure,&amp;nbsp; &lt;br&gt;-restructuring and reengineering,&amp;nbsp; &lt;br&gt;-revising reward and incentive plans, &lt;br&gt;-minimizing resistance to change,&amp;nbsp;&lt;br&gt;&amp;nbsp;-developing a strategy-supportive culture,&amp;nbsp; &lt;br&gt;-adapting production/operations processes,&amp;nbsp; &lt;br&gt;-developing an effective human resource system and, &lt;br&gt;-if necessary, downsizing.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="287.5" y="1340" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-4" value="&lt;span style=&quot;left: 106.394px ; top: 541.285px ; font-size: 20px ; font-family: serif ; transform: scalex(1.27231)&quot; dir=&quot;ltr&quot;&gt;Refreezing&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="770" y="1640" width="120" height="40" as="geometry">
-            <mxRectangle x="1280" y="1760" width="380" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-7" value="&amp;nbsp; &amp;nbsp;&amp;nbsp;Refreezing occurs when the new behavior becomes a normal way of life. &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;br&gt;The&amp;nbsp; new&amp;nbsp; behavior&amp;nbsp; must&amp;nbsp; replace&amp;nbsp; the&amp;nbsp; former&amp;nbsp; behavior&amp;nbsp; completely&amp;nbsp; for successful and permanent change to take place. &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;it must be continuously reinforced&amp;nbsp; and&amp;nbsp; policies&amp;nbsp; should&amp;nbsp; be&amp;nbsp; prepared,&amp;nbsp; so&amp;nbsp; that&amp;nbsp; this&amp;nbsp; new&amp;nbsp; acquired behavior does not diminish or extinguish.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-4" vertex="1">
-          <mxGeometry y="40" width="380" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-9" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8xEqvB-nj8D2XWixDIn-3" target="T8xEqvB-nj8D2XWixDIn-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-3" value="&lt;span style=&quot;left: 106.399px ; top: 208.887px ; font-size: 20px ; font-family: serif ; transform: scalex(1.21983)&quot; dir=&quot;ltr&quot;&gt;changing&amp;nbsp;&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="610" y="1640" width="120" height="40" as="geometry">
-            <mxRectangle x="1120" y="1760" width="400" height="240" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-6" value="&lt;b&gt;Compliance&lt;/b&gt;: It is achieved by strictly enforcing the reward and punishment strategy for good or bad behavior. Fear of punishment, actual punishment or actual reward seems to change behavior for the better.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;b&gt;Identification&lt;/b&gt;:&amp;nbsp; Identification&amp;nbsp; occurs&amp;nbsp; when&amp;nbsp; members&amp;nbsp; are&amp;nbsp; psychologically impressed upon to identify themselves with some given role models whose behavior they would like to adopt and try to become like them. &lt;br&gt;&lt;br&gt;&lt;b&gt;Internalization&lt;/b&gt;:&amp;nbsp; Internalization&amp;nbsp; involves&amp;nbsp; some&amp;nbsp; internal&amp;nbsp; changing&amp;nbsp; of&amp;nbsp; the individual&#39;s thought processes in order to adjust to a new environment. They have given freedom to learn and adopt new behavior in order to succeed in the new set of circumstances." style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-3" vertex="1">
-          <mxGeometry y="40" width="400" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-8" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8xEqvB-nj8D2XWixDIn-1" target="T8xEqvB-nj8D2XWixDIn-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-1" value="&lt;span style=&quot;left: 106.397px ; top: 1129.69px ; font-size: 20px ; font-family: serif ; transform: scalex(1.17219)&quot; dir=&quot;ltr&quot;&gt;&amp;nbsp; Unfreezing&amp;nbsp;&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="450" y="1640" width="120" height="40" as="geometry">
-            <mxRectangle x="960" y="1760" width="310" height="160" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-5" value="unfreezing is the process of breaking down the old attitudes and behaviors, customs and traditions so that they start with a clean slate. &lt;br&gt;&lt;br&gt;This&amp;nbsp; can&amp;nbsp; be&amp;nbsp; achieved&amp;nbsp; by&amp;nbsp; making&amp;nbsp; announcements,&amp;nbsp; holding&amp;nbsp; meetings&amp;nbsp; and promoting the ideas throughout the organization.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-1" vertex="1">
-          <mxGeometry y="40" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8xEqvB-nj8D2XWixDIn-10" target="T8xEqvB-nj8D2XWixDIn-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -192,59 +168,11 @@
         <mxCell id="T8xEqvB-nj8D2XWixDIn-14" value="strategic&lt;br&gt;&amp;nbsp;control" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577.5" y="2160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-13" value="operational&amp;nbsp; &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="257.5" y="2160" width="120" height="40" as="geometry">
-            <mxRectangle x="227.5" y="2160" width="440" height="280" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-15" value="Operational control is the process of evaluating the performance of the strategic business units, divisions etc., and their contribution to the contribution to the achievement of organisational goals. &lt;br&gt;&lt;br&gt;In other words, operational control means focusing on micro or individualistic control.&lt;br&gt;&lt;br&gt;The thrust of operational control is on individual tasks or transactions as against total or more aggregative management functions. For example, procuring specific items&amp;nbsp; for&amp;nbsp; inventory&amp;nbsp; is&amp;nbsp; a&amp;nbsp; matter&amp;nbsp; of&amp;nbsp; operational&amp;nbsp; control,&amp;nbsp; in&amp;nbsp; contrast&amp;nbsp; to&amp;nbsp; inventory management as a whole.&lt;br&gt;&lt;br&gt;tests that can be applied to identify operational control areas is that there should be a clear-cut and somewhat measurable relationship between inputs and outputs which could be predetermined or estimated with least uncertainty" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-13" vertex="1">
-          <mxGeometry x="0.5" y="40" width="439.5" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-11" value="management &lt;br&gt;control&amp;nbsp;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="417.5" y="2160" width="120" height="40" as="geometry">
-            <mxRectangle x="280" y="2160" width="380" height="190" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-16" value="When compared with operational control, management control is more inclusive and more aggregative, in the sense of embracing the integrated activities of a complete&amp;nbsp; department,&amp;nbsp; division&amp;nbsp; or&amp;nbsp; even&amp;nbsp; entire&amp;nbsp; organisation,&amp;nbsp; instead&amp;nbsp; or&amp;nbsp; mere narrowly circumscribed activities of sub-units. &lt;br&gt;&lt;br&gt;The&amp;nbsp; basic&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; management&amp;nbsp; control&amp;nbsp; is&amp;nbsp; the&amp;nbsp; achievement&amp;nbsp; of&amp;nbsp; enterprise&amp;nbsp; goals&amp;nbsp; – short range and long range – in a most effective and efficient manner.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-11" vertex="1">
-          <mxGeometry y="40" width="380" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-18" value="Premise &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="337.5" y="2240" width="120" height="40" as="geometry">
-            <mxRectangle x="200" y="2240" width="330" height="270" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-33" value="•&amp;nbsp; &amp;nbsp; A strategy is formed on the basis of certain assumptions or premises about the complex and turbulent organizational environment. &lt;br&gt;•&amp;nbsp; &amp;nbsp; Over a period of time these premises may not remain valid. Premise control is a tool for systematic and continuous monitoring of the environment to verify the&amp;nbsp; validity&amp;nbsp; and&amp;nbsp; accuracy&amp;nbsp; of&amp;nbsp; the&amp;nbsp; premises&amp;nbsp; on&amp;nbsp; which&amp;nbsp; the&amp;nbsp; strategy&amp;nbsp; has&amp;nbsp; been built. &lt;br&gt;•&amp;nbsp; &amp;nbsp; It&amp;nbsp; involves&amp;nbsp; monitoring&amp;nbsp; environmental&amp;nbsp; and&amp;nbsp; industry&amp;nbsp; factors,&amp;nbsp; (micro,&amp;nbsp; macro environment and industry related factors) &lt;br&gt;•&amp;nbsp; &amp;nbsp; It is neither feasible not desirable to control all types of premises in the same manner. Different premises may require different amount of control." style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-18" vertex="1">
-          <mxGeometry y="40" width="330" height="230" as="geometry" />
-        </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8xEqvB-nj8D2XWixDIn-19" target="T8xEqvB-nj8D2XWixDIn-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-19" value="Implementation control" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817.5" y="2240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-30" value="Milestone Reviews" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="897.5" y="2400" width="120" height="60" as="geometry">
-            <mxRectangle x="760" y="2400" width="250" height="170" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-43" value="All key activities necessary to implement strategy are Segregated&amp;nbsp; in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; time,&amp;nbsp; events&amp;nbsp; or&amp;nbsp; major&amp;nbsp; resources&amp;nbsp; allocation.&amp;nbsp; It normally&amp;nbsp; involves&amp;nbsp; a&amp;nbsp; complete&amp;nbsp; reassessment&amp;nbsp; of&amp;nbsp; the&amp;nbsp; strategy.&amp;nbsp; It&amp;nbsp; also assesses&amp;nbsp; the&amp;nbsp; need&amp;nbsp; to&amp;nbsp; continue&amp;nbsp; or&amp;nbsp; refocus&amp;nbsp; on&amp;nbsp; the&amp;nbsp; direction&amp;nbsp; of&amp;nbsp; an organization.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-30" vertex="1">
-          <mxGeometry y="60" width="250" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-20" value="Strategic &lt;br&gt;surveillance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="497.5" y="2240" width="120" height="40" as="geometry">
-            <mxRectangle x="360" y="2240" width="320" height="230" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-34" value="[staying uptodate to with current matters of the world]&lt;br&gt;•&amp;nbsp; &amp;nbsp; It&amp;nbsp; involves&amp;nbsp; general&amp;nbsp; monitoring&amp;nbsp; of&amp;nbsp; various&amp;nbsp; sources&amp;nbsp; of&amp;nbsp; information&amp;nbsp; to&amp;nbsp; uncover unanticipated information having an impact on the organizational strategy. •&amp;nbsp; &amp;nbsp; Ex: Reading financial and other newspapers, business magazines, meetings, conferences, discussions at clubs or parties and so on can help in strategic surveillance. Strategic surveillance may be lose form of strategic control, but is capable of uncovering information relevant to the strategy. &amp;nbsp; &amp;nbsp; (Note: Premise control is with a focus on assumptions - whereas surveillance control is without specific focus - general monitoring of environment)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-20" vertex="1">
-          <mxGeometry y="40" width="320" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-21" value="Special alert &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="657.5" y="2240" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="2240" width="380" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T8xEqvB-nj8D2XWixDIn-35" value="•&amp;nbsp; &amp;nbsp; At&amp;nbsp; times&amp;nbsp; unexpected&amp;nbsp; events&amp;nbsp; may&amp;nbsp; force&amp;nbsp; organizations&amp;nbsp; to&amp;nbsp; reconsider&amp;nbsp; their strategy. &lt;br&gt;•&amp;nbsp; &amp;nbsp; These controls help organizations to cope up with these eventualities, form crisis management teams to handle the situation. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Sudden&amp;nbsp; changes&amp;nbsp; in&amp;nbsp; government,&amp;nbsp; natural&amp;nbsp; calamities,&amp;nbsp; terrorist&amp;nbsp; attacks, unexpected merger/acquisition by competitors, industrial disasters and other such events may trigger an immediate and intense review of strategy.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-21" vertex="1">
-          <mxGeometry y="40" width="380" height="140" as="geometry" />
         </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T8xEqvB-nj8D2XWixDIn-38" target="T8xEqvB-nj8D2XWixDIn-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -255,6 +183,154 @@
         <mxCell id="T8xEqvB-nj8D2XWixDIn-38" value="&amp;nbsp;assessing the need for changes in the overall&amp;nbsp; strategy&amp;nbsp; in&amp;nbsp; light&amp;nbsp; of&amp;nbsp; unfolding&amp;nbsp; events&amp;nbsp; and&amp;nbsp; results&amp;nbsp; associated&amp;nbsp; with incremental steps and actions.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="757.5" y="2300" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-1" target="u905G5PJ41BJXGmMC32I-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-1" value="STRATEGIC AUDIT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="2500" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-2" target="u905G5PJ41BJXGmMC32I-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-2" value="•&amp;nbsp; &amp;nbsp; How well is the current strategy working? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How well will the current strategy be working in future? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How can this be evaluated in present and future? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How urgent is there a need to change the strategy? &lt;br&gt;&lt;br&gt;a&amp;nbsp; periodic&amp;nbsp; review&amp;nbsp; and&amp;nbsp; evaluation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; fundamental&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; a strategy are necessary." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="277.5" y="2560" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-4" target="u905G5PJ41BJXGmMC32I-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-4" value="The&amp;nbsp; audit&amp;nbsp; of&amp;nbsp; management&amp;nbsp; performance&amp;nbsp; with&amp;nbsp; regard&amp;nbsp; to&amp;nbsp; its&amp;nbsp; strategies&amp;nbsp; helps&amp;nbsp; an organization&amp;nbsp; identify&amp;nbsp; problem&amp;nbsp; areas&amp;nbsp; and&amp;nbsp; correct&amp;nbsp; the&amp;nbsp; strategic&amp;nbsp; approaches&amp;nbsp; that have not been effective so far.&lt;br&gt;&lt;br&gt;An assessment of the external environment shows where changes happen and where organization&#39;s strategic management no longer match the demands of the marketplace.&lt;br&gt;&lt;br&gt;Based&amp;nbsp; on&amp;nbsp; such&amp;nbsp; analysis,&amp;nbsp; the&amp;nbsp; organization&amp;nbsp; can&amp;nbsp; improve&amp;nbsp; business performance by periodically conducting such an audit.&lt;br&gt;&lt;br&gt;Companies&amp;nbsp; review&amp;nbsp; their&amp;nbsp; business&amp;nbsp; plans&amp;nbsp; and&amp;nbsp; strategies&amp;nbsp; on&amp;nbsp; regular&amp;nbsp; basis&amp;nbsp; to&amp;nbsp; identify weaknesses and shortcomings to enable a successful development plan." style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="276.25" y="2700" width="402.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-6" target="u905G5PJ41BJXGmMC32I-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-6" value="&lt;b&gt;&lt;u&gt;Need&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; When the performance indicators reflect that a strategy is not working properly or is not producing desired outcomes. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When the goals and objectives of the strategy are not being accomplished. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When a major change takes place in the external environment of the organization. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When the top management plans: &lt;br&gt;a) to fine-tune the existing strategies and introduce new strategies and &lt;br&gt;b)&amp;nbsp; &amp;nbsp;to ensure that a strategy that has worked in the past continues to be in-tune with subtle internal and external changes that may have occurred since the formulation of strategies." style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="276.25" y="2930" width="402.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-7" value="&lt;b&gt;&lt;u&gt;Process&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1.&amp;nbsp; &amp;nbsp; Examining the underlying bases of a firm&#39;s strategy, &lt;br&gt;2. Comparing expected results with actual results, and &lt;br&gt;3.&amp;nbsp; &amp;nbsp; Taking corrective actions to ensure that performance conforms to plans.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="276.25" y="3140" width="402.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-10" target="u905G5PJ41BJXGmMC32I-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-10" value="Richard Rumelt&#39;s &lt;br&gt;Criteria for Strategy Audit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="3280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-11" target="u905G5PJ41BJXGmMC32I-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-11" value="&lt;b&gt;&lt;u&gt;Consistency&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;A strategy should not present inconsistent goals and policies." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3340" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-12" target="u905G5PJ41BJXGmMC32I-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-12" value="&lt;b&gt;&lt;u&gt;Consonance&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;Consonance refers to the need for strategists to examine sets of trends, as well as individual trends, in auditing strategies. A strategy must represent&amp;nbsp; an&amp;nbsp; adaptive&amp;nbsp; response&amp;nbsp; to&amp;nbsp; the&amp;nbsp; external&amp;nbsp; environment&amp;nbsp; and&amp;nbsp; to&amp;nbsp; the&amp;nbsp; critical changes&amp;nbsp; occurring&amp;nbsp; within&amp;nbsp; it.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3400" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-15" target="u905G5PJ41BJXGmMC32I-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-15" value="&lt;b&gt;&lt;u&gt;Feasibility&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;examine&amp;nbsp; whether&amp;nbsp; an organization&amp;nbsp; has&amp;nbsp; demonstrated&amp;nbsp; in&amp;nbsp; the&amp;nbsp; past&amp;nbsp; that&amp;nbsp; it&amp;nbsp; possesses&amp;nbsp; the&amp;nbsp; abilities, competencies, skills, and talents needed to carry out a given strategy.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3480" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-17" target="u905G5PJ41BJXGmMC32I-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-17" value="&lt;b&gt;&lt;u&gt;Advantage&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;A&amp;nbsp; strategy&amp;nbsp; must&amp;nbsp; provide&amp;nbsp; for&amp;nbsp; the&amp;nbsp; creation&amp;nbsp; and/or&amp;nbsp; maintenance&amp;nbsp; of&amp;nbsp; a competitive&amp;nbsp; advantage&amp;nbsp; in&amp;nbsp; a&amp;nbsp; selected&amp;nbsp; area&amp;nbsp; of&amp;nbsp; activity.&amp;nbsp; &lt;br&gt;Competitive&amp;nbsp; advantages normally are the result of superiority in one of three areas: &lt;br&gt;(1) resources,&lt;br&gt;(2) skills, or &lt;br&gt;(3) position." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3550" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-22" target="u905G5PJ41BJXGmMC32I-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-22" value="BUSINESS PROCESS RE-ENGINEERING (BPR)&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="3780" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-24" target="u905G5PJ41BJXGmMC32I-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-24" value="it refers&amp;nbsp; to&amp;nbsp; the&amp;nbsp; critical&amp;nbsp; analysis&amp;nbsp; and radical&amp;nbsp; re-designing&amp;nbsp; of&amp;nbsp; workflows&amp;nbsp; and&amp;nbsp; processes&amp;nbsp; both&amp;nbsp; within&amp;nbsp; and&amp;nbsp; between business firms.&lt;br&gt;&lt;br&gt;it&amp;nbsp; is&amp;nbsp; a&amp;nbsp; total&amp;nbsp; deconstruction&amp;nbsp; and&amp;nbsp; re-thinking&amp;nbsp; of&amp;nbsp; a&amp;nbsp; business&amp;nbsp; process&amp;nbsp; in&amp;nbsp; its entirety, without bothered by existing structure and pattern, (i.e., radical) &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;br&gt;It&amp;nbsp; is&amp;nbsp; bringing&amp;nbsp; in&amp;nbsp; dramatic&amp;nbsp; improvement&amp;nbsp; in&amp;nbsp; a&amp;nbsp; process,&amp;nbsp; and&amp;nbsp; improves performance measures like cost, time, efforts etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3840" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-26" target="u905G5PJ41BJXGmMC32I-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-26" value="•&lt;b&gt;&lt;u&gt;Operational excellence&lt;/u&gt;&lt;/b&gt;: The operational&amp;nbsp; excellence&amp;nbsp; of&amp;nbsp; a&amp;nbsp; company&amp;nbsp; is&amp;nbsp; very important for its competitiveness. The business strategy of a company should be designed to improve operational excellence. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Process orientation&lt;/u&gt;&lt;/b&gt;: A customer-focused firm should be re-aligned in terms of&amp;nbsp; process&amp;nbsp; orientation.&amp;nbsp; Processes&amp;nbsp; need&amp;nbsp; to&amp;nbsp; be&amp;nbsp; managed&amp;nbsp; effectively&amp;nbsp; but&amp;nbsp; not functions. The firm should look at &quot;what work is being done&quot; and also &quot;how work is being done&quot;. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;No&amp;nbsp; old&amp;nbsp; ideas&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; For&amp;nbsp; considering&amp;nbsp; new&amp;nbsp; ways&amp;nbsp; of&amp;nbsp; re-designing&amp;nbsp; processes,&amp;nbsp; each and every concept, assumption, purpose and principle should be abandoned temporarily. It is necessary to proceed afresh, without being influenced by old ideas. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Dramatic improvement&lt;/u&gt;&lt;/b&gt;: Continuous improvement is not sufficient when the company is below industry standards. Company should take quantum leaps in performance. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Competitive advantage&lt;/u&gt;&lt;/b&gt;: To survive, grow&amp;nbsp; and tackle competition, &quot;how to compete&quot; is more important than deciding where to compete.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="4000" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-30" target="u905G5PJ41BJXGmMC32I-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-33" target="u905G5PJ41BJXGmMC32I-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="u905G5PJ41BJXGmMC32I-41" target="u905G5PJ41BJXGmMC32I-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-41" value="ROLE OF INFORMATION TECHNOLOGY IN BPR" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="4520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-42" value="•&amp;nbsp; &amp;nbsp; &lt;b&gt;&lt;u&gt;Customer satisfaction&lt;/u&gt;&lt;/b&gt;: speed, accuracy, adaptability, integration&amp;nbsp; of&amp;nbsp; data, meet the&amp;nbsp; needs&amp;nbsp; of&amp;nbsp; customer&amp;nbsp; quickly, adequately, accurately &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; &lt;b&gt;&lt;u&gt;Globalization&lt;/u&gt;&lt;/b&gt;: overcome geographical distances, faster response&amp;nbsp; to&amp;nbsp; change,&amp;nbsp; adherence&amp;nbsp; to&amp;nbsp; globally&amp;nbsp; accepted&amp;nbsp; norms&amp;nbsp; of&amp;nbsp; quality&amp;nbsp; and&amp;nbsp; thus enables globalization. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Operational speed is improved, drastic reduction of time. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Restructuring of relationships in organization &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Business values are enhanced through IT supported BPR through increasing&amp;nbsp; &lt;br&gt;i.&amp;nbsp; &amp;nbsp; &amp;nbsp; Efficiency - by way of increased productivity &lt;br&gt;ii.&amp;nbsp; &amp;nbsp; &amp;nbsp;Effectiveness - by way of better management &lt;br&gt;iii.&amp;nbsp; &amp;nbsp; Innovation- by way of improved products and services" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="4580" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u905G5PJ41BJXGmMC32I-44" target="u905G5PJ41BJXGmMC32I-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-44" value="BENCHMARKING" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="4900" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-46" value="1.&amp;nbsp; &amp;nbsp; Benchmarking&amp;nbsp; is&amp;nbsp; the&amp;nbsp; process&amp;nbsp; of&amp;nbsp; identifying&amp;nbsp; and&amp;nbsp; learning&amp;nbsp; from&amp;nbsp; the&amp;nbsp; best&amp;nbsp; industry practices and the processes by which they are achieved.&lt;br&gt;&lt;br&gt;2.&amp;nbsp; &amp;nbsp; Benchmarking involves: &lt;br&gt;a.&amp;nbsp; &amp;nbsp; comparing&amp;nbsp; different&amp;nbsp; aspects&amp;nbsp; of&amp;nbsp; the&amp;nbsp; firm&#39;s&amp;nbsp; products,&amp;nbsp; services,&amp;nbsp; activities, processes and other aspects of performance with that of competitors or other leaders in the field and the best prevailing practices, &lt;br&gt;&lt;br&gt;b.&amp;nbsp; &amp;nbsp;Identifying gaps and deficiencies in the firm&#39;s own performance, &lt;br&gt;&lt;br&gt;c.&amp;nbsp; &amp;nbsp; Finding&amp;nbsp; out&amp;nbsp; novel&amp;nbsp; methods&amp;nbsp; to&amp;nbsp; reduce&amp;nbsp; the&amp;nbsp; gaps&amp;nbsp; and&amp;nbsp; also&amp;nbsp; to&amp;nbsp; improve&amp;nbsp; the situations and d.&amp;nbsp; &amp;nbsp;Ensuring that these improved methods are implemented" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="4960" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-37" value="Steps" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="420" y="4440" width="120" height="40" as="geometry">
+            <mxRectangle x="420" y="4440" width="400" height="470" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="u905G5PJ41BJXGmMC32I-37" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-39" value="&lt;b&gt;&lt;u&gt;1.&amp;nbsp; &amp;nbsp;Define Objectives and Framework of BPR &lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;a&lt;/b&gt;.&amp;nbsp; &amp;nbsp; Objectives are the &lt;b&gt;desired end results&lt;/b&gt; of the BPR process which a firm tries to achieve &lt;br&gt;&lt;b&gt;b&lt;/b&gt;.&amp;nbsp; &amp;nbsp;This will provide the required focus, direction and motivation for the re-design process &lt;br&gt;&lt;b&gt;c&lt;/b&gt;.&amp;nbsp; &amp;nbsp; It helps building a comprehensive foundation for the BPR process. &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;2.&amp;nbsp; &amp;nbsp;Identify customer needs &lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;a&lt;/b&gt;.&amp;nbsp; &amp;nbsp; The &lt;b&gt;designers should understand customers&lt;/b&gt;. &lt;br&gt;&lt;b&gt;b&lt;/b&gt;.&amp;nbsp; &amp;nbsp;This involves identification of - &amp;nbsp; &amp;nbsp; Customer(s) and customer group(s) &amp;nbsp; &amp;nbsp; Customer requirements, expected utilities in a product or service &amp;nbsp; &amp;nbsp; Customer problems and perceptions about the product &amp;nbsp; &amp;nbsp; Buying habits, tendencies &amp;nbsp; &amp;nbsp; Customers profile, usage and disposal of products etc., &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;3.&amp;nbsp; &amp;nbsp;Study&amp;nbsp; the&amp;nbsp; existing&amp;nbsp; process. &lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;4.&amp;nbsp; &amp;nbsp;Formulate a re-design process plan&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;information gained through analysis and study is translated into an ideal re-design process with focus on customer satisfaction. Alternative processes are considered and the best one is selected. &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;5.&amp;nbsp; &amp;nbsp;Implementation of the re-design process &lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;a&lt;/b&gt;.&amp;nbsp; &amp;nbsp; Implementation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; re-designed&amp;nbsp; process&amp;nbsp; and&amp;nbsp; application&amp;nbsp; of&amp;nbsp; other knowledge gained&amp;nbsp; from&amp;nbsp; the&amp;nbsp; previous&amp;nbsp; steps&amp;nbsp; is&amp;nbsp; very&amp;nbsp; important&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; dramatic improvements.&lt;br&gt;&lt;b&gt;b&lt;/b&gt;.&amp;nbsp; &amp;nbsp;It is the joint responsibility of the designers and management to implement the new process." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="u905G5PJ41BJXGmMC32I-37" vertex="1">
+          <mxGeometry y="40" width="400" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-33" value="Objectives" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="420" y="4380" width="120" height="40" as="geometry">
+            <mxRectangle x="420" y="4380" width="400" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="u905G5PJ41BJXGmMC32I-33" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-35" value="•&amp;nbsp; &amp;nbsp; Improvement&amp;nbsp; in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; time,&amp;nbsp; cost,&amp;nbsp; output,&amp;nbsp; quality,&amp;nbsp; and&amp;nbsp; responsiveness&amp;nbsp; to customers, (not micro improvements, it is radical improvement) &lt;br&gt;•&amp;nbsp; &amp;nbsp; To simplify and streamline the process by -&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Eliminating&amp;nbsp; all&amp;nbsp; redundant&amp;nbsp; and&amp;nbsp; non-value&amp;nbsp; adding&amp;nbsp; steps,&amp;nbsp; activities&amp;nbsp; and transactions&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Drastically&amp;nbsp; reducing&amp;nbsp; the&amp;nbsp; number&amp;nbsp; of&amp;nbsp; stages&amp;nbsp; or&amp;nbsp; transfer&amp;nbsp; points&amp;nbsp; of&amp;nbsp; work&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Speeding up the work flow by using information technology systems.&lt;/font&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Improvement in operational effectiveness. &lt;br&gt;•&amp;nbsp; &amp;nbsp; To provide competitive advantage to the firm." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="u905G5PJ41BJXGmMC32I-33" vertex="1">
+          <mxGeometry y="40" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-30" value="Features" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="420" y="4320" width="120" height="40" as="geometry">
+            <mxRectangle x="420" y="4320" width="400" height="800" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="u905G5PJ41BJXGmMC32I-30" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-28" value="•&lt;b&gt;&lt;u&gt;No&amp;nbsp; Assumptions&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; The&amp;nbsp; thinking&amp;nbsp; process&amp;nbsp; in&amp;nbsp; BPR&amp;nbsp; begins&amp;nbsp; with&amp;nbsp; a&amp;nbsp; totally&amp;nbsp; free state of mind i.e., without any pre conceived notions &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Starting&amp;nbsp; from&amp;nbsp; scratch&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; BPR&amp;nbsp; involves&amp;nbsp; setting&amp;nbsp; aside&amp;nbsp; old&amp;nbsp; practices&amp;nbsp; and procedures. It involves forgetting how work has been done so far and how it can best be done now &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Rethinking&lt;/u&gt;&lt;/b&gt;: BPR begins with fundamental rethinking. The strategists try to find out answers to questions like &#39;what is being done now? Why is it being done in this way?&quot; &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Reinvention&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; BPR&amp;nbsp; is&amp;nbsp; about&amp;nbsp; reinvention,&amp;nbsp; not&amp;nbsp; business&amp;nbsp; improvement&amp;nbsp; / enhancement / modification &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Wholistic&lt;/u&gt;&lt;/b&gt;: BPR will affect all parts of the firm. BPR views the processes from a cross-functional and wholistic angle. BPR focuses on a multi-dimensional approach.&amp;nbsp; It&amp;nbsp; will&amp;nbsp; disregard&amp;nbsp; the&amp;nbsp; constraints&amp;nbsp; of&amp;nbsp; organizational&amp;nbsp; structure&amp;nbsp; and departmental boundaries. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Organisational change&lt;/u&gt;&lt;/b&gt;: BPR involves massive organizational change.&amp;nbsp;&lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Detailed&lt;/u&gt;&lt;/b&gt;: BPR looks at the minute details of the process such as why the work is done, who does it, where it is done and when it is done. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Normative&lt;/u&gt;&lt;/b&gt;: BPR is not a subjective process. It is a normative process. It first decides what a company must do and then it decides on &#39;how to do it&#39;. BPR ignores what the existing process is and concentrates on &#39;what it should be&#39;. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Radical&lt;/u&gt;&lt;/b&gt;: Radical redesigning means going to the root of the problem. It will not&amp;nbsp; try&amp;nbsp; to&amp;nbsp; make&amp;nbsp; any&amp;nbsp; superficial&amp;nbsp; changes.&amp;nbsp; It&amp;nbsp; tries&amp;nbsp; to&amp;nbsp; bring&amp;nbsp; dramatic improvement, and not marginal/incremental changes &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Process Orientation&lt;/u&gt;&lt;/b&gt;: BPR gives more importance on &#39;how to do?&#39; (process) rather than &#39;what to do?&#39;(product) &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Time reduction&lt;/u&gt;&lt;/b&gt;: The thrust area of BPR is reduction of total time of business process. This involves:&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Eliminating the unwanted, unnecessary and redundant steps&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Simplifying the systems and procedures&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Eliminating&amp;nbsp; the&amp;nbsp; waiting&amp;nbsp; time&amp;nbsp; and&amp;nbsp; transit&amp;nbsp; time&amp;nbsp; to&amp;nbsp; the&amp;nbsp; maximum&amp;nbsp; extent possible &lt;br&gt;&lt;/font&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Continuous&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; Even&amp;nbsp; after&amp;nbsp; redesigning&amp;nbsp; of&amp;nbsp; a&amp;nbsp; process,&amp;nbsp; BPR&amp;nbsp; maintains&amp;nbsp; a continuous effort for more and more improvement &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;IT supported&lt;/u&gt;&lt;/b&gt;: BPR&amp;nbsp; aims&amp;nbsp; to&amp;nbsp; utilize&amp;nbsp; information technology for developing new processes, instead of merely automating the existing processes. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Top management support&lt;/u&gt;&lt;/b&gt;: BPR is supported by the vision and commitment of&amp;nbsp; the&amp;nbsp; firm&#39;s&amp;nbsp; top&amp;nbsp; leadership,&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; its&amp;nbsp; effective&amp;nbsp; completion&amp;nbsp; and implementation." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="u905G5PJ41BJXGmMC32I-30" vertex="1">
+          <mxGeometry y="40" width="400" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-19" value="strategy&#xa;evaluation &#xa;Difficulties" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="420" y="3690" width="120" height="50" as="geometry">
+            <mxRectangle x="420" y="3690" width="340" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u905G5PJ41BJXGmMC32I-20" value="•&amp;nbsp; &amp;nbsp; A dramatic increase in the environment&#39;s complexity. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing difficulty of predicting the future with accuracy. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing number of variables in the environment. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The rapid rate of obsolescence of even the best plans. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; the&amp;nbsp; number&amp;nbsp; of&amp;nbsp; both&amp;nbsp; domestic&amp;nbsp; and&amp;nbsp; world&amp;nbsp; events&amp;nbsp; affecting organizations. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The decreasing time span for which planning can be done with any degree of certainty" style="rounded=0;whiteSpace=wrap;html=1;" parent="u905G5PJ41BJXGmMC32I-19" vertex="1">
+          <mxGeometry y="50" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-30" value="Milestone Reviews" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="897.5" y="2400" width="120" height="60" as="geometry">
+            <mxRectangle x="760" y="2400" width="250" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-43" value="All key activities necessary to implement strategy are Segregated&amp;nbsp; in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; time,&amp;nbsp; events&amp;nbsp; or&amp;nbsp; major&amp;nbsp; resources&amp;nbsp; allocation.&amp;nbsp; It normally&amp;nbsp; involves&amp;nbsp; a&amp;nbsp; complete&amp;nbsp; reassessment&amp;nbsp; of&amp;nbsp; the&amp;nbsp; strategy.&amp;nbsp; It&amp;nbsp; also assesses&amp;nbsp; the&amp;nbsp; need&amp;nbsp; to&amp;nbsp; continue&amp;nbsp; or&amp;nbsp; refocus&amp;nbsp; on&amp;nbsp; the&amp;nbsp; direction&amp;nbsp; of&amp;nbsp; an organization.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-30" vertex="1">
+          <mxGeometry y="60" width="250" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="T8xEqvB-nj8D2XWixDIn-29" value="Monitoring &lt;br&gt;strategic&lt;br&gt;thrusts" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="737.5" y="2400" width="120" height="60" as="geometry">
             <mxRectangle x="600" y="2400" width="200" height="150" as="alternateBounds" />
@@ -263,145 +339,69 @@
         <mxCell id="T8xEqvB-nj8D2XWixDIn-42" value="Monitoring&amp;nbsp; strategic&amp;nbsp; thrusts&amp;nbsp; help managers to determine whether the overall strategy is progressing as desired or whether there is need for readjustments." style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-29" vertex="1">
           <mxGeometry y="60" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-1" target="u905G5PJ41BJXGmMC32I-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-1" value="STRATEGIC AUDIT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2500" width="155" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-2" target="u905G5PJ41BJXGmMC32I-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-2" value="•&amp;nbsp; &amp;nbsp; How well is the current strategy working? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How well will the current strategy be working in future? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How can this be evaluated in present and future? &lt;br&gt;•&amp;nbsp; &amp;nbsp; How urgent is there a need to change the strategy? &lt;br&gt;&lt;br&gt;a&amp;nbsp; periodic&amp;nbsp; review&amp;nbsp; and&amp;nbsp; evaluation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; fundamental&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; a strategy are necessary." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="2560" width="400" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-4" target="u905G5PJ41BJXGmMC32I-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-4" value="The&amp;nbsp; audit&amp;nbsp; of&amp;nbsp; management&amp;nbsp; performance&amp;nbsp; with&amp;nbsp; regard&amp;nbsp; to&amp;nbsp; its&amp;nbsp; strategies&amp;nbsp; helps&amp;nbsp; an organization&amp;nbsp; identify&amp;nbsp; problem&amp;nbsp; areas&amp;nbsp; and&amp;nbsp; correct&amp;nbsp; the&amp;nbsp; strategic&amp;nbsp; approaches&amp;nbsp; that have not been effective so far.&lt;br&gt;&lt;br&gt;An assessment of the external environment shows where changes happen and where organization&#39;s strategic management no longer match the demands of the marketplace.&lt;br&gt;&lt;br&gt;Based&amp;nbsp; on&amp;nbsp; such&amp;nbsp; analysis,&amp;nbsp; the&amp;nbsp; organization&amp;nbsp; can&amp;nbsp; improve&amp;nbsp; business performance by periodically conducting such an audit.&lt;br&gt;&lt;br&gt;Companies&amp;nbsp; review&amp;nbsp; their&amp;nbsp; business&amp;nbsp; plans&amp;nbsp; and&amp;nbsp; strategies&amp;nbsp; on&amp;nbsp; regular&amp;nbsp; basis&amp;nbsp; to&amp;nbsp; identify weaknesses and shortcomings to enable a successful development plan." style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="276.25" y="2700" width="402.5" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-6" target="u905G5PJ41BJXGmMC32I-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-6" value="&lt;b&gt;&lt;u&gt;Need&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; When the performance indicators reflect that a strategy is not working properly or is not producing desired outcomes. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When the goals and objectives of the strategy are not being accomplished. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When a major change takes place in the external environment of the organization. &lt;br&gt;•&amp;nbsp; &amp;nbsp; When the top management plans: &lt;br&gt;a) to fine-tune the existing strategies and introduce new strategies and &lt;br&gt;b)&amp;nbsp; &amp;nbsp;to ensure that a strategy that has worked in the past continues to be in-tune with subtle internal and external changes that may have occurred since the formulation of strategies." style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="276.25" y="2930" width="402.5" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-7" value="&lt;b&gt;&lt;u&gt;Process&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1.&amp;nbsp; &amp;nbsp; Examining the underlying bases of a firm&#39;s strategy, &lt;br&gt;2. Comparing expected results with actual results, and &lt;br&gt;3.&amp;nbsp; &amp;nbsp; Taking corrective actions to ensure that performance conforms to plans.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="276.25" y="3140" width="402.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-10" target="u905G5PJ41BJXGmMC32I-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-10" value="Richard Rumelt&#39;s &lt;br&gt;Criteria for Strategy Audit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="3280" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-11" target="u905G5PJ41BJXGmMC32I-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-11" value="&lt;b&gt;&lt;u&gt;Consistency&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;A strategy should not present inconsistent goals and policies." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3340" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-12" target="u905G5PJ41BJXGmMC32I-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-12" value="&lt;b&gt;&lt;u&gt;Consonance&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;Consonance refers to the need for strategists to examine sets of trends, as well as individual trends, in auditing strategies. A strategy must represent&amp;nbsp; an&amp;nbsp; adaptive&amp;nbsp; response&amp;nbsp; to&amp;nbsp; the&amp;nbsp; external&amp;nbsp; environment&amp;nbsp; and&amp;nbsp; to&amp;nbsp; the&amp;nbsp; critical changes&amp;nbsp; occurring&amp;nbsp; within&amp;nbsp; it.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3400" width="400" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-15" target="u905G5PJ41BJXGmMC32I-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-15" value="&lt;b&gt;&lt;u&gt;Feasibility&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;examine&amp;nbsp; whether&amp;nbsp; an organization&amp;nbsp; has&amp;nbsp; demonstrated&amp;nbsp; in&amp;nbsp; the&amp;nbsp; past&amp;nbsp; that&amp;nbsp; it&amp;nbsp; possesses&amp;nbsp; the&amp;nbsp; abilities, competencies, skills, and talents needed to carry out a given strategy.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3480" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-17" target="u905G5PJ41BJXGmMC32I-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-17" value="&lt;b&gt;&lt;u&gt;Advantage&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;A&amp;nbsp; strategy&amp;nbsp; must&amp;nbsp; provide&amp;nbsp; for&amp;nbsp; the&amp;nbsp; creation&amp;nbsp; and/or&amp;nbsp; maintenance&amp;nbsp; of&amp;nbsp; a competitive&amp;nbsp; advantage&amp;nbsp; in&amp;nbsp; a&amp;nbsp; selected&amp;nbsp; area&amp;nbsp; of&amp;nbsp; activity.&amp;nbsp; &lt;br&gt;Competitive&amp;nbsp; advantages normally are the result of superiority in one of three areas: &lt;br&gt;(1) resources,&lt;br&gt;(2) skills, or &lt;br&gt;(3) position." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3550" width="400" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-19" value="strategy&#xa;evaluation &#xa;Difficulties" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="420" y="3690" width="120" height="50" as="geometry">
-            <mxRectangle x="420" y="3690" width="340" height="190" as="alternateBounds" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-21" value="Special alert &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="657.5" y="2240" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="2240" width="380" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-20" value="•&amp;nbsp; &amp;nbsp; A dramatic increase in the environment&#39;s complexity. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing difficulty of predicting the future with accuracy. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The increasing number of variables in the environment. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The rapid rate of obsolescence of even the best plans. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; the&amp;nbsp; number&amp;nbsp; of&amp;nbsp; both&amp;nbsp; domestic&amp;nbsp; and&amp;nbsp; world&amp;nbsp; events&amp;nbsp; affecting organizations. &lt;br&gt;•&amp;nbsp; &amp;nbsp; The decreasing time span for which planning can be done with any degree of certainty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u905G5PJ41BJXGmMC32I-19">
-          <mxGeometry y="50" width="340" height="140" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-35" value="•&amp;nbsp; &amp;nbsp; At&amp;nbsp; times&amp;nbsp; unexpected&amp;nbsp; events&amp;nbsp; may&amp;nbsp; force&amp;nbsp; organizations&amp;nbsp; to&amp;nbsp; reconsider&amp;nbsp; their strategy. &lt;br&gt;•&amp;nbsp; &amp;nbsp; These controls help organizations to cope up with these eventualities, form crisis management teams to handle the situation. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Sudden&amp;nbsp; changes&amp;nbsp; in&amp;nbsp; government,&amp;nbsp; natural&amp;nbsp; calamities,&amp;nbsp; terrorist&amp;nbsp; attacks, unexpected merger/acquisition by competitors, industrial disasters and other such events may trigger an immediate and intense review of strategy.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-21" vertex="1">
+          <mxGeometry y="40" width="380" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-22" target="u905G5PJ41BJXGmMC32I-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-22" value="BUSINESS PROCESS RE-ENGINEERING (BPR)&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="3780" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-24" target="u905G5PJ41BJXGmMC32I-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-24" value="it refers&amp;nbsp; to&amp;nbsp; the&amp;nbsp; critical&amp;nbsp; analysis&amp;nbsp; and radical&amp;nbsp; re-designing&amp;nbsp; of&amp;nbsp; workflows&amp;nbsp; and&amp;nbsp; processes&amp;nbsp; both&amp;nbsp; within&amp;nbsp; and&amp;nbsp; between business firms.&lt;br&gt;&lt;br&gt;it&amp;nbsp; is&amp;nbsp; a&amp;nbsp; total&amp;nbsp; deconstruction&amp;nbsp; and&amp;nbsp; re-thinking&amp;nbsp; of&amp;nbsp; a&amp;nbsp; business&amp;nbsp; process&amp;nbsp; in&amp;nbsp; its entirety, without bothered by existing structure and pattern, (i.e., radical) &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;br&gt;It&amp;nbsp; is&amp;nbsp; bringing&amp;nbsp; in&amp;nbsp; dramatic&amp;nbsp; improvement&amp;nbsp; in&amp;nbsp; a&amp;nbsp; process,&amp;nbsp; and&amp;nbsp; improves performance measures like cost, time, efforts etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3840" width="400" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-26" target="u905G5PJ41BJXGmMC32I-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-26" value="•&lt;b&gt;&lt;u&gt;Operational excellence&lt;/u&gt;&lt;/b&gt;: The operational&amp;nbsp; excellence&amp;nbsp; of&amp;nbsp; a&amp;nbsp; company&amp;nbsp; is&amp;nbsp; very important for its competitiveness. The business strategy of a company should be designed to improve operational excellence. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Process orientation&lt;/u&gt;&lt;/b&gt;: A customer-focused firm should be re-aligned in terms of&amp;nbsp; process&amp;nbsp; orientation.&amp;nbsp; Processes&amp;nbsp; need&amp;nbsp; to&amp;nbsp; be&amp;nbsp; managed&amp;nbsp; effectively&amp;nbsp; but&amp;nbsp; not functions. The firm should look at &quot;what work is being done&quot; and also &quot;how work is being done&quot;. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;No&amp;nbsp; old&amp;nbsp; ideas&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; For&amp;nbsp; considering&amp;nbsp; new&amp;nbsp; ways&amp;nbsp; of&amp;nbsp; re-designing&amp;nbsp; processes,&amp;nbsp; each and every concept, assumption, purpose and principle should be abandoned temporarily. It is necessary to proceed afresh, without being influenced by old ideas. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Dramatic improvement&lt;/u&gt;&lt;/b&gt;: Continuous improvement is not sufficient when the company is below industry standards. Company should take quantum leaps in performance. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Competitive advantage&lt;/u&gt;&lt;/b&gt;: To survive, grow&amp;nbsp; and tackle competition, &quot;how to compete&quot; is more important than deciding where to compete.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="4000" width="400" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-30" target="u905G5PJ41BJXGmMC32I-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-30" value="Features" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="420" y="4320" width="120" height="40" as="geometry">
-            <mxRectangle x="420" y="4320" width="400" height="800" as="alternateBounds" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-20" value="Strategic &lt;br&gt;surveillance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="497.5" y="2240" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="2240" width="320" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u905G5PJ41BJXGmMC32I-30">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-34" value="[staying uptodate to with current matters of the world]&lt;br&gt;•&amp;nbsp; &amp;nbsp; It&amp;nbsp; involves&amp;nbsp; general&amp;nbsp; monitoring&amp;nbsp; of&amp;nbsp; various&amp;nbsp; sources&amp;nbsp; of&amp;nbsp; information&amp;nbsp; to&amp;nbsp; uncover unanticipated information having an impact on the organizational strategy. •&amp;nbsp; &amp;nbsp; Ex: Reading financial and other newspapers, business magazines, meetings, conferences, discussions at clubs or parties and so on can help in strategic surveillance. Strategic surveillance may be lose form of strategic control, but is capable of uncovering information relevant to the strategy. &amp;nbsp; &amp;nbsp; (Note: Premise control is with a focus on assumptions - whereas surveillance control is without specific focus - general monitoring of environment)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-20" vertex="1">
+          <mxGeometry y="40" width="320" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-28" value="•&lt;b&gt;&lt;u&gt;No&amp;nbsp; Assumptions&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; The&amp;nbsp; thinking&amp;nbsp; process&amp;nbsp; in&amp;nbsp; BPR&amp;nbsp; begins&amp;nbsp; with&amp;nbsp; a&amp;nbsp; totally&amp;nbsp; free state of mind i.e., without any pre conceived notions &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Starting&amp;nbsp; from&amp;nbsp; scratch&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; BPR&amp;nbsp; involves&amp;nbsp; setting&amp;nbsp; aside&amp;nbsp; old&amp;nbsp; practices&amp;nbsp; and procedures. It involves forgetting how work has been done so far and how it can best be done now &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Rethinking&lt;/u&gt;&lt;/b&gt;: BPR begins with fundamental rethinking. The strategists try to find out answers to questions like &#39;what is being done now? Why is it being done in this way?&quot; &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Reinvention&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; BPR&amp;nbsp; is&amp;nbsp; about&amp;nbsp; reinvention,&amp;nbsp; not&amp;nbsp; business&amp;nbsp; improvement&amp;nbsp; / enhancement / modification &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Wholistic&lt;/u&gt;&lt;/b&gt;: BPR will affect all parts of the firm. BPR views the processes from a cross-functional and wholistic angle. BPR focuses on a multi-dimensional approach.&amp;nbsp; It&amp;nbsp; will&amp;nbsp; disregard&amp;nbsp; the&amp;nbsp; constraints&amp;nbsp; of&amp;nbsp; organizational&amp;nbsp; structure&amp;nbsp; and departmental boundaries. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Organisational change&lt;/u&gt;&lt;/b&gt;: BPR involves massive organizational change.&amp;nbsp;&lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Detailed&lt;/u&gt;&lt;/b&gt;: BPR looks at the minute details of the process such as why the work is done, who does it, where it is done and when it is done. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Normative&lt;/u&gt;&lt;/b&gt;: BPR is not a subjective process. It is a normative process. It first decides what a company must do and then it decides on &#39;how to do it&#39;. BPR ignores what the existing process is and concentrates on &#39;what it should be&#39;. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Radical&lt;/u&gt;&lt;/b&gt;: Radical redesigning means going to the root of the problem. It will not&amp;nbsp; try&amp;nbsp; to&amp;nbsp; make&amp;nbsp; any&amp;nbsp; superficial&amp;nbsp; changes.&amp;nbsp; It&amp;nbsp; tries&amp;nbsp; to&amp;nbsp; bring&amp;nbsp; dramatic improvement, and not marginal/incremental changes &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Process Orientation&lt;/u&gt;&lt;/b&gt;: BPR gives more importance on &#39;how to do?&#39; (process) rather than &#39;what to do?&#39;(product) &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Time reduction&lt;/u&gt;&lt;/b&gt;: The thrust area of BPR is reduction of total time of business process. This involves:&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Eliminating the unwanted, unnecessary and redundant steps&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Simplifying the systems and procedures&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Eliminating&amp;nbsp; the&amp;nbsp; waiting&amp;nbsp; time&amp;nbsp; and&amp;nbsp; transit&amp;nbsp; time&amp;nbsp; to&amp;nbsp; the&amp;nbsp; maximum&amp;nbsp; extent possible &lt;br&gt;&lt;/font&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Continuous&lt;/u&gt;&lt;/b&gt;:&amp;nbsp; Even&amp;nbsp; after&amp;nbsp; redesigning&amp;nbsp; of&amp;nbsp; a&amp;nbsp; process,&amp;nbsp; BPR&amp;nbsp; maintains&amp;nbsp; a continuous effort for more and more improvement &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;IT supported&lt;/u&gt;&lt;/b&gt;: BPR&amp;nbsp; aims&amp;nbsp; to&amp;nbsp; utilize&amp;nbsp; information technology for developing new processes, instead of merely automating the existing processes. &lt;br&gt;&lt;br&gt;•&lt;b&gt;&lt;u&gt;Top management support&lt;/u&gt;&lt;/b&gt;: BPR is supported by the vision and commitment of&amp;nbsp; the&amp;nbsp; firm&#39;s&amp;nbsp; top&amp;nbsp; leadership,&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; its&amp;nbsp; effective&amp;nbsp; completion&amp;nbsp; and implementation." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="u905G5PJ41BJXGmMC32I-30">
-          <mxGeometry y="40" width="400" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-33" target="u905G5PJ41BJXGmMC32I-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-33" value="Objectives" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="420" y="4380" width="120" height="40" as="geometry">
-            <mxRectangle x="420" y="4380" width="400" height="200" as="alternateBounds" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-18" value="Premise &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="337.5" y="2240" width="120" height="40" as="geometry">
+            <mxRectangle x="200" y="2240" width="330" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u905G5PJ41BJXGmMC32I-33">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-33" value="•&amp;nbsp; &amp;nbsp; A strategy is formed on the basis of certain assumptions or premises about the complex and turbulent organizational environment. &lt;br&gt;•&amp;nbsp; &amp;nbsp; Over a period of time these premises may not remain valid. Premise control is a tool for systematic and continuous monitoring of the environment to verify the&amp;nbsp; validity&amp;nbsp; and&amp;nbsp; accuracy&amp;nbsp; of&amp;nbsp; the&amp;nbsp; premises&amp;nbsp; on&amp;nbsp; which&amp;nbsp; the&amp;nbsp; strategy&amp;nbsp; has&amp;nbsp; been built. &lt;br&gt;•&amp;nbsp; &amp;nbsp; It&amp;nbsp; involves&amp;nbsp; monitoring&amp;nbsp; environmental&amp;nbsp; and&amp;nbsp; industry&amp;nbsp; factors,&amp;nbsp; (micro,&amp;nbsp; macro environment and industry related factors) &lt;br&gt;•&amp;nbsp; &amp;nbsp; It is neither feasible not desirable to control all types of premises in the same manner. Different premises may require different amount of control." style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-18" vertex="1">
+          <mxGeometry y="40" width="330" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-35" value="•&amp;nbsp; &amp;nbsp; Improvement&amp;nbsp; in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; time,&amp;nbsp; cost,&amp;nbsp; output,&amp;nbsp; quality,&amp;nbsp; and&amp;nbsp; responsiveness&amp;nbsp; to customers, (not micro improvements, it is radical improvement) &lt;br&gt;•&amp;nbsp; &amp;nbsp; To simplify and streamline the process by -&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Eliminating&amp;nbsp; all&amp;nbsp; redundant&amp;nbsp; and&amp;nbsp; non-value&amp;nbsp; adding&amp;nbsp; steps,&amp;nbsp; activities&amp;nbsp; and transactions&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Drastically&amp;nbsp; reducing&amp;nbsp; the&amp;nbsp; number&amp;nbsp; of&amp;nbsp; stages&amp;nbsp; or&amp;nbsp; transfer&amp;nbsp; points&amp;nbsp; of&amp;nbsp; work&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;gt;&amp;gt;Speeding up the work flow by using information technology systems.&lt;/font&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Improvement in operational effectiveness. &lt;br&gt;•&amp;nbsp; &amp;nbsp; To provide competitive advantage to the firm." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="u905G5PJ41BJXGmMC32I-33">
-          <mxGeometry y="40" width="400" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-37" value="Steps" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="420" y="4440" width="120" height="40" as="geometry">
-            <mxRectangle x="420" y="4440" width="400" height="470" as="alternateBounds" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-11" value="management &lt;br&gt;control&amp;nbsp;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="417.5" y="2160" width="120" height="40" as="geometry">
+            <mxRectangle x="280" y="2160" width="380" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u905G5PJ41BJXGmMC32I-37">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-16" value="When compared with operational control, management control is more inclusive and more aggregative, in the sense of embracing the integrated activities of a complete&amp;nbsp; department,&amp;nbsp; division&amp;nbsp; or&amp;nbsp; even&amp;nbsp; entire&amp;nbsp; organisation,&amp;nbsp; instead&amp;nbsp; or&amp;nbsp; mere narrowly circumscribed activities of sub-units. &lt;br&gt;&lt;br&gt;The&amp;nbsp; basic&amp;nbsp; purpose&amp;nbsp; of&amp;nbsp; management&amp;nbsp; control&amp;nbsp; is&amp;nbsp; the&amp;nbsp; achievement&amp;nbsp; of&amp;nbsp; enterprise&amp;nbsp; goals&amp;nbsp; – short range and long range – in a most effective and efficient manner.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-11" vertex="1">
+          <mxGeometry y="40" width="380" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-39" value="&lt;b&gt;&lt;u&gt;1.&amp;nbsp; &amp;nbsp;Define Objectives and Framework of BPR &lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;a&lt;/b&gt;.&amp;nbsp; &amp;nbsp; Objectives are the &lt;b&gt;desired end results&lt;/b&gt; of the BPR process which a firm tries to achieve &lt;br&gt;&lt;b&gt;b&lt;/b&gt;.&amp;nbsp; &amp;nbsp;This will provide the required focus, direction and motivation for the re-design process &lt;br&gt;&lt;b&gt;c&lt;/b&gt;.&amp;nbsp; &amp;nbsp; It helps building a comprehensive foundation for the BPR process. &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;2.&amp;nbsp; &amp;nbsp;Identify customer needs &lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;a&lt;/b&gt;.&amp;nbsp; &amp;nbsp; The &lt;b&gt;designers should understand customers&lt;/b&gt;. &lt;br&gt;&lt;b&gt;b&lt;/b&gt;.&amp;nbsp; &amp;nbsp;This involves identification of - &amp;nbsp; &amp;nbsp; Customer(s) and customer group(s) &amp;nbsp; &amp;nbsp; Customer requirements, expected utilities in a product or service &amp;nbsp; &amp;nbsp; Customer problems and perceptions about the product &amp;nbsp; &amp;nbsp; Buying habits, tendencies &amp;nbsp; &amp;nbsp; Customers profile, usage and disposal of products etc., &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;3.&amp;nbsp; &amp;nbsp;Study&amp;nbsp; the&amp;nbsp; existing&amp;nbsp; process. &lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;4.&amp;nbsp; &amp;nbsp;Formulate a re-design process plan&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;information gained through analysis and study is translated into an ideal re-design process with focus on customer satisfaction. Alternative processes are considered and the best one is selected. &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;5.&amp;nbsp; &amp;nbsp;Implementation of the re-design process &lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;a&lt;/b&gt;.&amp;nbsp; &amp;nbsp; Implementation&amp;nbsp; of&amp;nbsp; the&amp;nbsp; re-designed&amp;nbsp; process&amp;nbsp; and&amp;nbsp; application&amp;nbsp; of&amp;nbsp; other knowledge gained&amp;nbsp; from&amp;nbsp; the&amp;nbsp; previous&amp;nbsp; steps&amp;nbsp; is&amp;nbsp; very&amp;nbsp; important&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; dramatic improvements.&lt;br&gt;&lt;b&gt;b&lt;/b&gt;.&amp;nbsp; &amp;nbsp;It is the joint responsibility of the designers and management to implement the new process." style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="u905G5PJ41BJXGmMC32I-37">
-          <mxGeometry y="40" width="400" height="430" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-13" value="operational&amp;nbsp; &lt;br&gt;control" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="257.5" y="2160" width="120" height="40" as="geometry">
+            <mxRectangle x="227.5" y="2160" width="440" height="280" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-41" target="u905G5PJ41BJXGmMC32I-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-15" value="Operational control is the process of evaluating the performance of the strategic business units, divisions etc., and their contribution to the contribution to the achievement of organisational goals. &lt;br&gt;&lt;br&gt;In other words, operational control means focusing on micro or individualistic control.&lt;br&gt;&lt;br&gt;The thrust of operational control is on individual tasks or transactions as against total or more aggregative management functions. For example, procuring specific items&amp;nbsp; for&amp;nbsp; inventory&amp;nbsp; is&amp;nbsp; a&amp;nbsp; matter&amp;nbsp; of&amp;nbsp; operational&amp;nbsp; control,&amp;nbsp; in&amp;nbsp; contrast&amp;nbsp; to&amp;nbsp; inventory management as a whole.&lt;br&gt;&lt;br&gt;tests that can be applied to identify operational control areas is that there should be a clear-cut and somewhat measurable relationship between inputs and outputs which could be predetermined or estimated with least uncertainty" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-13" vertex="1">
+          <mxGeometry x="0.5" y="40" width="439.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-41" value="ROLE OF INFORMATION TECHNOLOGY IN BPR" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="4520" width="200" height="40" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-4" value="&lt;span style=&quot;left: 106.394px ; top: 541.285px ; font-size: 20px ; font-family: serif ; transform: scalex(1.27231)&quot; dir=&quot;ltr&quot;&gt;Refreezing&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="770" y="1640" width="120" height="40" as="geometry">
+            <mxRectangle x="1280" y="1760" width="380" height="180" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-42" value="•&amp;nbsp; &amp;nbsp; &lt;b&gt;&lt;u&gt;Customer satisfaction&lt;/u&gt;&lt;/b&gt;: speed, accuracy, adaptability, integration&amp;nbsp; of&amp;nbsp; data, meet the&amp;nbsp; needs&amp;nbsp; of&amp;nbsp; customer&amp;nbsp; quickly, adequately, accurately &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; &lt;b&gt;&lt;u&gt;Globalization&lt;/u&gt;&lt;/b&gt;: overcome geographical distances, faster response&amp;nbsp; to&amp;nbsp; change,&amp;nbsp; adherence&amp;nbsp; to&amp;nbsp; globally&amp;nbsp; accepted&amp;nbsp; norms&amp;nbsp; of&amp;nbsp; quality&amp;nbsp; and&amp;nbsp; thus enables globalization. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Operational speed is improved, drastic reduction of time. &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Restructuring of relationships in organization &lt;br&gt;&lt;br&gt;•&amp;nbsp; &amp;nbsp; Business values are enhanced through IT supported BPR through increasing&amp;nbsp; &lt;br&gt;i.&amp;nbsp; &amp;nbsp; &amp;nbsp; Efficiency - by way of increased productivity &lt;br&gt;ii.&amp;nbsp; &amp;nbsp; &amp;nbsp;Effectiveness - by way of better management &lt;br&gt;iii.&amp;nbsp; &amp;nbsp; Innovation- by way of improved products and services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="4580" width="320" height="280" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-7" value="&amp;nbsp; &amp;nbsp;&amp;nbsp;Refreezing occurs when the new behavior becomes a normal way of life. &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;br&gt;The&amp;nbsp; new&amp;nbsp; behavior&amp;nbsp; must&amp;nbsp; replace&amp;nbsp; the&amp;nbsp; former&amp;nbsp; behavior&amp;nbsp; completely&amp;nbsp; for successful and permanent change to take place. &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;it must be continuously reinforced&amp;nbsp; and&amp;nbsp; policies&amp;nbsp; should&amp;nbsp; be&amp;nbsp; prepared,&amp;nbsp; so&amp;nbsp; that&amp;nbsp; this&amp;nbsp; new&amp;nbsp; acquired behavior does not diminish or extinguish.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-4" vertex="1">
+          <mxGeometry y="40" width="380" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u905G5PJ41BJXGmMC32I-44" target="u905G5PJ41BJXGmMC32I-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-3" value="&lt;span style=&quot;left: 106.399px ; top: 208.887px ; font-size: 20px ; font-family: serif ; transform: scalex(1.21983)&quot; dir=&quot;ltr&quot;&gt;changing&amp;nbsp;&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="610" y="1640" width="120" height="40" as="geometry">
+            <mxRectangle x="1120" y="1760" width="400" height="240" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-44" value="BENCHMARKING" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="4900" width="160" height="40" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-6" value="&lt;b&gt;Compliance&lt;/b&gt;: It is achieved by strictly enforcing the reward and punishment strategy for good or bad behavior. Fear of punishment, actual punishment or actual reward seems to change behavior for the better.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;b&gt;Identification&lt;/b&gt;:&amp;nbsp; Identification&amp;nbsp; occurs&amp;nbsp; when&amp;nbsp; members&amp;nbsp; are&amp;nbsp; psychologically impressed upon to identify themselves with some given role models whose behavior they would like to adopt and try to become like them. &lt;br&gt;&lt;br&gt;&lt;b&gt;Internalization&lt;/b&gt;:&amp;nbsp; Internalization&amp;nbsp; involves&amp;nbsp; some&amp;nbsp; internal&amp;nbsp; changing&amp;nbsp; of&amp;nbsp; the individual&#39;s thought processes in order to adjust to a new environment. They have given freedom to learn and adopt new behavior in order to succeed in the new set of circumstances." style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-3" vertex="1">
+          <mxGeometry y="40" width="400" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="u905G5PJ41BJXGmMC32I-46" value="1.&amp;nbsp; &amp;nbsp; Benchmarking&amp;nbsp; is&amp;nbsp; the&amp;nbsp; process&amp;nbsp; of&amp;nbsp; identifying&amp;nbsp; and&amp;nbsp; learning&amp;nbsp; from&amp;nbsp; the&amp;nbsp; best&amp;nbsp; industry practices and the processes by which they are achieved.&lt;br&gt;&lt;br&gt;2.&amp;nbsp; &amp;nbsp; Benchmarking involves: &lt;br&gt;a.&amp;nbsp; &amp;nbsp; comparing&amp;nbsp; different&amp;nbsp; aspects&amp;nbsp; of&amp;nbsp; the&amp;nbsp; firm&#39;s&amp;nbsp; products,&amp;nbsp; services,&amp;nbsp; activities, processes and other aspects of performance with that of competitors or other leaders in the field and the best prevailing practices, &lt;br&gt;&lt;br&gt;b.&amp;nbsp; &amp;nbsp;Identifying gaps and deficiencies in the firm&#39;s own performance, &lt;br&gt;&lt;br&gt;c.&amp;nbsp; &amp;nbsp; Finding&amp;nbsp; out&amp;nbsp; novel&amp;nbsp; methods&amp;nbsp; to&amp;nbsp; reduce&amp;nbsp; the&amp;nbsp; gaps&amp;nbsp; and&amp;nbsp; also&amp;nbsp; to&amp;nbsp; improve&amp;nbsp; the situations and d.&amp;nbsp; &amp;nbsp;Ensuring that these improved methods are implemented" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="4960" width="400" height="220" as="geometry" />
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-1" value="&lt;span style=&quot;left: 106.397px ; top: 1129.69px ; font-size: 20px ; font-family: serif ; transform: scalex(1.17219)&quot; dir=&quot;ltr&quot;&gt;&amp;nbsp; Unfreezing&amp;nbsp;&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="450" y="1640" width="120" height="40" as="geometry">
+            <mxRectangle x="960" y="1760" width="310" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T8xEqvB-nj8D2XWixDIn-5" value="unfreezing is the process of breaking down the old attitudes and behaviors, customs and traditions so that they start with a clean slate. &lt;br&gt;&lt;br&gt;This&amp;nbsp; can&amp;nbsp; be&amp;nbsp; achieved&amp;nbsp; by&amp;nbsp; making&amp;nbsp; announcements,&amp;nbsp; holding&amp;nbsp; meetings&amp;nbsp; and promoting the ideas throughout the organization.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="T8xEqvB-nj8D2XWixDIn-1" vertex="1">
+          <mxGeometry y="40" width="310" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
