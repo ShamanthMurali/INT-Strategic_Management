@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T15:42:23.268Z" agent="5.0 (X11)" etag="sAc7XulWpRw_uDe8x2xA" version="15.5.2" type="github"><diagram id="j7XMYwBc6ITuC55r1ueF" name="Page-1">3ZrZcqowAIafxsvDQMJ6KVZrrXZs7TbnDjVCWiA0xgp9+oMKbk07npmQi/Sm+GclX9Y/tGAnya9pkEUjMkdxC+jzvAWvWgAYpu2W/zZKsVMcWAkhxfMq0kGY4C9UiXqlrvAcLU8iMkJihrNTcUbSFM3YiRZQStan0RYkPi01C0L0TZjMgvi7+oLnLNqprqUf9D7CYVSXbOhVSBLUkSthGQVzsj6SYLcFO5QQtntK8g6KN41Xt8suXe+H0H3FKErZJQlGa/8uR+Bv0LVQ92ZE39DU/1Pl8hnEq+qFq8qyom6Bst7Z5hEn26byPxFluGygYTBF8ZgsMcMkLcOnhDGSlBHiTYAfzN5DSlbpvENiQrdZwcX27yiPdozDTVpGslINltkO4QLnqKy1vy2yXat6rZTPEWObDtDevC7oYQ0n4Ypqs7J80LNXTr/XsbS3LCxTLEjKJtXb1G9blo7yH5vR2MMpezUiCWK0KKPUCeyK5/rQHaBTZRMddQWrBh9UXTDc53WgVD5UoP4DGlAQGuq+Fnf9UQVNBKd6iBZnOI64mYZUblBBbm332vNDSyA34GnWCTlDNznoLCATnakgumLY9vQP3NyQMyzOXGnWC6QccJaC4EbISJ4fhgLBGfYJOKC7HHCOJxOcrSC4aZ5Pks69OHC2xdmMmK5MTo6CnFIMe4PHpwY4/bIZgbbUFc1VkJs57D7e5LbIiZEHCkoF5SkI6qFNisguRIIyLhhhDmfrAVxb082G2NWVUgreLVgPll8TkftG3pkaSt1uGCo6IbcRzXwgcL9xIPXrQmZKJaeiHeKywfKZRCLJnR/OeKdq6HJmSAgMzWpshlTRFInu6Wo9dsXRAzrkjTModZyp6IHk2HmB6FUkqUtmSGBLJaeiCcJs6rcnAs9oQL9ohnTkolPRBvmYDqzYpU2i4+4ouYub62r7+0Lh9FQ0R6bh5H38EAukxz+rOVLHmYp2SMfprf2XcROkflvc5PqPhor+SNscDaEr8DYUWDq4YHHzLJnogIruyOzJvCqiRZPouNdqkDPqTBtqrtMUPRUdk579FEW3ujh6UNd5U6RUh6QGoxQpf3Q39l9Fntw872xxM3gzpFRXEqjojqC+MwZOKnKMwfOTG88ugVLtEqCiXfKOVubj+5tIdACcf+5jNXmpXf48fHK5DTv6cBV2/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-18T06:49:17.037Z" agent="5.0 (X11)" etag="AeLfsgh3qYLD1jis6Flc" version="15.5.4" type="github">
+  <diagram id="j7XMYwBc6ITuC55r1ueF" name="Page-1">
+    <mxGraphModel dx="499" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/6u7HFC5.jpg;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="160" width="371" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/eEXyNHM.jpg;" parent="1" vertex="1">
+          <mxGeometry x="150" y="520" width="411" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/A8G9Bg5.jpg;" parent="1" vertex="1">
+          <mxGeometry x="129.5" y="1040" width="452" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/yLA90qi.jpg;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1560" width="400" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Me1mVRL.jpg;" parent="1" vertex="1">
+          <mxGeometry x="116" y="2080" width="479" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/bxxSmCQ.jpg;" parent="1" vertex="1">
+          <mxGeometry x="650" width="348" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ni3FJTU.jpg;" parent="1" vertex="1">
+          <mxGeometry x="650" y="520" width="362" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/4LETIx6.jpg;" parent="1" vertex="1">
+          <mxGeometry x="1120" width="332" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/RAoyh6y.jpg;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="520" width="370" height="286.04" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/K2wJszS.jpg;" parent="1" vertex="1">
+          <mxGeometry x="1560" width="339" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/KhrpB2Q.jpg;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="520" width="364" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/8tJsVoh.jpg;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="1040" width="380" height="321.54" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/hQruwP8.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2030" width="363" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/xi7W3eX.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2060" y="520" width="326" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/t6rBASU.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="1040" width="376" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/qbJ5l8r.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="1560" width="380" height="388.21" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/bgSkPRl.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2520" width="377" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/C7FwBWP.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2520" y="520" width="348" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/A4ML38M.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2502" y="1040" width="395" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/cU4Dyhf.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2502" y="1560" width="438" height="463.87" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/F6UhhK0.jpg;" parent="1" vertex="1">
+          <mxGeometry x="3000" width="344" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/BMNPBXX.jpg;" parent="1" vertex="1">
+          <mxGeometry x="2990" y="510" width="399" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/eH7P27n.jpg;" parent="1" vertex="1">
+          <mxGeometry x="3030" y="1030" width="333" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MwBNxe2ZaE5eEIMrjebB-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/keu4Tkj.jpg;" parent="1" vertex="1">
+          <mxGeometry x="3022.5" y="1550" width="348" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-2" value="BAP ki biCEPS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="150" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-3" value="harry Potter says Intense rain is a Threat to RaBBi crops" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-4" value="a &lt;u&gt;leader&lt;/u&gt; doesn&#39;t &lt;u&gt;differentiate&lt;/u&gt; his &lt;u&gt;competitors&lt;/u&gt; but &lt;u&gt;slowly&lt;/u&gt; &lt;u&gt;fixes&lt;/u&gt; their &lt;u&gt;exit&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="350" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-5" value="He gets a &lt;u&gt;competitive advantage&lt;/u&gt; by &lt;u&gt;anticipating competitors&lt;/u&gt; and &lt;u&gt;influencing competition&lt;/u&gt; by &lt;u&gt;meeting&lt;/u&gt; his &lt;u&gt;customers&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="570" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-6" value="&lt;u&gt;RB&lt;/u&gt;I &lt;u&gt;protects&lt;/u&gt; &lt;u&gt;suppliers&lt;/u&gt; for &lt;u&gt;entering&lt;/u&gt; &lt;u&gt;substitutes&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="745" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-7" value="&lt;u&gt;Technology&lt;/u&gt; is not &lt;u&gt;possible if there is high sales&lt;/u&gt;, which will be very &lt;u&gt;expensive&lt;/u&gt;. it is not &lt;u&gt;easy&lt;/u&gt; as the &lt;u&gt;market will not be friendly&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="850" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
