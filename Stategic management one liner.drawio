@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T06:49:17.037Z" agent="5.0 (X11)" etag="AeLfsgh3qYLD1jis6Flc" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T13:35:12.955Z" agent="5.0 (X11)" etag="0Ft0U7aG5cAkMnLfoKG9" version="15.6.1" type="github">
   <diagram id="j7XMYwBc6ITuC55r1ueF" name="Page-1">
-    <mxGraphModel dx="499" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,22 +76,22 @@
         <mxCell id="MwBNxe2ZaE5eEIMrjebB-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/keu4Tkj.jpg;" parent="1" vertex="1">
           <mxGeometry x="3022.5" y="1550" width="348" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="rLPvU5QVDg2SnjH61hx6-2" value="BAP ki biCEPS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.25;" vertex="1" parent="1">
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-2" value="BAP ki biCEPS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="1670" y="150" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLPvU5QVDg2SnjH61hx6-3" value="harry Potter says Intense rain is a Threat to RaBBi crops" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-3" value="harry Potter says Intense rain is a Threat to RaBBi crops" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="1520" y="110" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rLPvU5QVDg2SnjH61hx6-4" value="a &lt;u&gt;leader&lt;/u&gt; doesn&#39;t &lt;u&gt;differentiate&lt;/u&gt; his &lt;u&gt;competitors&lt;/u&gt; but &lt;u&gt;slowly&lt;/u&gt; &lt;u&gt;fixes&lt;/u&gt; their &lt;u&gt;exit&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" vertex="1" parent="1">
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-4" value="a &lt;u&gt;leader&lt;/u&gt; doesn&#39;t &lt;u&gt;differentiate&lt;/u&gt; his &lt;u&gt;competitors&lt;/u&gt; but &lt;u&gt;slowly&lt;/u&gt; &lt;u&gt;fixes&lt;/u&gt; their &lt;u&gt;exit&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" parent="1" vertex="1">
           <mxGeometry x="1540" y="350" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rLPvU5QVDg2SnjH61hx6-5" value="He gets a &lt;u&gt;competitive advantage&lt;/u&gt; by &lt;u&gt;anticipating competitors&lt;/u&gt; and &lt;u&gt;influencing competition&lt;/u&gt; by &lt;u&gt;meeting&lt;/u&gt; his &lt;u&gt;customers&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-5" value="He gets a &lt;u&gt;competitive advantage&lt;/u&gt; by &lt;u&gt;anticipating competitors&lt;/u&gt; and &lt;u&gt;influencing competition&lt;/u&gt; by &lt;u&gt;meeting&lt;/u&gt; his &lt;u&gt;customers&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="1540" y="570" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rLPvU5QVDg2SnjH61hx6-6" value="&lt;u&gt;RB&lt;/u&gt;I &lt;u&gt;protects&lt;/u&gt; &lt;u&gt;suppliers&lt;/u&gt; for &lt;u&gt;entering&lt;/u&gt; &lt;u&gt;substitutes&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-6" value="&lt;u&gt;RB&lt;/u&gt;I &lt;u&gt;protects&lt;/u&gt; &lt;u&gt;suppliers&lt;/u&gt; from &lt;u&gt;entering&lt;/u&gt; &lt;u&gt;substitutes&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="1550" y="745" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rLPvU5QVDg2SnjH61hx6-7" value="&lt;u&gt;Technology&lt;/u&gt; is not &lt;u&gt;possible if there is high sales&lt;/u&gt;, which will be very &lt;u&gt;expensive&lt;/u&gt;. it is not &lt;u&gt;easy&lt;/u&gt; as the &lt;u&gt;market will not be friendly&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+        <mxCell id="rLPvU5QVDg2SnjH61hx6-7" value="&lt;u&gt;Technology&lt;/u&gt; is not &lt;u&gt;possible if there is high sales&lt;/u&gt;, which will be very &lt;u&gt;expensive&lt;/u&gt;. it is not &lt;u&gt;easy&lt;/u&gt; as the &lt;u&gt;market will not be friendly&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="1510" y="850" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
