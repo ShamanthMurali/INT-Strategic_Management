@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T08:09:22.497Z" agent="5.0 (X11)" etag="bNMNRvxlkOx1xsmBn0Fh" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T08:47:25.169Z" agent="5.0 (X11)" etag="jCSWi47cxCs-e7W5qfPY" version="15.7.3" type="github">
   <diagram id="j7XMYwBc6ITuC55r1ueF" name="Page-1">
-    <mxGraphModel dx="600" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="508" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,12 @@
         </mxCell>
         <mxCell id="12GZfQRTcd2lBIFm0Cih-6" value="MIDS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1150.0000000000002" y="219.99999999999977" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-7" value="If you want to &lt;u&gt;improve&lt;/u&gt; &lt;u&gt;competitiveness&lt;/u&gt; try &lt;u&gt;reduced cost&lt;/u&gt; which gives &lt;u&gt;smooth&lt;/u&gt; &lt;u&gt;customer&lt;/u&gt; relations. " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="1150" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-8" value="&lt;u&gt;design&lt;/u&gt; a proper &lt;u&gt;firm&lt;/u&gt; &lt;u&gt;size&lt;/u&gt; if you see &lt;u&gt;growth&lt;/u&gt; great. but if you see &lt;u&gt;symptoms&lt;/u&gt; then there is a &lt;u&gt;need for change&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="100" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
