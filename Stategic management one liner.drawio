@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T03:28:44.008Z" agent="5.0 (Windows)" etag="rz2np6MW_2zbfB914_dT" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T03:48:29.071Z" agent="5.0 (Windows)" etag="7E63tZee6i59VQ3b1y65" version="15.8.3" type="github">
   <diagram id="j7XMYwBc6ITuC55r1ueF" name="Page-1">
-    <mxGraphModel dx="1573" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1904" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,10 +35,10 @@
           <mxGeometry x="1560" width="339" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MwBNxe2ZaE5eEIMrjebB-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/KhrpB2Q.jpg;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="520" width="364" height="520" as="geometry" />
+          <mxGeometry x="1560" y="890" width="364" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MwBNxe2ZaE5eEIMrjebB-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/8tJsVoh.jpg;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="1040" width="380" height="321.54" as="geometry" />
+          <mxGeometry x="1550" y="1410" width="380" height="321.54" as="geometry" />
         </mxCell>
         <mxCell id="MwBNxe2ZaE5eEIMrjebB-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/hQruwP8.jpg;" parent="1" vertex="1">
           <mxGeometry x="2030" width="363" height="520" as="geometry" />
@@ -86,13 +86,13 @@
           <mxGeometry x="1540" y="350" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rLPvU5QVDg2SnjH61hx6-5" value="He gets a &lt;u&gt;competitive advantage&lt;/u&gt; by &lt;u&gt;anticipating competitors&lt;/u&gt; and &lt;u&gt;influencing competition&lt;/u&gt; by &lt;u&gt;meeting&lt;/u&gt; &lt;u&gt;customer&lt;/u&gt; needs " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="560" width="150" height="90" as="geometry" />
+          <mxGeometry x="1520" y="930" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rLPvU5QVDg2SnjH61hx6-6" value="&lt;u&gt;RB&lt;/u&gt;I &lt;u&gt;protects&lt;/u&gt; &lt;u&gt;suppliers&lt;/u&gt; from &lt;u&gt;entering&lt;/u&gt; &lt;u&gt;substitutes&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="745" width="150" height="50" as="geometry" />
+          <mxGeometry x="1550" y="1115" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rLPvU5QVDg2SnjH61hx6-7" value="&lt;u&gt;Technology&lt;/u&gt; is only &lt;u&gt;possible if there is high sales&lt;/u&gt;, which will be very &lt;u&gt;expensive&lt;/u&gt;. it is not &lt;u&gt;easy&lt;/u&gt; as the &lt;u&gt;market will not be friendly&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="850" width="190" height="80" as="geometry" />
+          <mxGeometry x="1510" y="1220" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="12GZfQRTcd2lBIFm0Cih-1" value="&lt;div&gt;we wanted a &lt;u&gt;driver&lt;/u&gt; for transportation who has good &lt;u&gt;strength&lt;/u&gt;. so i told my manager to &lt;u&gt;pay attention&lt;/u&gt; to new driver and look out for &lt;u&gt;key success factors&lt;/u&gt; i.e &lt;u&gt;strongest and weakest&lt;/u&gt;. and tell then we will give a &lt;u&gt;financial attractive&lt;/u&gt; salary&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.15384615384615385;" parent="1" vertex="1">
           <mxGeometry x="20" y="370" width="200" height="130" as="geometry" />
@@ -276,6 +276,9 @@
         </mxCell>
         <mxCell id="c6inpc5KiyZHfQqqr6w0-63" value="[RN21]" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="1290" y="120.14999999999998" width="45" height="19.85" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-64" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;various basis of differentiation strategy&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;u&gt;&lt;b&gt;Product&lt;/b&gt;&lt;/u&gt;: Innovative products that&amp;nbsp; meet&amp;nbsp; customer&amp;nbsp; needs&amp;nbsp; can&amp;nbsp; be&amp;nbsp; an area where a company&amp;nbsp; has&amp;nbsp; an&amp;nbsp; advantage&amp;nbsp; over&amp;nbsp; competitors.&amp;nbsp; However,&amp;nbsp; the&amp;nbsp; pursuit&amp;nbsp; of&amp;nbsp; a&amp;nbsp; new&amp;nbsp; product offering can be costly&amp;nbsp; – research and development, as well as productio n and marketing costs can all add to the cost of production and distribution. The payoff, however, can be great as customer’s flock to be among the first to have the new product. &amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Pricing&lt;/b&gt;&lt;/u&gt;: It fluctuates based on its supply and demand and may also be influenced by the customer’s ideal value for a product. Companies that differentiate based on product price can either&amp;nbsp; determine to offer the lowest&amp;nbsp; price or can attempt to establish superiority through higher prices. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Organization&lt;/b&gt;&lt;/u&gt;: Organizational differentiation is yet another form of differentiation. Maximizing the power of a brand or using the specific advantages that an organization possesses can be instrumental to a company’s success. Location advantage, name recognition and customer loyalty can all provide additional ways for a company differentiate itself from the competition. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="521.54" width="340" height="368.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
