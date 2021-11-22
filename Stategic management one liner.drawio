@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T12:28:07.457Z" agent="5.0 (Windows)" etag="LZ2n-7o_D_lgm-la_6CP" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T12:30:38.270Z" agent="5.0 (Windows)" etag="yJj6sYTIWCBkAIZNVZ_E" version="15.8.3" type="github">
   <diagram id="j7XMYwBc6ITuC55r1ueF" name="Page-1">
     <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -298,8 +298,14 @@
         <mxCell id="7ZVSEZ95wWnl0yRG4lEF-1" value="[RM21]" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="1590" width="45" height="19.85" as="geometry" />
         </mxCell>
-        <mxCell id="7ZVSEZ95wWnl0yRG4lEF-2" value="&lt;u&gt;&lt;b&gt;key areas in which the strategic planner should concentrate &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;long-term objectives in seven areas as follows: &lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;br&gt;•&amp;nbsp; Profitability. &lt;br&gt;•&amp;nbsp; Productivity. &lt;br&gt;•&amp;nbsp; Competitive Position. &lt;br&gt;•&amp;nbsp; Employee Development. &lt;br&gt;•&amp;nbsp; Employee Relations. &lt;br&gt;•&amp;nbsp; Technological Leadership. &lt;br&gt;•&amp;nbsp; Public Responsibility." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1370" width="360" height="160" as="geometry" />
+        <mxCell id="7ZVSEZ95wWnl0yRG4lEF-2" value="&lt;u&gt;&lt;b&gt;key areas in which the strategic planner should concentrate &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;long-term objectives in seven areas as follows: &lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;[RM21]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;•&amp;nbsp; Profitability. &lt;br&gt;•&amp;nbsp; Productivity. &lt;br&gt;•&amp;nbsp; Competitive Position. &lt;br&gt;•&amp;nbsp; Employee Development. &lt;br&gt;•&amp;nbsp; Employee Relations. &lt;br&gt;•&amp;nbsp; Technological Leadership. &lt;br&gt;•&amp;nbsp; Public Responsibility." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1370" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZVSEZ95wWnl0yRG4lEF-4" value="[RM21]" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="750" y="790" width="45" height="19.85" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZVSEZ95wWnl0yRG4lEF-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;PractQ can come from here&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="160.15" width="70" height="49.85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
