@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T11:37:30.300Z" agent="5.0 (X11)" etag="PaRIwtSFcwuuV_42yw99" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T03:12:58.227Z" agent="5.0 (Windows)" etag="IH4b0FKfUWtU57hvwGUb" version="15.8.3" type="github">
   <diagram id="j7XMYwBc6ITuC55r1ueF" name="Page-1">
-    <mxGraphModel dx="5076" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1573" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,29 +94,173 @@
         <mxCell id="rLPvU5QVDg2SnjH61hx6-7" value="&lt;u&gt;Technology&lt;/u&gt; is only &lt;u&gt;possible if there is high sales&lt;/u&gt;, which will be very &lt;u&gt;expensive&lt;/u&gt;. it is not &lt;u&gt;easy&lt;/u&gt; as the &lt;u&gt;market will not be friendly&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="1510" y="850" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-1" value="&lt;div&gt;we wanted a &lt;u&gt;driver&lt;/u&gt; for transportation who has good &lt;u&gt;strength&lt;/u&gt;. so i told my manager to &lt;u&gt;pay attention&lt;/u&gt; to new driver and look out for &lt;u&gt;key success factors&lt;/u&gt; i.e &lt;u&gt;strongest and weakest&lt;/u&gt;. and tell then we will give a &lt;u&gt;financial attractive&lt;/u&gt; salary&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.15384615384615385;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-1" value="&lt;div&gt;we wanted a &lt;u&gt;driver&lt;/u&gt; for transportation who has good &lt;u&gt;strength&lt;/u&gt;. so i told my manager to &lt;u&gt;pay attention&lt;/u&gt; to new driver and look out for &lt;u&gt;key success factors&lt;/u&gt; i.e &lt;u&gt;strongest and weakest&lt;/u&gt;. and tell then we will give a &lt;u&gt;financial attractive&lt;/u&gt; salary&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.15384615384615385;" parent="1" vertex="1">
           <mxGeometry x="20" y="370" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-2" value="AuDIT" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-2" value="AuDIT" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="1100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-3" value="EPS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-3" value="EPS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="170.00000000000023" y="1339.9999999999998" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-4" value="&lt;div&gt;Scanning&lt;/div&gt;&lt;div&gt;analysis&lt;/div&gt;&lt;div&gt;formulation&lt;/div&gt;&lt;div&gt;implementation&lt;/div&gt;&lt;div&gt;control&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-4" value="&lt;div&gt;Scanning&lt;/div&gt;&lt;div&gt;analysis&lt;/div&gt;&lt;div&gt;formulation&lt;/div&gt;&lt;div&gt;implementation&lt;/div&gt;&lt;div&gt;control&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1;" parent="1" vertex="1">
           <mxGeometry x="630" y="1020" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-5" value="SAFIX" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-5" value="SAFIX" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="690.0000000000002" y="959.9999999999998" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-6" value="MIDS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-6" value="MIDS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1150.0000000000002" y="219.99999999999977" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-7" value="If you want to &lt;u&gt;improve&lt;/u&gt; &lt;u&gt;competitiveness&lt;/u&gt; try &lt;u&gt;reduced cost&lt;/u&gt; which gives &lt;u&gt;smooth&lt;/u&gt; &lt;u&gt;customer&lt;/u&gt; relations. " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-7" value="If you want to &lt;u&gt;improve&lt;/u&gt; &lt;u&gt;competitiveness&lt;/u&gt; try &lt;u&gt;reduced cost&lt;/u&gt; which gives &lt;u&gt;smooth&lt;/u&gt; &lt;u&gt;customer&lt;/u&gt; relations. " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1150" width="165" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="12GZfQRTcd2lBIFm0Cih-8" value="&lt;u&gt;design&lt;/u&gt; a proper &lt;u&gt;firm&lt;/u&gt; &lt;u&gt;size&lt;/u&gt; if you see &lt;u&gt;growth&lt;/u&gt; great. but if you see &lt;u&gt;symptoms&lt;/u&gt; then there is a &lt;u&gt;need for change&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+        <mxCell id="12GZfQRTcd2lBIFm0Cih-8" value="&lt;u&gt;design&lt;/u&gt; a proper &lt;u&gt;firm&lt;/u&gt; &lt;u&gt;size&lt;/u&gt; if you see &lt;u&gt;growth&lt;/u&gt; great. but if you see &lt;u&gt;symptoms&lt;/u&gt; then there is a &lt;u&gt;need for change&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="2450" y="100" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-8" value="&lt;div&gt;STRATEGIC&lt;/div&gt;&lt;div&gt;MANAGEMENT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-10" target="c6inpc5KiyZHfQqqr6w0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-10" value="&lt;div&gt;&lt;span&gt;Concept of Strategy&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-13" target="c6inpc5KiyZHfQqqr6w0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-13" target="c6inpc5KiyZHfQqqr6w0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-13" value="&lt;div&gt;&lt;span&gt;Strategic Management&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-363" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-14" value="&lt;div&gt;&lt;span&gt;Strategic Levels in&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Organisations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-15" value="&lt;div&gt;&lt;span&gt;Strategic Management in&amp;nbsp;&lt;/span&gt;&lt;span&gt;Government and Not-for-&amp;nbsp;&lt;/span&gt;&lt;span&gt;profit Organisations&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1440" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-17" target="c6inpc5KiyZHfQqqr6w0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-17" value="Concept of Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-19" target="c6inpc5KiyZHfQqqr6w0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-19" value="Business Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="55" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-21" target="c6inpc5KiyZHfQqqr6w0-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-21" value="&lt;div&gt;&lt;span&gt;Importance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-505" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-23" target="c6inpc5KiyZHfQqqr6w0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-23" value="&lt;div&gt;limitaitons&lt;/div&gt;&lt;div&gt;[RN21]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-25" target="c6inpc5KiyZHfQqqr6w0-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-25" value="&lt;div&gt;Funtional level&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-26" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-28" target="c6inpc5KiyZHfQqqr6w0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-28" target="c6inpc5KiyZHfQqqr6w0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-28" value="Business level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-29" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-31" target="c6inpc5KiyZHfQqqr6w0-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-31" target="c6inpc5KiyZHfQqqr6w0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-31" value="corporate level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-32" value="Business policies are the guidelines developed by an organization to govern its actions. They define the limits within which decisions must be made." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="115" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-33" value="the process of achieving organizational goals through planning, organizing, leading, and controlling the human, physical, financial, and information resources of the organization in an effective and efficient manner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="240" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-35" target="c6inpc5KiyZHfQqqr6w0-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-35" value="a plan of action designed to achieve a long-term or overall aim." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="400" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-38" target="c6inpc5KiyZHfQqqr6w0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-38" target="c6inpc5KiyZHfQqqr6w0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-38" value="&lt;b&gt;&lt;u&gt;Strategy is&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-40" target="c6inpc5KiyZHfQqqr6w0-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-40" value="reactive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-42" target="c6inpc5KiyZHfQqqr6w0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-42" value="proactive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-43" value="&lt;div&gt;Proactive actions on the part of managers to improve the company’s market&amp;nbsp;&lt;span&gt;position and financial performance.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="580" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-44" value="adaptive reaction to changing circumstances." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-45" value="1. Defines the goals and mission.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Helps the organization to develop certain core competencies and competitive advantages&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Helps organizations to be proactive instead of reactive in shaping its future.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Provides framework for all major decisions of an enterprise.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Prepares the organisation to face the future.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Serves as a corporate defense mechanism against mistakes and pitfalls.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Enhance the longevity of the business.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="780" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-46" value="1. Environment is highly complex and turbulent. It is&lt;br&gt;difficult to understand the complex environment and&lt;br&gt;&lt;div&gt;exactly pinpoint how it will shape-up in future.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Strategic management is a time-consuming process.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Strategic management is a costly process. It add lot of expenses to an organization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.Competition is unpredictable. It is difficult to clearly estimate the competitive responses to a firm’s strategies.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="780" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-48" target="c6inpc5KiyZHfQqqr6w0-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-48" value="Decisions for the company as a&lt;br&gt;whole, affecting each business." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1200" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-50" target="c6inpc5KiyZHfQqqr6w0-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-50" value="Decisions based on Corporate&lt;br&gt;Manager’s decisions for their&lt;br&gt;respective business, the ones the lead." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c6inpc5KiyZHfQqqr6w0-52" target="c6inpc5KiyZHfQqqr6w0-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-52" value="Decisions for the Function they lead, like Finance, Marketing, HR, Purchase, etc. and actually turn the decisions of above two into&lt;br&gt;actions." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1345" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-53" value="Chief Executive Officer (CEO),&lt;br&gt;other senior executives, the board of directors, and corporate staff." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1200" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-54" value="General Managers in each division" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1280" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6inpc5KiyZHfQqqr6w0-55" value="(human resources, purchasing, product development, customer service, and so on)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1360" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
